@@ -19,8 +19,7 @@ df['Last_Update'] = pd.to_datetime(df['Last_Update']).dt.strftime('%m/%d/%Y %I:%
 df = df.sort_values(by=['Confirmed', 'Deaths'], ascending=False)
 
 df['DeathRate'] = round(100 * (df['Deaths'] / df['Confirmed']), 2)
-# df2['DeathRate'] = str(df2['DeathRate'])
-df['EstimatedCases'] = 8 * df['Confirmed']
+df['EstimatedCases'] = 7 * df['Confirmed']
 df['ActualLethality'] = round(100 * (df['Deaths'] / df['EstimatedCases']), 2)
 
 df = df[['Last_Update', 'Combined_Key', 'Confirmed', 'Deaths', 'DeathRate', 'EstimatedCases', 'ActualLethality']]
@@ -29,10 +28,8 @@ df.columns = ['Updated', 'City, State, Country', 'Confirmed', 'Deaths', '% Letha
 
 print(df.to_string(index=False))
 
-# df2 = df
+# Print summary at bottom
 df2 = df.sum(axis=0)
-# df2 = df2.loc['Confirmed', 'Deaths', 'DeathRate', 'EstimatedCases', 'ActualLethality']
-# df2 = df2[['Confirmed', 'Deaths', 'DeathRate']]
 df2['% Lethality'] = df2['% Lethality'] / len(df)
 df2['% Estimated Lethality'] = df2['% Estimated Lethality'] / len(df)
 
