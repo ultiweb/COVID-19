@@ -35,4 +35,5 @@ df2 = df.sum(axis=0)
 # df2 = df2[['Confirmed', 'Deaths', 'DeathRate']]
 df2['% Lethality'] = df2['% Lethality'] / len(df)
 df2['% Estimated Lethality'] = df2['% Estimated Lethality'] / len(df)
-print(df2.to_string(index=True))
+
+print(df2.iloc[2:].to_string(index=True))
