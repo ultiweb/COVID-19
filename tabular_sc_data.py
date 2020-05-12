@@ -19,18 +19,23 @@ df['Last_Update'] = pd.to_datetime(df['Last_Update']).dt.strftime('%m/%d/%Y %I:%
 df = df.sort_values(by=['Confirmed', 'Deaths'], ascending=False)
 
 df['DeathRate'] = round(100 * (df['Deaths'] / df['Confirmed']), 2)
-df['EstimatedCases'] = 7 * df['Confirmed']
+df['EstimatedCases'] = round(7.1428 * df['Confirmed'], 0)
 df['ActualLethality'] = round(100 * (df['Deaths'] / df['EstimatedCases']), 2)
 
 df = df[['Last_Update', 'Combined_Key', 'Confirmed', 'Deaths', 'DeathRate', 'EstimatedCases', 'ActualLethality']]
 
 df.columns = ['Updated', 'City, State, Country', 'Confirmed', 'Deaths', '% Lethality', 'Estimated', '% Estimated Lethality']
 
+# display estimated values floats as ints
+cols = ['Estimated']
+df[cols] = df[cols].applymap(np.int64)
 print(df.to_string(index=False))
+# Below reformats floats as ints although they remain as float values in the DataFrame
+# pd.options.display.float_format = '{:,.0f}'.format
 
 # Print summary at bottom
 df2 = df.sum(axis=0)
-df2['% Lethality'] = df2['% Lethality'] / len(df)
-df2['% Estimated Lethality'] = df2['% Estimated Lethality'] / len(df)
+df2['% Lethality'] = round(df2['% Lethality'] / len(df), 2)
+df2['% Estimated Lethality'] = round((df2['% Estimated Lethality'] / len(df)), 2)
 
 print(df2.iloc[2:].to_string(index=True))
