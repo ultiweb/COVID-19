@@ -333,6 +333,7 @@ Date: Location | Change | Reason/Other notes | Source
 * May 13, 2021: Alabama, US | Inclusion of 306 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
 * May 14, 2021: Alabama, US | Inclusion of 4,877 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
 * May 15, 2021: Alabama, US | Inclusion of 1,235 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
+* May 17, 2021: Alaska, US | 10 of 11 daily deaths identified through death certificate review | [Source](https://alaska-native-news.com/covid-19-daily-summary-may-17-2021/55811/)
 * May 18, 2021: United Kingdom | Reduction of 4,776 false positive lateral flow tests | [Source](https://coronavirus.data.gov.uk/details/whats-new) (Note for May 18)
 * May 18, 2021: Missouri, US | Weekly death certificate review resulted in a large spike in deaths, particularly in rural counties | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4099)
 * May 19, 2021: New Castle County, Delaware, US | Large spike in cases due to reporting delays with multiple laboratories | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4121)
@@ -343,6 +344,8 @@ Date: Location | Change | Reason/Other notes | Source
 * May 26, 2021: Oklahoma, US | An unspecified number of backlogged deaths have resulted in 373 deaths reported | [Source](https://oklahoma.gov/covid19/newsroom/2021/may/situation-update--covid-19-05-26-2021.html)
 * May 27, 2021: Los Angeles, California, US | Addition of 3,857 backlogged cases | See [discourse](https://github.com/CSSEGISandData/COVID-19/issues/4147) including a statement from the LA Times
 * May 27, 2021: Maryland, US | Addition of 538 previously unpublished COVID-19 deaths | [Source](https://southernmarylandchronicle.com/2021/05/27/maryland-department-of-health-vital-statistics-administration-issues-revision-of-covid-19-death-data/)
+* June 1, 2021: Kentucky, US | Addition of 260 backlogged deaths identified from a death certificate audit | [Source](https://www.kentucky.com/news/coronavirus/article251818393.html)
+* June 3, 2021: Indiana, US | Addition of 765 backlogged cases | [Source](https://www.wthr.com/article/news/health/coronavirus/coronavirus-numbers/indiana-coronavirus-updates-for-thursday-june-3-2021/531-a05e1e2f-019d-42e7-8a54-fb923fe14383)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -372,6 +375,7 @@ Date: Location | File | Change | Data source for change
 * February 19, 2021: New Hampshire, US | Redsitribution of recently identified historical cases from November to January to unassigned category. From November 1, state total reported from Department of Health was compared to time_series_covid19_deaths_us.csv and the difference was distributed to Unassigned, New Hampshire | [Data source](https://www.nh.gov/covid19/dashboard/trends.htm#dash)
 * March 24, 2021: Indiana, US | The deaths back distributed on February 9 have been distributed to their respective counties and removed from the unassigned category. Our appreciation to the Indiana Department of Health for their help with this issue.
 * April 2, 2021: Alaska, US | In response to the state's separation of Valdez-Cordova, AK into Copper River, AK and Chugach, AK, we have recreated the time series including these two locations using the official data from the Alaska dashboard | [Source](https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/app/6a5932d709ef4ab1b868188a4c757b4f)
+* June 2, 2021: Pennsylvania, US | Deaths for Chester county, PA were determined to be greater at the state level of reporting than the direct reporting from Chester county. The data has been redistributed based on the state level histroical deaths and moving forward Chester county data will be collected from the maximum value between the state and county source. | [State Source](https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx) | [County Source](https://chesco.maps.arcgis.com/apps/opsdashboard/index.html#/975082d579454c3ca7877db0a44e61ca
 
 
 ## Irregular Update Schedules
@@ -382,14 +386,15 @@ United States
 * Alaska: Providing data Monday-Friday, excluding holidays.
 * Conneticut: Providing data Monday-Friday.
 * District of Columbia: Providing data Monday-Friday.
-* Florida: Did not update on weekend for October 10-11.
+* Florida: Providing data once per week (Fridays).
 * Guam: Providing data Monday-Friday.
 * Idaho: Providing data Monday-Friday.
-* Kansas: Provifing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
+* Kansas: Providing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
 * Louisiana: Providing data Monday-Friday.
+* Montana: Providing data Monday-Friday.
 * Michigan: Providing data Monday-Saturday. No case data provided for August 21.
 * Mississippi: Providing data Monday-Friday.
-* Nebraska: Providing data Monday-Friday.
+* Nebraska: Providing data Monday-Friday. No county-level data available at this time.
 * Nevada: Providing data Monday-Friday.
 * New Mexico: Providing data Monday-Friday.
 * North Carolina: Providing data Monday-Friday.
@@ -398,8 +403,10 @@ United States
 * Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
 * South Dakota: Providing data Monday-Friday.
 * Tennessee: Providing data Monday-Friday.
+* Vermont: Providing data Monday-Friday.
 * Washington: Did not update October 10-12 due to data entry issue. As of December 20, only updating Monday-Saturday.
 * West Virginia: Providing data Monday-Friday.
+* Wisconsin: Providing data Monday-Friday.
 * Wyoming: Providing data Monday-Friday.
 
 
