@@ -393,13 +393,14 @@ As the pandemic has progressed, several locations have altered their reporting s
 United States
 * Alabama: Providing data Monday, Wednesday, and Friday
 * Alaska: Providing data Monday, Wednesday, and Friday, excluding holidays.
+* Arkansas: Providing data Monday-Friday.
 * Conneticut: Providing data Monday-Friday.
 * District of Columbia: Providing data Monday-Friday.
 * Florida: Providing data once per week (Fridays).
 * Guam: Providing data Monday-Friday.
 * Idaho: Providing data Monday-Friday.
 * Illinois: Providing data Monday-Friday.
-* Indiana: Providing data Monday-Saturday.
+* Indiana: Providing data Monday-Friday.
 * Kansas: Providing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
 * Kentucky: Providing data Monday-Friday.
 * Louisiana: Providing data Monday-Friday.
@@ -425,6 +426,7 @@ United States
 
 
 International
+* Belgium: Providing data Tuesday-Saturday.
 * Bosnia and Herezegovina: Not updating data on the weekends.
 * Costa Rica: Updating data on Wednesdays and Saturdays only.
 * Denmark: Not updating case, death, or recovered data on the weekends.
