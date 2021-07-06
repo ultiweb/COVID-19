@@ -230,6 +230,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * June 28, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * June 28, 2021 | Illinois, US | Adjust Illinois case count to properly match their historical records for state level data. | [Data Source](https://www.dph.illinois.gov/covid19/data-portal)
 * July 01, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* July 05, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -398,6 +399,7 @@ United States
 * Alabama: Providing data Monday, Wednesday, and Friday
 * Alaska: Providing data Monday, Wednesday, and Friday, excluding holidays.
 * Arkansas: Providing data Monday-Friday.
+* California: Providing data Monday-Friday.
 * Conneticut: Providing data Monday-Friday.
 * District of Columbia: Providing data Monday-Friday.
 * Florida: Providing data once per week (Fridays).
@@ -413,7 +415,7 @@ United States
 * Montana: Providing data Monday-Friday.
 * Michigan: Providing data Monday-Friday. No case data provided for August 21.
 * Mississippi: Providing data Monday-Friday.
-* Nebraska: Providing data Monday-Friday. No county-level data available at this time.
+* Nebraska: **Retired dashboard. We are looking for a solution**
 * Nevada: Providing data Monday-Friday.
 * New Hampshire: Providing data Monday-Friday.
 * New Mexico: Providing data Monday-Friday.
@@ -422,8 +424,9 @@ United States
 * Oklahoma: Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.
 * Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
 * South Carlina: Providing data Monday-Friday.
-* South Dakota: Providing data Monday-Friday.
+* South Dakota: Providing data Wednesdays only.
 * Tennessee: Providing data Monday-Friday.
+* Utah: Providing data Monday-Friday.
 * Vermont: Providing data Monday-Friday.
 * Washington: Did not update October 10-12 due to data entry issue. As of December 20, only updating Monday-Saturday.
 * West Virginia: Providing data Monday-Friday.
@@ -438,6 +441,7 @@ International
 * Costa Rica: Updating data on Wednesdays and Saturdays only.
 * Denmark: Not updating case, death, or recovered data on the weekends.
 * France: No longer releasing case, hospitalization, or death data on the weekends. Please see [Tableau dashboard](https://dashboard.covid19.data.gouv.fr/vue-d-ensemble?location=FRA). No update to deaths or recoveries for the weekend of August 8 and 9.
+* Ireland: Providing death data once weekly.
 * Luxembourg: Not providing actionable data on weekends.
 * Mexico: Beginning November 10, recoveries are available at the national level only and will be grouped in the "Unassigned, Mexico" entry.
 * Nicaragua: Releasing case, death, and recovered data once per week.
