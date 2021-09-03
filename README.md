@@ -299,6 +299,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
   - South Africa:
     - South Africa Department of Health: https://sacoronavirus.co.za/
+  - South Korea:
+    - Ministry of Health and Welfare: http://ncov.mohw.go.kr/
   - Spain:
     - RTVE: https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
   - Sweden:
