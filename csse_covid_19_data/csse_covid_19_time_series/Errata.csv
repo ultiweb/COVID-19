@@ -25932,3 +25932,13 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 09/03/2021,time_series_covid19_deaths_global.csv,France,08/31/2021,124100,112824,Correct France deaths data
 09/03/2021,time_series_covid19_deaths_global.csv,France,09/01/2021,124184,112905,Correct France deaths data
 09/03/2021,time_series_covid19_deaths_global.csv,France,09/02/2021,112965,113014,Correct France deaths data
+09/07/2021,time_series_covid19_confirmed_global.csv,Turkey,09/02/2021,6412247,6435743,Correct Turkey confirmed data
+09/07/2021,time_series_covid19_confirmed_global.csv,Turkey,09/03/2021,6412247,6458600,Correct Turkey confirmed data
+09/07/2021,time_series_covid19_confirmed_global.csv,Turkey,09/04/2021,6412247,6478633,Correct Turkey confirmed data
+09/07/2021,time_series_covid19_confirmed_global.csv,Turkey,09/05/2021,6412247,6498024,Correct Turkey confirmed data
+09/07/2021,time_series_covid19_confirmed_global.csv,Turkey,09/06/2021,6412247,6518986,Correct Turkey confirmed data
+09/07/2021,time_series_covid19_deaths_global.csv,Turkey,09/02/2021,57000,57283,Correct Turkey deaths data
+09/07/2021,time_series_covid19_deaths_global.csv,Turkey,09/03/2021,57000,57559,Correct Turkey deaths data
+09/07/2021,time_series_covid19_deaths_global.csv,Turkey,09/04/2021,57000,57837,Correct Turkey deaths data
+09/07/2021,time_series_covid19_deaths_global.csv,Turkey,09/05/2021,57000,58106,Correct Turkey deaths data
+09/07/2021,time_series_covid19_deaths_global.csv,Turkey,09/06/2021,57000,58377,Correct Turkey deaths data
