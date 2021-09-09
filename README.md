@@ -314,7 +314,9 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Ministry of Public Health, Department of Disease Control Dashboard: https://ddc.moph.go.th/viralpneumonia/eng/index.php
     - Ministry of Public Health, Department of Disease Control Situational Reports: https://covid19.ddc.moph.go.th/en
   - Turkey: 
-    - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
+    - Republic of Turkey Ministry of Health (English): https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
+    - Republic of Turkey Ministry of Health (Turkey): https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html
+    - Digital Transformation Office of The Presidency of The Republic of Turkey: https://corona.cbddo.gov.tr/Home/GetLastDayDifference
   - Ukraine: 
     - Office of the National Security and Defense Council of Ukraine: https://covid19.rnbo.gov.ua/
   - United Arab Emirates:
