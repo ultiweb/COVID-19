@@ -220,6 +220,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - OpenCOVID19: https://github.com/opencovid19-fr
   - Germany:
     - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
+  - Greece:
+    - National Public Health Organization: https://eody.gov.gr/epidimiologika-statistika-dedomena/ektheseis-covid-19/
   - Guatemala:
     - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
   - Honduras:
