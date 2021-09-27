@@ -245,6 +245,9 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * September 13, 2021 | Florida, US | Use historic CDC data to distribute Florida's state level data | [Data Source](https://covid.cdc.gov/covid-data-tracker/)
 * September 13, 2021 | Iowa, US | Use historic CDC data to distribute Iowa's state level data | [Data Source](https://covid.cdc.gov/covid-data-tracker/)
 * September 16, 2021 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* September 19, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* September 26, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* September 26, 2021 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -437,7 +440,7 @@ United States
 * Mississippi: Providing data Monday-Friday.
 * Michigan: Providing data Mondays, Wednesdays, and Fridays (as of 08/09/2021). ~~Providing data Tuesdays and Fridays (as of 07/07/2021)~~. No case data provided for August 21.
 * Montana: Providing data Monday-Friday.
-* Nebraska: Providing data Wednedays only (as of 8/11/2021)
+* Nebraska: Providing data Monday-Friday (as of 9/25/2021). ~~Providing data Wednedays only (as of 8/11/2021)~~
 * Nevada: Providing data Monday-Friday.
 * New Hampshire: Providing data Monday-Friday.
 * New Mexico: Providing data Monday-Friday.

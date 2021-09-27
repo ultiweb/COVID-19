@@ -915,7 +915,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 16043,Fremont,Idaho,US,2020-05-11 02:32:30,44.22800938,-111.4809943,3,0,0,3,"Fremont, Idaho, US"
 19071,Fremont,Iowa,US,2020-05-11 02:32:30,40.74542720000001,-95.60129045,1,0,0,1,"Fremont, Iowa, US"
 56013,Fremont,Wyoming,US,2020-05-11 02:32:30,43.04183996,-108.6296893,187,0,0,187,"Fremont, Wyoming, US"
-6019,Fresno,California,US,2020-05-11 02:32:30,36.75733899,-119.6466953,912,9,0,876,"Fresno, California, US"
+6019,Fresno,California,US,2020-05-11 02:32:30,36.75733899,-119.6466953,914,9,0,876,"Fresno, California, US"
 48163,Frio,Texas,US,2020-05-11 02:32:30,28.86751206,-99.10804207,34,0,0,34,"Frio, Texas, US"
 31063,Frontier,Nebraska,US,2020-05-11 02:32:30,40.52993007,-100.3924658,1,0,0,1,"Frontier, Nebraska, US"
 5049,Fulton,Arkansas,US,2020-05-11 02:32:30,36.38177105,-91.81729127,3,0,0,3,"Fulton, Arkansas, US"
@@ -1797,7 +1797,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 4015,Mohave,Arizona,US,2020-05-11 02:32:30,35.70471703,-113.7577902,193,24,0,169,"Mohave, Arizona, US"
 29135,Moniteau,Missouri,US,2020-05-11 02:32:30,38.63571781,-92.57976951,44,0,0,44,"Moniteau, Missouri, US"
 34025,Monmouth,New Jersey,US,2020-05-11 02:32:30,40.26549699,-74.22240686,6895,443,0,6451,"Monmouth, New Jersey, US"
-6051,Mono,California,US,2020-05-11 02:32:30,37.93899289,-118.8872409,29,1,0,28,"Mono, California, US"
+6051,Mono,California,US,2020-05-11 02:32:30,37.93899289,-118.8872409,27,1,0,28,"Mono, California, US"
 19133,Monona,Iowa,US,2020-05-11 02:32:30,42.05220391,-95.95743843,12,0,0,12,"Monona, Iowa, US"
 54061,Monongalia,West Virginia,US,2020-05-11 02:32:30,39.63218457,-80.04766838,114,5,0,109,"Monongalia, West Virginia, US"
 1099,Monroe,Alabama,US,2020-05-11 02:32:30,31.56729412,-87.36995001,14,1,0,14,"Monroe, Alabama, US"
@@ -2618,7 +2618,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 47169,Trousdale,Tennessee,US,2020-05-11 02:32:30,36.39026213,-86.16087954,1357,2,0,1355,"Trousdale, Tennessee, US"
 39155,Trumbull,Ohio,US,2020-05-11 02:32:30,41.31735028,-80.76109643,406,40,0,371,"Trumbull, Ohio, US"
 54093,Tucker,West Virginia,US,2020-05-11 02:32:30,39.11240885,-79.57053576,4,0,0,4,"Tucker, West Virginia, US"
-6107,Tulare,California,US,2020-05-11 02:32:30,36.22026558,-118.8020203,1144,48,0,1092,"Tulare, California, US"
+6107,Tulare,California,US,2020-05-11 02:32:30,36.22026558,-118.8020203,1145,48,0,1092,"Tulare, California, US"
 40143,Tulsa,Oklahoma,US,2020-05-11 02:32:30,36.11939621,-95.94013939,700,36,0,664,"Tulsa, Oklahoma, US"
 28143,Tunica,Mississippi,US,2020-05-11 02:32:30,34.64967704,-90.37481167,38,2,0,36,"Tunica, Mississippi, US"
 6109,Tuolumne,California,US,2020-05-11 02:32:30,38.02644018,-119.9525093,2,0,0,2,"Tuolumne, California, US"
@@ -3155,7 +3155,6 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,MS Zaandam,2020-05-11 02:32:30,,,9,2,0,7,MS Zaandam
 ,,,Madagascar,2020-05-11 02:32:30,-18.766947,46.869107,193,0,101,92,Madagascar
 ,,,Malawi,2020-05-11 02:32:30,-13.254307999999998,34.301525,56,3,14,39,Malawi
-,,,Malaysia,2020-05-11 02:32:30,4.210483999999999,101.975766,6656,108,5025,1523,Malaysia
 ,,,Maldives,2020-05-11 02:32:30,3.2028,73.2207,835,3,29,803,Maldives
 ,,,Mali,2020-05-11 02:32:30,17.570692,-3.996166000000001,704,38,351,315,Mali
 ,,,Malta,2020-05-11 02:32:30,35.9375,14.3754,496,5,433,58,Malta
@@ -3242,3 +3241,20 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Palau,2020-05-11 02:32:30,7.515,134.5825,0,0,0,0,Palau
 ,,Cook Islands,New Zealand,2020-05-11 02:32:30,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
 ,,,Summer Olympics 2020,2020-05-11 02:32:30,35.6491,139.7737,0,0,0,0,Summer Olympics 2020
+,,Johor,Malaysia,2020-05-11 02:32:30,1.4854,103.7618,670,17,468,0,"Johor, Malaysia"
+,,Kedah,Malaysia,2020-05-11 02:32:30,6.1184,100.3685,95,1,87,0,"Kedah, Malaysia"
+,,Kelantan,Malaysia,2020-05-11 02:32:30,6.1254,102.2381,155,3,146,0,"Kelantan, Malaysia"
+,,Melaka,Malaysia,2020-05-11 02:32:30,2.1896,102.2501,205,6,154,0,"Melaka, Malaysia"
+,,Negeri Sembilan,Malaysia,2020-05-11 02:32:30,2.7258,101.9424,727,8,414,0,"Negeri Sembilan, Malaysia"
+,,Pahang,Malaysia,2020-05-11 02:32:30,3.8126,103.3256,311,4,229,0,"Pahang, Malaysia"
+,,Perak,Malaysia,2020-05-11 02:32:30,4.5921,101.0901,254,6,239,0,"Perak, Malaysia"
+,,Perlis,Malaysia,2020-05-11 02:32:30,6.4449,100.2048,18,2,16,0,"Perlis, Malaysia"
+,,Pulau Pinang,Malaysia,2020-05-11 02:32:30,5.4141,100.3288,120,1,117,0,"Pulau Pinang, Malaysia"
+,,Sabah,Malaysia,2020-05-11 02:32:30,5.9788,116.0753,318,5,281,0,"Sabah, Malaysia"
+,,Sarawak,Malaysia,2020-05-11 02:32:30,1.5533,110.3592,543,17,372,0,"Sarawak, Malaysia"
+,,Selangor,Malaysia,2020-05-11 02:32:30,3.0738,101.5183,1605,21,1272,0,"Selangor, Malaysia"
+,,Terengganu,Malaysia,2020-05-11 02:32:30,5.3117,103.1324,112,1,98,0,"Terengganu, Malaysia"
+,,W.P. Kuala Lumpur,Malaysia,2020-05-11 02:32:30,3.139,101.6869,1419,17,1046,0,"W.P. Kuala Lumpur, Malaysia"
+,,W.P. Labuan,Malaysia,2020-05-11 02:32:30,5.2831,115.2308,16,0,16,0,"W.P. Labuan, Malaysia"
+,,W.P. Putrajaya,Malaysia,2020-05-11 02:32:30,2.9264,101.6964,88,1,69,0,"W.P. Putrajaya, Malaysia"
+,,Unknown,Malaysia,2020-05-11 02:32:30,,,0,0,0,0,"Unknown, Malaysia"

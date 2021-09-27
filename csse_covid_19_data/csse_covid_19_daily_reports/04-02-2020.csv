@@ -1402,7 +1402,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 4015,Mohave,Arizona,US,4/2/20 23:25,35.70471703,-113.7577902,8,0,0,0,"Mohave, Arizona, US"
 29135,Moniteau,Missouri,US,4/2/20 23:25,38.63571781,-92.57976951,2,0,0,0,"Moniteau, Missouri, US"
 34025,Monmouth,New Jersey,US,4/2/20 23:25,40.26549699,-74.22240686,1458,38,0,0,"Monmouth, New Jersey, US"
-6051,Mono,California,US,4/2/20 23:25,37.93899289,-118.8872409,18,1,0,0,"Mono, California, US"
+6051,Mono,California,US,4/2/20 23:25,37.93899289,-118.8872409,16,1,0,0,"Mono, California, US"
 19133,Monona,Iowa,US,4/2/20 23:25,42.05220391,-95.95743843,5,0,0,0,"Monona, Iowa, US"
 54061,Monongalia,West Virginia,US,4/2/20 23:25,39.63218457,-80.04766838,35,0,0,0,"Monongalia, West Virginia, US"
 1099,Monroe,Alabama,US,4/2/20 23:25,31.56729412,-87.36995001,4,0,0,0,"Monroe, Alabama, US"
@@ -2025,7 +2025,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 47169,Trousdale,Tennessee,US,4/2/20 23:25,36.39026213,-86.16087954,6,1,0,0,"Trousdale, Tennessee, US"
 39155,Trumbull,Ohio,US,4/2/20 23:25,41.31735028,-80.76109643,63,4,0,0,"Trumbull, Ohio, US"
 54093,Tucker,West Virginia,US,4/2/20 23:25,39.11240885,-79.57053576,3,0,0,0,"Tucker, West Virginia, US"
-6107,Tulare,California,US,4/2/20 23:25,36.22026558,-118.8020203,65,2,0,0,"Tulare, California, US"
+6107,Tulare,California,US,4/2/20 23:25,36.22026558,-118.8020203,66,2,0,0,"Tulare, California, US"
 40143,Tulsa,Oklahoma,US,4/2/20 23:25,36.11939621,-95.94013939,151,5,0,0,"Tulsa, Oklahoma, US"
 28143,Tunica,Mississippi,US,4/2/20 23:25,34.64967704,-90.37481167,14,1,0,0,"Tunica, Mississippi, US"
 6109,Tuolumne,California,US,4/2/20 23:25,38.02644018,-119.9525093,1,0,0,0,"Tuolumne, California, US"
@@ -2494,7 +2494,6 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,MS Zaandam,4/2/20 23:25,,,9,2,0,7,",,MS Zaandam"
 ,,,Madagascar,4/2/20 23:25,-18.766947,46.869107,59,0,0,59,Madagascar
 ,,,Malawi,4/2/20 23:25,-13.254308,34.301525,3,0,0,3,Malawi
-,,,Malaysia,4/2/20 23:25,4.210484,101.975766,3116,50,767,2299,Malaysia
 ,,,Maldives,4/2/20 23:25,3.2028,73.2207,19,0,13,6,Maldives
 ,,,Mali,4/2/20 23:25,17.570692,-3.996166,36,3,0,33,Mali
 ,,,Malta,4/2/20 23:25,35.9375,14.3754,196,0,2,194,Malta
@@ -2576,3 +2575,20 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Palau,4/2/20 23:25,7.515,134.5825,0,0,0,0,Palau
 ,,Cook Islands,New Zealand,4/2/20 23:25,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
 ,,,Summer Olympics 2020,4/2/20 23:25,35.6491,139.7737,0,0,0,0,Summer Olympics 2020
+,,Johor,Malaysia,4/2/20 23:25,1.4854,103.7618,399,13,85,0,"Johor, Malaysia"
+,,Kedah,Malaysia,4/2/20 23:25,6.1184,100.3685,80,1,25,0,"Kedah, Malaysia"
+,,Kelantan,Malaysia,4/2/20 23:25,6.1254,102.2381,138,2,10,0,"Kelantan, Malaysia"
+,,Melaka,Malaysia,4/2/20 23:25,2.1896,102.2501,67,2,0,0,"Melaka, Malaysia"
+,,Negeri Sembilan,Malaysia,4/2/20 23:25,2.7258,101.9424,207,3,59,0,"Negeri Sembilan, Malaysia"
+,,Pahang,Malaysia,4/2/20 23:25,3.8126,103.3256,117,0,20,0,"Pahang, Malaysia"
+,,Perak,Malaysia,4/2/20 23:25,4.5921,101.0901,199,3,36,0,"Perak, Malaysia"
+,,Perlis,Malaysia,4/2/20 23:25,6.4449,100.2048,13,1,8,0,"Perlis, Malaysia"
+,,Pulau Pinang,Malaysia,4/2/20 23:25,5.4141,100.3288,96,1,0,0,"Pulau Pinang, Malaysia"
+,,Sabah,Malaysia,4/2/20 23:25,5.9788,116.0753,211,1,12,0,"Sabah, Malaysia"
+,,Sarawak,Malaysia,4/2/20 23:25,1.5533,110.3592,210,9,15,0,"Sarawak, Malaysia"
+,,Selangor,Malaysia,4/2/20 23:25,3.0738,101.5183,792,8,333,0,"Selangor, Malaysia"
+,,Terengganu,Malaysia,4/2/20 23:25,5.3117,103.1324,51,0,0,0,"Terengganu, Malaysia"
+,,W.P. Kuala Lumpur,Malaysia,4/2/20 23:25,3.139,101.6869,492,7,156,0,"W.P. Kuala Lumpur, Malaysia"
+,,W.P. Labuan,Malaysia,4/2/20 23:25,5.2831,115.2308,10,0,1,0,"W.P. Labuan, Malaysia"
+,,W.P. Putrajaya,Malaysia,4/2/20 23:25,2.9264,101.6964,34,1,6,0,"W.P. Putrajaya, Malaysia"
+,,Unknown,Malaysia,4/2/20 23:25,,,0,0,0,0,"Unknown, Malaysia"
