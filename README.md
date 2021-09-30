@@ -104,6 +104,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Nevada: [Department of Health and Human Services](https://nvhealthresponse.nv.gov/)
     - [Reno County Health Department](http://reno.maps.arcgis.com/apps/opsdashboard/index.html#/dfaef27aede1414b89abf393b2ccb994)
   - New Hampshire: [Department of Health and Human Services](https://www.nh.gov/covid19/dashboard/summary.htm)
+    - [Department of Health and Human Services Press Releases](https://www.covid19.nh.gov/news/dhhs-updates)
   - New Jersey: [Department of Health](https://covid19.nj.gov/)
   - New Mexico: [Department of Health](https://cvprovider.nmhealth.org/public-dashboard.html)
   - New York: [State Department of Health](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data)
