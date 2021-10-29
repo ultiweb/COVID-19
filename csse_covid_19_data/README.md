@@ -523,6 +523,12 @@ International
 * Brazil 2019 projection: ftp://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2019/
 * Peru 2020 projection: https://www.citypopulation.de/en/peru/cities/
 * India 2019 population: http://statisticstimes.com/demographics/population-of-indian-states.php
+* Belgium (Population on 1st January 2020): https://statbel.fgov.be/en/themes/population/structure-population
+* Canada (Q3 2021): https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901
+* China (mainland) (May 11, 2021): http://www.stats.gov.cn/english/PressRelease/202105/t20210510_1817188.html
+* Denmark  (mainland) (2021Q3): https://www.dst.dk/en/Statistik/emner/borgere/befolkning
+* France (European) (January 1st 2021): https://www.ined.fr/en/everything_about_population/data/france/population-structure/regions_departments/
+* Germany (as of 31.12.2020): https://www.destatis.de/EN/Themes/Society-Environment/Population/Current-Population/Tables/population-by-laender.html
 * The Admin0 level population could be different from the sum of Admin1 level population since they may be from different sources.
 
 Disclaimer: \*The names of locations included on the Website correspond with the official designations used by the U.S. Department of State. The presentation of material therein does not imply the expression of any opinion whatsoever on the part of JHU concerning the legal status of any country, area or territory or of its authorities. The depiction and use of boundaries, geographic names and related data shown on maps and included in lists, tables, documents, and databases on this website are not warranted to be error free nor do they necessarily imply official endorsement or acceptance by JHU.
