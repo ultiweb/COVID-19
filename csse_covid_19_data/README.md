@@ -255,6 +255,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * October 19, 2021 | California, US | Adjust California's death data based on historic  data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
 * October 25, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * November 1, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* November 5, 2021 | Japan | To match Japan NHK reporting standards, the Japan time series (cases and deaths) is being overwritten with NHK data, and the entire time series will be updated with each time NHK updates their data. | [Data Source](https://www3.nhk.or.jp/news/special/coronavirus/data/)
 
 
 ## Retrospective reporting of (probable) cases and deaths
