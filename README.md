@@ -248,7 +248,6 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Jamaica: 
     - Ministry of Health & Wellness: https://www.moh.gov.jm
   - Japan: 
-    - COVID19Japan: https://covid19japan.com/#all-prefectures
     - NHK: https://www3.nhk.or.jp/news/special/coronavirus/data/
   - Jordan:
     - Ministry of Health: https://corona.moh.gov.jo/en
