@@ -219,6 +219,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - French Ministry of Solidarity and Health and Public Health Dashboard: https://dashboard.covid19.data.gouv.fr/
     - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
     - OpenCOVID19: https://github.com/opencovid19-fr
+  - Georgia:
+    - Government of Georgia Ministry of Health: https://stopcov.ge/en
   - Germany:
     - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - Greece:
