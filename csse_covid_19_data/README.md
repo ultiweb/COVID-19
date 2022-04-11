@@ -320,6 +320,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * April 07, 2022 | Massachusetts, US | Corrected from 2020-08-19 to 2022-03-14 to align with state reporting
 * April 08, 2022 | Massachusetts, US | Corrected from 2020-08-23 to 2022-03-13 to align with state reporting
 * April 11, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* April 11, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
