@@ -132,7 +132,6 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [Cameron County](https://www.cameroncounty.us/publichealth/index.php/coronavirus/)
     - [Collin County](https://www.collincountytx.gov/healthcare_services/Pages/news.aspx)
     - [Corpus Christi](https://www.cctexas.com/coronavirus)
-    - [Dallas County](https://www.dallascounty.org/departments/dchhs/2019-novel-coronavirus.php)
     - [Denton County](https://gis-covid19-dentoncounty.hub.arcgis.com/pages/covid-19cases)
     - [Ector County](http://www.co.ector.tx.us/page/ector.CoronavirusCOVID19)
     - [City of El Paso](http://epstrong.org/results.php)
