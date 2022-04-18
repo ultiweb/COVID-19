@@ -543,9 +543,11 @@ United States
 * New Mexico: Providing data Monday-Friday.
 * New York City: ~~Providing data Monday-Friday.~~ Providing data seven days a week (as of January 4, 2022).
 * North Carolina: Providing data weekly (Wednesdays) (as of April 6, 2022). ~~Providing data Monday-Friday.~~
+* Northern Mariana Islands: Providing data once weekly (Mondays).
 * Ohio: Providing all data once per week (Thursdays) (as of March 14, 2022). ~~Providing death data twice per week (normally Tuesdays and Sundays).~~
 * Oklahoma: Providing data once per week on Thursdays (as of March 7, 2022). ~~Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.~~
 * Oregon: Providing data Monday-Friday (as of July 10, 2021).
+* Republic of Palau: Providing data Tuesdays and Fridays.
 * Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
 * South Carlina: Providing data weekly (Tuesdays) (as of March 15, 2022). ~~Providing data Monday-Friday.~~
 * South Dakota: Providing data Monday-Friday (as of August 16, 2021). ~~Providing data Wednesdays only.~~ Saturday and Sunday data will be reported on Tuesdays.
