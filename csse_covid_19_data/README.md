@@ -523,7 +523,7 @@ United States
 * Conneticut: Providing data Monday-Friday.
 * District of Columbia: Providing data once per week (Thursdays) as of March 4, 2022. ~~Providing data Monday-Friday.~~
 * Florida: Providing data once every two weeks (Fridays) (as of March 11, 2022). ~~Providing data once per week (Fridays).~~
-* Georgia: Providing data Monday-Friday.
+* Georgia: Providing data once per week (Wednesdays) (as of April 20, 2022).~~Providing data Monday-Friday.~~
 * Guam: Providing data Monday-Friday.
 * Hawaii: Providing data once per week (Wednesdays) (as of March 9, 2022).
 * Idaho: Providing data Monday-Friday. Providing data Monday-Saturday (as of November 6, 2021).~~Providing data daily (as of 9/11/2021).~~ ~~Providing data Monday-Friday.~~
