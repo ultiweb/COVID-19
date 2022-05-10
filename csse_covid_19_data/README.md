@@ -532,12 +532,13 @@ United States
 * California: Providing data Tuesdays and Fridays (as of April 4, 2022). ~~Providing data Monday-Friday.~~
 * Colorado: Providing data Monday-Friday.
 * Conneticut: Providing data Monday-Friday.
+* Delaware: Providing data Monday-Friday.
 * District of Columbia: Providing data once per week (Thursdays) as of March 4, 2022. ~~Providing data Monday-Friday.~~
 * Florida: Providing data once every two weeks (Fridays) (as of March 11, 2022). ~~Providing data once per week (Fridays).~~
 * Georgia: Providing data once per week (Wednesdays) (as of April 20, 2022).~~Providing data Monday-Friday.~~
 * Guam: Providing data Monday-Friday.
 * Hawaii: Providing data once per week (Wednesdays) (as of March 9, 2022).
-* Idaho: Providing data Monday-Friday. Providing data Monday-Saturday (as of November 6, 2021).~~Providing data daily (as of 9/11/2021).~~ ~~Providing data Monday-Friday.~~
+* Idaho: Porviding data Monday, Wednesday, and Friday (as of April 20, 2022). ~~Providing data Monday-Friday. Providing data Monday-Saturday (as of November 6, 2021).Providing data daily (as of 9/11/2021).Providing data Monday-Friday.~~
 * Illinois: Providing data Monday-Friday.
 * Indiana: Providing data Mondays, Wednesdays, and Fridays (as of March 29, 2022).~~Providing data Monday-Friday.~~
 * Iowa: Providing data once weekly (day of the week TBC).
@@ -551,7 +552,7 @@ United States
 * Minnesota: Providing data Monday-Friday.
 * Mississippi: Providing state level data Monday-Friday. County level data updated once per week (as of March 10, 2022).
 * Missouri: Providing data once weekly (Fridays) (as of April 1, 2022). ~~Providing data Monday-Friday (as of Feb 22, 2022).~~
-* Montana: Providing data Monday-Friday.
+* Montana: Providing data once weekly (Wednesdays) (as of May 5, 2022). ~~Providing data Monday-Friday.~~
 * Nebraska: Providing state level data only Monday-Friday (in composite with CDC reporting).~~Providing data Monday-Friday (as of 9/25/2021).~~ ~~Providing data Wednedays only (as of 8/11/2021)~~
 * Nevada: Providing data once per week (Wednesdays) (as of March 16, 2022). ~~Providing data Monday-Friday.~~
 * New Hampshire: Providing data Monday-Friday.
@@ -564,8 +565,9 @@ United States
 * Oregon: Providing data Monday-Friday (as of July 10, 2021).
 * Republic of Palau: Providing data Tuesdays and Fridays.
 * Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
+* Pennsylvania: Providing data once per week (Wednesdays) (as of May 6, 2022).
 * South Carlina: Providing data weekly (Tuesdays) (as of March 15, 2022). ~~Providing data Monday-Friday.~~
-* South Dakota: Providing data Monday-Friday (as of August 16, 2021). ~~Providing data Wednesdays only.~~ Saturday and Sunday data will be reported on Tuesdays.
+* South Dakota: Providing data weekly (as of April 12, 2022). ~~Providing data Monday-Friday (as of August 16, 2021). Providing data Wednesdays only.Saturday and Sunday data will be reported on Tuesdays.~~
 * Tennessee: Providing data Monday-Friday.
 * Utah: Providing data once weekly (Thursdays) (as of March 31, 2022). ~~Providing data Monday-Friday.~~
 * Vermont: ~~Providing data daily (as of August 21, 2021).~~ Providing data Monday-Friday.
@@ -588,6 +590,7 @@ International
 * Northwest Territories, Canada: Providing data Monday-Friday.
 * Saskatechewan, Canada: Providing data weekly (Thursdays). 
 * Yukon, Canada: Providing data Monday-Friday.
+* Colombia: Weekly on Thursdays
 * Costa Rica: Updating data on Wednesdays and Saturdays only.
 * Denmark: Not updating case, death, or recovered data on the weekends.
 * France: No longer releasing case, hospitalization, or death data on the weekends. Please see [Tableau dashboard](https://dashboard.covid19.data.gouv.fr/vue-d-ensemble?location=FRA). No update to deaths or recoveries for the weekend of August 8 and 9.
