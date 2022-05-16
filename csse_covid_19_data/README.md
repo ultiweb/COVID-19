@@ -571,7 +571,7 @@ United States
 * Pennsylvania: Providing data once per week (Wednesdays) (as of May 6, 2022).
 * South Carlina: Providing data weekly (Tuesdays) (as of March 15, 2022). ~~Providing data Monday-Friday.~~
 * South Dakota: Providing data weekly (as of April 12, 2022). ~~Providing data Monday-Friday (as of August 16, 2021). Providing data Wednesdays only.Saturday and Sunday data will be reported on Tuesdays.~~
-* Tennessee: Providing data Monday-Friday.
+* Tennessee: Providing data weekly. ~~Providing data Monday-Friday.~~
 * Utah: Providing data once weekly (Thursdays) (as of March 31, 2022). ~~Providing data Monday-Friday.~~
 * Vermont: ~~Providing data daily (as of August 21, 2021).~~ Providing data Monday-Friday.
 * Virginia: Providing data Monday-Friday.
