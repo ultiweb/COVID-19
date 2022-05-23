@@ -549,7 +549,7 @@ United States
 * Illinois: Providing data Monday-Friday.
 * Indiana: Providing data Mondays, Wednesdays, and Fridays (as of March 29, 2022).~~Providing data Monday-Friday.~~
 * Iowa: Providing data once weekly (day of the week TBC).
-* Kansas: Providing data once per week (Fridays) (as of April 1, 2022). ~~Providing data Monday, Wednesdays, and Fridays.~~ No data for the weekend of August 22-23.
+* Kansas: Providing data once per week (Wednesdays).~~Providing data once per week (Fridays) (as of April 1, 2022).~~ ~~Providing data Monday, Wednesdays, and Fridays.~~ No data for the weekend of August 22-23.
 * Kentucky: Providing data once per week on Mondays (as of March 7, 2022). ~~Providing data Monday-Friday.~~
 * Louisiana: Providing data Monday-Friday.
 * Maine: Providing data Tuesday-Saturday.
