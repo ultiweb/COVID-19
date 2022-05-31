@@ -226,7 +226,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - National Public Health Organization: https://eody.gov.gr/epidimiologika-statistika-dedomena/ektheseis-covid-19/
   - Guatemala:
     - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
-  - Hong Kong:
+  - Hong Kong SAR:
     - The Government of The Hong Kong Special Administrative Region Website: https://www.chp.gov.hk/en/features/102465.html
     - The Government of The Hong Kong Special Administrative Region Dashboard: https://chp-dashboard.geodata.gov.hk/covid-19/en.html
   - Hungary:
@@ -261,7 +261,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Lithuania: https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca
   - Luxembourg: 
     - Government of Luxembourg: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
-  - Macau:
+  - Macau SAR:
     - Health Services of the Government of the Macau Special Administrative Region: https://www.ssm.gov.mo/portal/
   - Malaysia
     - Ministry of Health: https://covid-19.moh.gov.my/
@@ -315,7 +315,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Switzerland:
     - Federal Office Of Public Health: https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html
     - Open Government Data Reported By The Swiss Cantons: https://github.com/openZH/covid_19
-  - Taiwan:
+  - Taiwan*:
     - CDC: https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=0
   - Thailand: 
     - Ministry of Public Health, Department of Disease Control Dashboard: https://ddc.moph.go.th/viralpneumonia/eng/index.php
