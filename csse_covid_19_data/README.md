@@ -589,7 +589,7 @@ United States
 * South Dakota: Providing data weekly (as of April 12, 2022). ~~Providing data Monday-Friday (as of August 16, 2021). Providing data Wednesdays only.Saturday and Sunday data will be reported on Tuesdays.~~
 * Tennessee: Providing data weekly. ~~Providing data Monday-Friday.~~
 * Utah: Providing data once weekly (Thursdays) (as of March 31, 2022). ~~Providing data Monday-Friday.~~
-* Vermont: Providing data once per week (day to be confirmed). ~~Providing data daily (as of August 21, 2021).~~ ~~Providing data Monday-Friday.~~
+* Vermont: Providing data once per week (Wednesdays) (as of May 19, 2022). ~~Providing data daily (as of August 21, 2021).~~ ~~Providing data Monday-Friday.~~
 * Virginia: Providing data Monday-Friday.
 * Washington: Did not update October 10-12 due to data entry issue. ~~As of December 20, only updating Monday-Saturday. As of August 1, only updating Monday-Friday.~~ As of Janaury 25, 2022, only updating Monday, Wednesday, and Friday.
 * West Virginia: Providing data Monday-Friday (as of March 14th, 2022). ~~Providing data daily.~~ ~~Providing data Monday-Friday.~~
