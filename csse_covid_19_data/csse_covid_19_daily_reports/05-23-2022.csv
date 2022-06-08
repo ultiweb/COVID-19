@@ -461,7 +461,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Noord-Holland,Netherlands,2022-05-24 04:20:57,52.600906,4.918688,1324203,3376,,,"Noord-Holland, Netherlands",45986.82353039232,0.2549458051371278
 ,,Overijssel,Netherlands,2022-05-24 04:20:57,52.444558,6.441722,565875,1416,,,"Overijssel, Netherlands",48681.355739732935,0.2502319416832339
 ,,Sint Maarten,Netherlands,2022-05-24 04:20:57,18.0425,-63.0548,10189,86,,,"Sint Maarten, Netherlands",23760.552213049763,0.8440475022082639
-,,Unknown,Netherlands,2022-02-28 23:21:00,,,84139,21,,,"Unknown, Netherlands",,0.02495869929521387
+,,Unknown,Netherlands,2022-02-28 23:21:00,,,71,0,,,"Unknown, Netherlands",,0.02495869929521387
 ,,Utrecht,Netherlands,2022-05-24 04:20:57,52.084251,5.163824,664120,1539,,,"Utrecht, Netherlands",49018.55135020231,0.23173522857314943
 ,,Zeeland,Netherlands,2022-05-24 04:20:57,51.47936,3.861559,168335,390,,,"Zeeland, Netherlands",43895.76727303071,0.23168087444678764
 ,,Zuid-Holland,Netherlands,2022-05-24 04:20:57,51.937835,4.462114,1693456,5164,,,"Zuid-Holland, Netherlands",45661.7635956142,0.3049385398852996
