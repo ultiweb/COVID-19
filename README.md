@@ -26,7 +26,7 @@ This list includes a complete list of all sources ever used in the data set, sin
 - Aggregated data sources:
   - World Health Organization (WHO): https://www.who.int/
   - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
-  - DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia
+  - DXY.cn. Pneumonia. 2020. https://ncov.dxy.cn/ncovh5/view/pneumonia?from=dxy&source=&link=&share=
   - US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html
   - BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
   - WorldoMeters: https://www.worldometers.info/coronavirus/  
@@ -164,11 +164,15 @@ This list includes a complete list of all sources ever used in the data set, sin
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - Albania:
     - National Agency for Information Society: https://coronavirus.al/statistika/
+  - Argentina:
+    - Ministry of Health: https://www.argentina.gob.ar/salud/coronavirus-COVID-19/sala-situacion
   - Australia:
     - Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance
     - COVID Live: https://www.covidlive.com.au/
   - Azerbaijan:
     - Azerbaijan Operational Headquarters under the Cabinet of Ministers: https://koronavirusinfo.az/az
+  - Belarus:
+    - Ministry of Health: https://stopcovid.belta.by/
   - Belgium:
     - Sciensano: https://datastudio.google.com/embed/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/giyUB
   - Brazil: 
@@ -182,12 +186,14 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Canada: https://www.canada.ca/en/public-health/services/diseases/coronavirus.html
     - Government of Manitoba: https://www.gov.mb.ca/covid19/updates/cases.html
     - Government of New Brunswick: https://experience.arcgis.com/experience/8eeb9a2052d641c996dba5de8f25a8aa
-    - Government of Newfoundland and Labrador: https://covid-19-newfoundland-and-labrador-gnl.hub.arcgis.com/
     - Government of Northwest Territories: https://www.gov.nt.ca/covid-19/
     - Government of Ontario: https://covid-19.ontario.ca/data
+      - Ottawa Public Health: https://www.ottawapublichealth.ca/en/reports-research-and-statistics/daily-covid19-dashboard.aspx 
+      - Toronto Public Health: https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/
+      - Region of Peel: https://peelregion.ca/coronavirus/case-status/ 
+      - Region of Halton: https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus   
     - Government of Prince Edward Island: https://www.princeedwardisland.ca/en/information/health-and-wellness/pei-covid-19-case-data
     - Government of Quebec: https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/situation-coronavirus-in-quebec/
-    - Government of Saskatchewan: https://dashboard.saskatchewan.ca/health-wellness
     - Government of Yukon: https://yukon.ca/en/case-counts-covid-19
     - Nunavut Department of Health: https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus
   - Chile: 
@@ -220,10 +226,9 @@ This list includes a complete list of all sources ever used in the data set, sin
     - National Public Health Organization: https://eody.gov.gr/epidimiologika-statistika-dedomena/ektheseis-covid-19/
   - Guatemala:
     - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
-  - Honduras:
-    - Despacho de Comunicaciones y Estrategia Presidencial: https://covid19honduras.org/ 
   - Hong Kong:
-    - The Government of The Hong Kong Special Administrative Region: https://www.chp.gov.hk/en/features/102465.html
+    - The Government of The Hong Kong Special Administrative Region Website: https://www.chp.gov.hk/en/features/102465.html
+    - The Government of The Hong Kong Special Administrative Region Dashboard: https://chp-dashboard.geodata.gov.hk/covid-19/en.html
   - Hungary:
     - Government of Hungary: https://koronavirus.gov.hu/
   - Iceland:
@@ -269,6 +274,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - New Zealand:
     - Ministry of Health: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases
+    - Government of Cook Islands: https://covid19.gov.ck/
   - Palau:
     - Ministry of Health & Human Services: http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
   - Paraguay:

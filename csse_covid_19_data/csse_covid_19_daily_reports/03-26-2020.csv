@@ -3174,7 +3174,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Bermuda,United Kingdom,2020-03-26 23:48:18,32.3078,-64.7505,15,0,2,13,"Bermuda, United Kingdom"
 ,,British Columbia,Canada,2020-03-26 23:53:11,53.7267,-127.6476,725,14,0,711,"British Columbia, Canada"
 ,,Cayman Islands,United Kingdom,2020-03-26 23:48:18,19.3133,-81.2546,8,1,0,7,"Cayman Islands, United Kingdom"
-,,Channel Islands,United Kingdom,2020-03-26 23:48:18,49.3723,-2.3644,66,1,0,65,"Channel Islands, United Kingdom"
+,,Channel Islands,United Kingdom,2020-03-26 23:48:18,49.3723,-2.3644,0,0,0,65,"Channel Islands, United Kingdom"
 ,,Chongqing,China,2020-03-23 23:34:38,30.0572,107.874,578,6,570,2,"Chongqing, China"
 ,,Curacao,Netherlands,2020-03-26 23:48:18,12.1696,-68.99,6,1,2,3,"Curacao, Netherlands"
 ,,Diamond Princess,Canada,2020-03-26 23:53:11,0.0,0.0,0,1,0,0,"Diamond Princess, Canada"
@@ -3197,7 +3197,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Hebei,China,2020-03-23 01:53:35,39.549,116.1306,319,6,310,3,"Hebei, China"
 ,,Heilongjiang,China,2020-03-26 00:15:39,47.861999999999995,127.7615,484,13,469,2,"Heilongjiang, China"
 ,,Henan,China,2020-03-26 02:14:25,33.882,113.61399999999999,1275,22,1250,3,"Henan, China"
-,,Hong Kong,China,2020-03-26 10:05:28,22.3,114.2,453,4,110,339,"Hong Kong, China"
+,,Hong Kong,China,2020-03-26 10:05:28,22.3,114.2,452,4,110,339,"Hong Kong, China"
 ,,Hubei,China,2020-03-26 01:21:08,30.9756,112.2707,67801,3169,61201,3431,"Hubei, China"
 ,,Hunan,China,2020-03-14 08:25:05,27.6104,111.7088,1018,4,1014,0,"Hunan, China"
 ,,Inner Mongolia,China,2020-03-26 02:41:27,44.0935,113.9448,89,1,74,14,"Inner Mongolia, China"
@@ -3221,7 +3221,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Northwest Territories,Canada,2020-03-26 23:53:11,64.8255,-124.8457,1,0,0,1,",Northwest Territories,Canada"
 ,,Nova Scotia,Canada,2020-03-26 23:53:11,44.681999999999995,-63.7443,73,0,0,73,"Nova Scotia, Canada"
 ,,Nunavut,Canada,2020-03-26 23:53:11,70.2998,-83.1076,0,0,0,0,"Nunavut, Canada"
-,,Ontario,Canada,2020-03-26 23:53:11,51.2538,-85.3232,858,15,0,845,"Ontario, Canada"
+,,Ontario,Canada,2020-03-26 23:53:11,51.2538,-85.3232,1819,66,0,845,"Ontario, Canada"
 ,,Prince Edward Island,Canada,2020-03-26 23:53:11,46.5107,-63.4168,5,0,0,5,"Prince Edward Island, Canada"
 ,,Puerto Rico,US,2020-03-26 23:48:35,18.2208,-66.5901,64,2,0,62,"Puerto Rico, US"
 ,,Qinghai,China,2020-02-23 11:19:02,35.7452,95.9956,18,0,18,0,"Qinghai, China"
@@ -3445,3 +3445,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,W.P. Putrajaya,Malaysia,2020-03-26 23:48:35,2.9264,101.6964,18,0,5,13,"W.P. Putrajaya, Malaysia"
 ,,Unknown,Malaysia,2020-03-26 23:48:35,,,0,0,0,0,"Unknown, Malaysia"
 ,,,Tonga,2020-03-26 23:48:35,-21.179,-175.1982,0,0,0,0,Tonga
+,,,Winter Olympics 2022,2020-03-26 23:48:35,39.9042,116.4074,0,0,0,0,Winter Olympics 2022
+,,,Antarctica,2020-03-26 23:48:35,-71.9499,23.347,0,0,0,0,Antarctica
+,,Jersey,United Kingdom,2020-03-26 23:48:35,49.2138,-2.1358,18,0,0,0,"Jersey, United Kingdom"
+,,Guernsey,United Kingdom,2020-03-26 23:48:35,49.448196,-2.58949,36,0,0,0,"Guernsey, United Kingdom"

@@ -33581,3 +33581,996 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/29/2022,time_series_covid19_deaths_global.csv,US,01/28/2022,882294,882881,Correct US deaths data
 01/29/2022,time_series_covid19_confirmed_US.csv,"Humboldt, California, US",01/28/2022,16613,17179,"Correct Humboldt, California, US confirmed data"
 01/29/2022,time_series_covid19_confirmed_global.csv,US,01/28/2022,74066546,74067112,Correct US confirmed data
+01/31/2022,time_series_covid19_confirmed_global.csv,Thailand,07/22/2020,3245,3237,Correct Thailand confirmed data
+01/31/2022,time_series_covid19_confirmed_global.csv,Thailand,01/13/2022,2300457,2308615,Correct Thailand confirmed data
+01/31/2022,time_series_covid19_confirmed_global.csv,Thailand,01/14/2022,2308615,2316408,Correct Thailand confirmed data
+01/31/2022,time_series_covid19_confirmed_global.csv,Thailand,01/15/2022,2308615,2324485,Correct Thailand confirmed data
+01/31/2022,time_series_covid19_confirmed_global.csv,Thailand,01/16/2022,2308615,2331414,Correct Thailand confirmed data
+01/31/2022,time_series_covid19_confirmed_global.csv,Thailand,01/17/2022,2308615,2337811,Correct Thailand confirmed data
+01/31/2022,time_series_covid19_confirmed_global.csv,Thailand,01/18/2022,2308615,2344933,Correct Thailand confirmed data
+01/31/2022,time_series_covid19_deaths_global.csv,Thailand,04/16/2021,97,100,Correct Thailand deaths data
+01/31/2022,time_series_covid19_deaths_global.csv,Thailand,04/17/2021,99,100,Correct Thailand deaths data
+01/31/2022,time_series_covid19_deaths_global.csv,Thailand,06/08/2021,1297,1298,Correct Thailand deaths data
+01/31/2022,time_series_covid19_deaths_global.csv,Thailand,01/18/2022,21898,21956,Correct Thailand deaths data
+01/31/2022,time_series_covid19_deaths_global.csv,Thailand,01/19/2022,21987,21968,Correct Thailand deaths data
+01/31/2022,time_series_covid19_deaths_global.csv,Thailand,01/20/2022,22000,21987,Correct Thailand deaths data
+01/31/2022,time_series_covid19_deaths_global.csv,Thailand,01/21/2022,22019,22000,Correct Thailand deaths data
+01/31/2022,time_series_covid19_deaths_global.csv,Thailand,01/22/2022,22032,22019,Correct Thailand deaths data
+01/31/2022,time_series_covid19_deaths_global.csv,Thailand,01/23/2022,22045,22032,Correct Thailand deaths data
+01/31/2022,time_series_covid19_deaths_global.csv,Thailand,01/24/2022,22057,22045,Correct Thailand deaths data
+01/31/2022,time_series_covid19_deaths_global.csv,Thailand,01/25/2022,22076,22057,Correct Thailand deaths data
+01/31/2022,time_series_covid19_deaths_global.csv,Thailand,01/26/2022,22098,22076,Correct Thailand deaths data
+01/31/2022,time_series_covid19_deaths_global.csv,Thailand,01/27/2022,22126,22098,Correct Thailand deaths data
+01/31/2022,time_series_covid19_deaths_global.csv,Thailand,01/28/2022,22145,22126,Correct Thailand deaths data
+01/31/2022,time_series_covid19_deaths_global.csv,Thailand,01/30/2022,22173,22157,Correct Thailand deaths data
+02/02/2022,time_series_covid19_confirmed_global.csv,Japan,01/31/2022,2677602,2738460,Correct Japan confirmed data
+02/02/2022,time_series_covid19_deaths_global.csv,Japan,01/31/2022,18764,18812,Correct Japan deaths data
+02/04/2022,time_series_covid19_deaths_global.csv,Israel,02/02/2022,9152,8927,Correct Israel deaths data
+02/04/2022,time_series_covid19_deaths_global.csv,Israel,02/03/2022,9238,9013,Correct Israel deaths data
+02/10/2022,time_series_covid19_confirmed_global.csv,India,01/11/2022,35875790,36070510,Correct India confirmed data
+02/10/2022,time_series_covid19_confirmed_global.csv,India,01/13/2022,36317927,36582129,Correct India confirmed data
+02/10/2022,time_series_covid19_deaths_global.csv,India,01/11/2022,484213,484655,Correct India deaths data
+02/10/2022,time_series_covid19_deaths_global.csv,India,01/13/2022,485131,485446,Correct India deaths data
+02/14/2022,time_series_covid19_confirmed_global.csv,Tonga,02/13/2022,73,141,Correct Tonga confirmed data
+02/14/2022,time_series_covid19_confirmed_global.csv,Australia,02/13/2022,1203956,1197772,Correct Australia confirmed data
+02/14/2022,time_series_covid19_deaths_global.csv,Australia,02/13/2022,1727,1713,Correct Australia deaths data
+02/17/2022,time_series_covid19_confirmed_US.csv,"Adams, Wisconsin, US",02/16/2022,4551,4560,"Correct Adams, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Ashland, Wisconsin, US",02/16/2022,3171,3179,"Correct Ashland, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Barron, Wisconsin, US",02/16/2022,13212,13239,"Correct Barron, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Bayfield, Wisconsin, US",02/16/2022,3137,3150,"Correct Bayfield, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Brown, Wisconsin, US",02/16/2022,82915,82959,"Correct Brown, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Buffalo, Wisconsin, US",02/16/2022,3317,3339,"Correct Buffalo, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Burnett, Wisconsin, US",02/16/2022,3879,3884,"Correct Burnett, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Calumet, Wisconsin, US",02/16/2022,14288,14302,"Correct Calumet, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Chippewa, Wisconsin, US",02/16/2022,18331,18346,"Correct Chippewa, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Clark, Wisconsin, US",02/16/2022,7532,7541,"Correct Clark, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Columbia, Wisconsin, US",02/16/2022,14907,14928,"Correct Columbia, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Crawford, Wisconsin, US",02/16/2022,4129,4146,"Correct Crawford, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Dane, Wisconsin, US",02/16/2022,120472,120748,"Correct Dane, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Dodge, Wisconsin, US",02/16/2022,26631,26678,"Correct Dodge, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Door, Wisconsin, US",02/16/2022,6874,6877,"Correct Door, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Douglas, Wisconsin, US",02/16/2022,11215,11243,"Correct Douglas, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Dunn, Wisconsin, US",02/16/2022,13044,13047,"Correct Dunn, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Eau Claire, Wisconsin, US",02/16/2022,29513,29558,"Correct Eau Claire, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Florence, Wisconsin, US",02/16/2022,1062,1063,"Correct Florence, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Fond du Lac, Wisconsin, US",02/16/2022,31230,31266,"Correct Fond du Lac, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Forest, Wisconsin, US",02/16/2022,2643,2650,"Correct Forest, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Grant, Wisconsin, US",02/16/2022,12387,12407,"Correct Grant, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Green, Wisconsin, US",02/16/2022,8784,8801,"Correct Green, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Green Lake, Wisconsin, US",02/16/2022,4993,5003,"Correct Green Lake, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Iowa, Wisconsin, US",02/16/2022,5087,5099,"Correct Iowa, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Jackson, Wisconsin, US",02/16/2022,5572,5583,"Correct Jackson, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Jefferson, Wisconsin, US",02/16/2022,21067,21082,"Correct Jefferson, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Juneau, Wisconsin, US",02/16/2022,7542,7555,"Correct Juneau, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Kenosha, Wisconsin, US",02/16/2022,43346,43379,"Correct Kenosha, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"La Crosse, Wisconsin, US",02/16/2022,33746,33790,"Correct La Crosse, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Lafayette, Wisconsin, US",02/16/2022,3563,3567,"Correct Lafayette, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Langlade, Wisconsin, US",02/16/2022,5143,5146,"Correct Langlade, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Lincoln, Wisconsin, US",02/16/2022,6874,6886,"Correct Lincoln, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Manitowoc, Wisconsin, US",02/16/2022,20163,20178,"Correct Manitowoc, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Marathon, Wisconsin, US",02/16/2022,38624,38672,"Correct Marathon, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Marinette, Wisconsin, US",02/16/2022,11405,11417,"Correct Marinette, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Marquette, Wisconsin, US",02/16/2022,3742,3745,"Correct Marquette, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Menominee, Wisconsin, US",02/16/2022,1866,1868,"Correct Menominee, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Milwaukee, Wisconsin, US",02/16/2022,265115,265271,"Correct Milwaukee, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Monroe, Wisconsin, US",02/16/2022,11688,11701,"Correct Monroe, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Oconto, Wisconsin, US",02/16/2022,11269,11274,"Correct Oconto, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Oneida, Wisconsin, US",02/16/2022,8327,8343,"Correct Oneida, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Outagamie, Wisconsin, US",02/16/2022,53391,53443,"Correct Outagamie, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Ozaukee, Wisconsin, US",02/16/2022,21688,21723,"Correct Ozaukee, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Pierce, Wisconsin, US",02/16/2022,11266,11283,"Correct Pierce, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Polk, Wisconsin, US",02/16/2022,12019,12041,"Correct Polk, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Portage, Wisconsin, US",02/16/2022,17630,17657,"Correct Portage, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Price, Wisconsin, US",02/16/2022,3192,3199,"Correct Price, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Racine, Wisconsin, US",02/16/2022,55517,55551,"Correct Racine, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Richland, Wisconsin, US",02/16/2022,3754,3761,"Correct Richland, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Rock, Wisconsin, US",02/16/2022,41767,41840,"Correct Rock, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Rusk, Wisconsin, US",02/16/2022,3378,3382,"Correct Rusk, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Sauk, Wisconsin, US",02/16/2022,15643,15661,"Correct Sauk, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Sawyer, Wisconsin, US",02/16/2022,4464,4470,"Correct Sawyer, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Shawano, Wisconsin, US",02/16/2022,11518,11523,"Correct Shawano, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Sheboygan, Wisconsin, US",02/16/2022,31991,32025,"Correct Sheboygan, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"St. Croix, Wisconsin, US",02/16/2022,23902,23938,"Correct St. Croix, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Trempealeau, Wisconsin, US",02/16/2022,8203,8216,"Correct Trempealeau, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Vernon, Wisconsin, US",02/16/2022,5810,5824,"Correct Vernon, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Vilas, Wisconsin, US",02/16/2022,5118,5122,"Correct Vilas, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Walworth, Wisconsin, US",02/16/2022,26282,26303,"Correct Walworth, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Washburn, Wisconsin, US",02/16/2022,3898,3903,"Correct Washburn, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Washington, Wisconsin, US",02/16/2022,37483,37511,"Correct Washington, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Waukesha, Wisconsin, US",02/16/2022,110214,110324,"Correct Waukesha, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Waupaca, Wisconsin, US",02/16/2022,13415,13426,"Correct Waupaca, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Waushara, Wisconsin, US",02/16/2022,6290,6302,"Correct Waushara, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Winnebago, Wisconsin, US",02/16/2022,50665,50724,"Correct Winnebago, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_confirmed_US.csv,"Wood, Wisconsin, US",02/16/2022,20432,20466,"Correct Wood, Wisconsin, US confirmed data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Barron, Wisconsin, US",02/16/2022,132,133,"Correct Barron, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Brown, Wisconsin, US",02/16/2022,460,463,"Correct Brown, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Chippewa, Wisconsin, US",02/16/2022,173,174,"Correct Chippewa, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Dodge, Wisconsin, US",02/16/2022,298,303,"Correct Dodge, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Dunn, Wisconsin, US",02/16/2022,66,65,"Correct Dunn, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Fond du Lac, Wisconsin, US",02/16/2022,223,222,"Correct Fond du Lac, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Forest, Wisconsin, US",02/16/2022,47,49,"Correct Forest, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Kenosha, Wisconsin, US",02/16/2022,597,598,"Correct Kenosha, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"La Crosse, Wisconsin, US",02/16/2022,162,163,"Correct La Crosse, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Lincoln, Wisconsin, US",02/16/2022,134,135,"Correct Lincoln, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Marinette, Wisconsin, US",02/16/2022,106,107,"Correct Marinette, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Oneida, Wisconsin, US",02/16/2022,124,126,"Correct Oneida, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Outagamie, Wisconsin, US",02/16/2022,344,345,"Correct Outagamie, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Racine, Wisconsin, US",02/16/2022,631,632,"Correct Racine, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Rusk, Wisconsin, US",02/16/2022,47,48,"Correct Rusk, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Sheboygan, Wisconsin, US",02/16/2022,275,276,"Correct Sheboygan, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Vilas, Wisconsin, US",02/16/2022,84,85,"Correct Vilas, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Waukesha, Wisconsin, US",02/16/2022,969,971,"Correct Waukesha, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_deaths_US.csv,"Waushara, Wisconsin, US",02/16/2022,80,79,"Correct Waushara, Wisconsin, US deaths data"
+02/17/2022,time_series_covid19_confirmed_global.csv,US,02/16/2022,78171038,78172840,Correct US confirmed data
+02/17/2022,time_series_covid19_deaths_global.csv,US,02/16/2022,928493,928515,Correct US deaths data
+02/17/2022,time_series_covid19_confirmed_global.csv,Spain,02/04/2022,10274653,10199716,Correct Spain confirmed data
+02/17/2022,time_series_covid19_deaths_global.csv,Spain,02/04/2022,94235,94040,Correct Spain deaths data
+02/22/2022,time_series_covid19_confirmed_global.csv,United Kingdom,02/19/2022,18580216,18585423,Correct United Kingdom confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,United Kingdom,02/20/2022,18605752,18616433,Correct United Kingdom confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/07/2022,5185757,5188184,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/08/2022,5217106,5223507,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/09/2022,5258785,5270363,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/10/2022,5296386,5312450,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/11/2022,5328492,5348224,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/12/2022,5356647,5379551,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/13/2022,5376674,5401615,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/14/2022,5388907,5415088,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/15/2022,5408754,5437343,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/16/2022,5434424,5466198,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/17/2022,5460552,5495432,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/18/2022,5481938,5519411,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/19/2022,5500728,5540302,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/20/2022,5513075,5553989,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/21/2022,5521766,5563446,Correct Poland confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/19/2021,42171531,42171532,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/20/2021,42350790,42350791,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/21/2021,42467834,42467835,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/22/2021,42604416,42604417,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/23/2021,42731975,42731976,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/24/2021,42908509,42908510,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/25/2021,42967482,42967483,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/26/2021,43019723,43019724,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/27/2021,43179472,43179473,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/28/2021,43292172,43292173,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/29/2021,43413108,43413109,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/30/2021,43524434,43524435,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/01/2021,43679032,43679033,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/02/2021,43726024,43726025,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/03/2021,43769615,43769616,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/04/2021,43915063,43915064,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/05/2021,44010423,44010426,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/21/2021,45368825,45368826,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/22/2021,45465196,45465197,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/23/2021,45497021,45497022,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/24/2021,45515582,45515583,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/13/2021,47081716,47081717,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/14/2021,47112926,47112927,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/15/2021,47247736,47247737,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/16/2021,47334791,47334792,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/17/2021,47447472,47447473,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/18/2021,47557649,47557650,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/19/2021,47684556,47684557,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/20/2021,47729348,47729349,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/21/2021,47768578,47768579,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/22/2021,47914225,47914226,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/23/2021,48005504,48005505,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/24/2021,48117034,48117035,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/25/2021,48156087,48156088,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/26/2021,48208781,48208782,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/27/2021,48234774,48234775,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/28/2021,48277269,48277270,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/29/2021,48464985,48464980,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/20/2021,51157972,51157973,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/21/2021,51336725,51336726,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/22/2021,51578229,51578230,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/23/2021,51848739,51848740,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/24/2021,52092807,52092808,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/25/2021,52175651,52175652,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/26/2021,52352531,52352532,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/27/2021,52861605,52861606,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/28/2021,53218372,53218373,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/29/2021,53717817,53717818,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/30/2021,54307237,54307238,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/31/2021,54809812,54809813,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/01/2022,54991018,54991019,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/02/2022,55269036,55269037,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/03/2022,56345126,56345127,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/04/2022,57150909,57150910,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/05/2022,57795871,57795872,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/06/2022,58610908,58610909,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/07/2022,59467235,59467243,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/08/2022,59853433,59853441,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/09/2022,60329367,60329375,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/10/2022,61697487,61697495,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/11/2022,62466931,62466939,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/12/2022,63376365,63376373,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/13/2022,64216896,64216904,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/14/2022,65076381,65076389,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/15/2022,65470757,65470765,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/16/2022,65939067,65939075,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/17/2022,66600636,66600644,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/18/2022,67713762,67713770,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/19/2022,68712361,68712369,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/01/2022,75397363,75397367,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/02/2022,75724526,75724530,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/03/2022,75977870,75977887,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/04/2022,76349025,76349042,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/05/2022,76453618,76453635,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/06/2022,76534180,76534201,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/07/2022,76873411,76873442,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/08/2022,77096375,77096414,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/09/2022,77285250,77285289,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/10/2022,77457316,77457355,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/11/2022,77667718,77667757,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/12/2022,77723070,77723109,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/13/2022,77780002,77780041,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/14/2022,77944055,77944094,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/15/2022,78059110,78059149,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/16/2022,78174363,78174402,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/17/2022,78275698,78275737,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/18/2022,78421569,78421608,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/19/2022,78455125,78455164,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/20/2022,78477178,78477217,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/21/2022,78548831,78548870,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/22/2022,78648651,78648693,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/23/2022,78733444,78733498,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_US.csv,"Covington, Alabama, US",01/25/2022,85607,8579,"Correct Covington, Alabama, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/25/2022,72347484,72270456,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,Philippines,09/27/2021,2490858,2509177,Correct Philippines confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,Philippines,09/28/2021,2509177,2522965,Correct Philippines confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,Philippines,10/07/2021,2622917,2632881,Correct Philippines confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,Philippines,10/28/2021,2768849,2772491,Correct Philippines confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,Philippines,11/10/2021,2806694,2809311,Correct Philippines confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,Philippines,12/07/2021,2835154,2835345,Correct Philippines confirmed data
+02/24/2022,time_series_covid19_deaths_global.csv,Philippines,09/27/2021,37405,37494,Correct Philippines deaths data
+02/24/2022,time_series_covid19_deaths_global.csv,Philippines,09/28/2021,37596,37686,Correct Philippines deaths data
+02/24/2022,time_series_covid19_deaths_global.csv,Philippines,10/07/2021,38828,38837,Correct Philippines deaths data
+02/24/2022,time_series_covid19_deaths_global.csv,Philippines,10/28/2021,42348,42575,Correct Philippines deaths data
+02/24/2022,time_series_covid19_deaths_global.csv,Philippines,11/10/2021,44567,44665,Correct Philippines deaths data
+02/24/2022,time_series_covid19_deaths_global.csv,Philippines,12/07/2021,49499,49591,Correct Philippines deaths data
+02/24/2022,time_series_covid19_confirmed_US.csv,"Unassigned, New Jersey, US",02/21/2022,3245,6665,"Correct Unassigned, New Jersey, US confirmed data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Unassigned, New Jersey, US",02/21/2022,0,64,"Correct Unassigned, New Jersey, US deaths data"
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/21/2022,78548870,78552290,Correct US confirmed data
+02/24/2022,time_series_covid19_deaths_global.csv,US,02/21/2022,936764,936828,Correct US deaths data
+02/24/2022,time_series_covid19_confirmed_US.csv,"Accomack, Virginia, US",02/21/2022,6880,6893,"Correct Accomack, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Albemarle, Virginia, US",02/21/2022,15138,15247,"Correct Albemarle, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Alexandria, Virginia, US",02/21/2022,29345,29420,"Correct Alexandria, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Alleghany, Virginia, US",02/21/2022,3491,3511,"Correct Alleghany, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Amelia, Virginia, US",02/21/2022,2552,2558,"Correct Amelia, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Amherst, Virginia, US",02/21/2022,6753,6796,"Correct Amherst, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Appomattox, Virginia, US",02/21/2022,3583,3600,"Correct Appomattox, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Arlington, Virginia, US",02/21/2022,39749,39923,"Correct Arlington, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Augusta, Virginia, US",02/21/2022,18494,18573,"Correct Augusta, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Bath, Virginia, US",02/21/2022,861,866,"Correct Bath, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Bedford, Virginia, US",02/21/2022,16066,16156,"Correct Bedford, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Bland, Virginia, US",02/21/2022,1723,1730,"Correct Bland, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Botetourt, Virginia, US",02/21/2022,6978,7079,"Correct Botetourt, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Bristol, Virginia, US",02/21/2022,4260,4287,"Correct Bristol, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Brunswick, Virginia, US",02/21/2022,3005,3012,"Correct Brunswick, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Buchanan, Virginia, US",02/21/2022,4525,4563,"Correct Buchanan, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Buckingham, Virginia, US",02/21/2022,3738,3748,"Correct Buckingham, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Buena Vista, Virginia, US",02/21/2022,1950,1961,"Correct Buena Vista, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Campbell, Virginia, US",02/21/2022,10941,11024,"Correct Campbell, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Caroline, Virginia, US",02/21/2022,6679,6744,"Correct Caroline, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Carroll, Virginia, US",02/21/2022,6429,6458,"Correct Carroll, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Charlotte, Virginia, US",02/21/2022,2309,2324,"Correct Charlotte, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Charlottesville, Virginia, US",02/21/2022,9795,9831,"Correct Charlottesville, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Chesapeake, Virginia, US",02/21/2022,48851,48930,"Correct Chesapeake, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Chesterfield, Virginia, US",02/21/2022,69845,70086,"Correct Chesterfield, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Clarke, Virginia, US",02/21/2022,2559,2567,"Correct Clarke, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Colonial Heights, Virginia, US",02/21/2022,4704,4719,"Correct Colonial Heights, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Craig, Virginia, US",02/21/2022,1090,1098,"Correct Craig, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Culpeper, Virginia, US",02/21/2022,11383,11428,"Correct Culpeper, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Cumberland, Virginia, US",02/21/2022,1194,1198,"Correct Cumberland, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Danville, Virginia, US",02/21/2022,10627,10649,"Correct Danville, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Dickenson, Virginia, US",02/21/2022,3166,3199,"Correct Dickenson, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Dinwiddie, Virginia, US",02/21/2022,5123,5144,"Correct Dinwiddie, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Emporia, Virginia, US",02/21/2022,1095,1113,"Correct Emporia, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Essex, Virginia, US",02/21/2022,2212,2219,"Correct Essex, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Fairfax, Virginia, US",02/21/2022,171344,171799,"Correct Fairfax, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Fairfax City, Virginia, US",02/21/2022,1951,1952,"Correct Fairfax City, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Falls Church, Virginia, US",02/21/2022,1897,1913,"Correct Falls Church, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Fauquier, Virginia, US",02/21/2022,12665,12695,"Correct Fauquier, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Floyd, Virginia, US",02/21/2022,2411,2436,"Correct Floyd, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Fluvanna, Virginia, US",02/21/2022,4845,4857,"Correct Fluvanna, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Franklin, Virginia, US",02/21/2022,10524,10555,"Correct Franklin, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Franklin City, Virginia, US",02/21/2022,2443,2448,"Correct Franklin City, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Frederick, Virginia, US",02/21/2022,20103,20167,"Correct Frederick, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Fredericksburg, Virginia, US",02/21/2022,5287,5292,"Correct Fredericksburg, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Galax, Virginia, US",02/21/2022,2476,2498,"Correct Galax, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Giles, Virginia, US",02/21/2022,3905,3945,"Correct Giles, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Gloucester, Virginia, US",02/21/2022,7166,7183,"Correct Gloucester, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Goochland, Virginia, US",02/21/2022,3799,3805,"Correct Goochland, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Grayson, Virginia, US",02/21/2022,3842,3865,"Correct Grayson, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Greene, Virginia, US",02/21/2022,3889,3898,"Correct Greene, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Greensville, Virginia, US",02/21/2022,3257,3271,"Correct Greensville, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Halifax, Virginia, US",02/21/2022,6804,6831,"Correct Halifax, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Hampton, Virginia, US",02/21/2022,27026,27120,"Correct Hampton, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Hanover, Virginia, US",02/21/2022,20983,21053,"Correct Hanover, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Harrisonburg, Virginia, US",02/21/2022,13045,13083,"Correct Harrisonburg, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Henrico, Virginia, US",02/21/2022,62567,62798,"Correct Henrico, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Henry, Virginia, US",02/21/2022,11036,11159,"Correct Henry, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Highland, Virginia, US",02/21/2022,348,350,"Correct Highland, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Hopewell, Virginia, US",02/21/2022,6057,6086,"Correct Hopewell, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Isle of Wight, Virginia, US",02/21/2022,7184,7194,"Correct Isle of Wight, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"James City, Virginia, US",02/21/2022,14476,14545,"Correct James City, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"King George, Virginia, US",02/21/2022,4909,4927,"Correct King George, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"King William, Virginia, US",02/21/2022,3612,3630,"Correct King William, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"King and Queen, Virginia, US",02/21/2022,1103,1105,"Correct King and Queen, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Lancaster, Virginia, US",02/21/2022,1749,1759,"Correct Lancaster, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Lee, Virginia, US",02/21/2022,6012,6043,"Correct Lee, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Lexington, Virginia, US",02/21/2022,2769,2787,"Correct Lexington, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Loudoun, Virginia, US",02/21/2022,64804,64964,"Correct Loudoun, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Louisa, Virginia, US",02/21/2022,6327,6356,"Correct Louisa, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Lunenburg, Virginia, US",02/21/2022,2230,2235,"Correct Lunenburg, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Lynchburg, Virginia, US",02/21/2022,19197,19319,"Correct Lynchburg, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Madison, Virginia, US",02/21/2022,2024,2032,"Correct Madison, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Manassas,Virginia,US",02/21/2022,8788,8895,"Correct Manassas,Virginia,US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Manassas Park, Virginia, US",02/21/2022,3065,3285,"Correct Manassas Park, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Martinsville, Virginia, US",02/21/2022,3119,3162,"Correct Martinsville, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Mathews, Virginia, US",02/21/2022,1402,1406,"Correct Mathews, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Mecklenburg, Virginia, US",02/21/2022,5816,5830,"Correct Mecklenburg, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Middlesex, Virginia, US",02/21/2022,1770,1778,"Correct Middlesex, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Montgomery, Virginia, US",02/21/2022,18016,18107,"Correct Montgomery, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Nelson, Virginia, US",02/21/2022,2643,2653,"Correct Nelson, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"New Kent, Virginia, US",02/21/2022,4517,4526,"Correct New Kent, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Newport News, Virginia, US",02/21/2022,35644,35708,"Correct Newport News, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Norfolk, Virginia, US",02/21/2022,40908,41021,"Correct Norfolk, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Northampton, Virginia, US",02/21/2022,2121,2123,"Correct Northampton, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Northumberland, Virginia, US",02/21/2022,2126,2135,"Correct Northumberland, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Norton, Virginia, US",02/21/2022,1256,1266,"Correct Norton, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Nottoway, Virginia, US",02/21/2022,3901,3913,"Correct Nottoway, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Orange, Virginia, US",02/21/2022,6814,6839,"Correct Orange, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Page, Virginia, US",02/21/2022,5457,5479,"Correct Page, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Patrick, Virginia, US",02/21/2022,3443,3477,"Correct Patrick, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Petersburg, Virginia, US",02/21/2022,8179,8234,"Correct Petersburg, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Pittsylvania, Virginia, US",02/21/2022,12929,12962,"Correct Pittsylvania, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Poquoson, Virginia, US",02/21/2022,2298,2303,"Correct Poquoson, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Portsmouth, Virginia, US",02/21/2022,20458,20491,"Correct Portsmouth, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Powhatan, Virginia, US",02/21/2022,4746,4764,"Correct Powhatan, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Prince Edward, Virginia, US",02/21/2022,4553,4569,"Correct Prince Edward, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Prince George, Virginia, US",02/21/2022,7927,8019,"Correct Prince George, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Prince William, Virginia, US",02/21/2022,93559,93613,"Correct Prince William, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Pulaski, Virginia, US",02/21/2022,6958,7006,"Correct Pulaski, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Radford, Virginia, US",02/21/2022,4761,4793,"Correct Radford, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Rappahannock, Virginia, US",02/21/2022,914,916,"Correct Rappahannock, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Richmond, Virginia, US",02/21/2022,2599,2602,"Correct Richmond, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Richmond City, Virginia, US",02/21/2022,43235,43383,"Correct Richmond City, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Roanoke, Virginia, US",02/21/2022,19707,19745,"Correct Roanoke, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Roanoke City, Virginia, US",02/21/2022,20505,20580,"Correct Roanoke City, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Rockbridge, Virginia, US",02/21/2022,3142,3164,"Correct Rockbridge, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Rockingham, Virginia, US",02/21/2022,14205,14252,"Correct Rockingham, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Russell, Virginia, US",02/21/2022,6580,6633,"Correct Russell, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Salem, Virginia, US",02/21/2022,6730,6700,"Correct Salem, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Scott, Virginia, US",02/21/2022,5565,5595,"Correct Scott, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Shenandoah, Virginia, US",02/21/2022,10577,10622,"Correct Shenandoah, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Smyth, Virginia, US",02/21/2022,8363,8456,"Correct Smyth, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Southampton, Virginia, US",02/21/2022,3256,3258,"Correct Southampton, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Spotsylvania, Virginia, US",02/21/2022,26005,26072,"Correct Spotsylvania, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Stafford, Virginia, US",02/21/2022,29411,29494,"Correct Stafford, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Staunton, Virginia, US",02/21/2022,5460,5485,"Correct Staunton, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Suffolk, Virginia, US",02/21/2022,18406,18452,"Correct Suffolk, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Surry, Virginia, US",02/21/2022,1066,1068,"Correct Surry, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Sussex, Virginia, US",02/21/2022,2378,2391,"Correct Sussex, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Tazewell, Virginia, US",02/21/2022,9696,9739,"Correct Tazewell, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Virginia Beach, Virginia, US",02/21/2022,87908,88091,"Correct Virginia Beach, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Warren, Virginia, US",02/21/2022,8315,8336,"Correct Warren, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Washington, Virginia, US",02/21/2022,13346,13417,"Correct Washington, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Waynesboro, Virginia, US",02/21/2022,5207,5229,"Correct Waynesboro, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Westmoreland, Virginia, US",02/21/2022,3183,3193,"Correct Westmoreland, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Williamsburg, Virginia, US",02/21/2022,1669,1672,"Correct Williamsburg, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Winchester, Virginia, US",02/21/2022,6211,6224,"Correct Winchester, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Wise, Virginia, US",02/21/2022,9811,9888,"Correct Wise, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Wythe, Virginia, US",02/21/2022,7232,7269,"Correct Wythe, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"York, Virginia, US",02/21/2022,9549,9580,"Correct York, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Albemarle, Virginia, US",02/21/2022,132,137,"Correct Albemarle, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Alexandria, Virginia, US",02/21/2022,177,179,"Correct Alexandria, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Amherst, Virginia, US",02/21/2022,79,80,"Correct Amherst, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Arlington, Virginia, US",02/21/2022,306,308,"Correct Arlington, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Augusta, Virginia, US",02/21/2022,184,185,"Correct Augusta, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Bedford, Virginia, US",02/21/2022,211,213,"Correct Bedford, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Botetourt, Virginia, US",02/21/2022,87,89,"Correct Botetourt, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Brunswick, Virginia, US",02/21/2022,38,39,"Correct Brunswick, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Campbell, Virginia, US",02/21/2022,184,188,"Correct Campbell, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Charlottesville, Virginia, US",02/21/2022,66,67,"Correct Charlottesville, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Chesapeake, Virginia, US",02/21/2022,436,441,"Correct Chesapeake, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Chesterfield, Virginia, US",02/21/2022,688,698,"Correct Chesterfield, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Culpeper, Virginia, US",02/21/2022,127,129,"Correct Culpeper, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Danville, Virginia, US",02/21/2022,237,241,"Correct Danville, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Fairfax, Virginia, US",02/21/2022,1331,1338,"Correct Fairfax, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Fairfax City, Virginia, US",02/21/2022,40,41,"Correct Fairfax City, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Fluvanna, Virginia, US",02/21/2022,37,38,"Correct Fluvanna, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Franklin, Virginia, US",02/21/2022,170,173,"Correct Franklin, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Frederick, Virginia, US",02/21/2022,222,224,"Correct Frederick, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Fredericksburg, Virginia, US",02/21/2022,32,33,"Correct Fredericksburg, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Greene, Virginia, US",02/21/2022,57,58,"Correct Greene, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Halifax, Virginia, US",02/21/2022,140,141,"Correct Halifax, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Hampton, Virginia, US",02/21/2022,283,287,"Correct Hampton, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Henrico, Virginia, US",02/21/2022,834,846,"Correct Henrico, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Isle of Wight, Virginia, US",02/21/2022,104,105,"Correct Isle of Wight, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"King William, Virginia, US",02/21/2022,31,32,"Correct King William, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"King and Queen, Virginia, US",02/21/2022,10,11,"Correct King and Queen, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Lee, Virginia, US",02/21/2022,80,82,"Correct Lee, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Lunenburg, Virginia, US",02/21/2022,27,28,"Correct Lunenburg, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Manassas,Virginia,US",02/21/2022,65,66,"Correct Manassas,Virginia,US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Manassas Park, Virginia, US",02/21/2022,19,23,"Correct Manassas Park, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Nelson, Virginia, US",02/21/2022,27,29,"Correct Nelson, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Newport News, Virginia, US",02/21/2022,357,358,"Correct Newport News, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Norfolk, Virginia, US",02/21/2022,438,441,"Correct Norfolk, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Northampton, Virginia, US",02/21/2022,55,56,"Correct Northampton, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Nottoway, Virginia, US",02/21/2022,79,80,"Correct Nottoway, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Page, Virginia, US",02/21/2022,110,111,"Correct Page, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Portsmouth, Virginia, US",02/21/2022,296,300,"Correct Portsmouth, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Prince Edward, Virginia, US",02/21/2022,59,60,"Correct Prince Edward, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Prince William, Virginia, US",02/21/2022,683,685,"Correct Prince William, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Richmond City, Virginia, US",02/21/2022,439,441,"Correct Richmond City, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Roanoke, Virginia, US",02/21/2022,241,242,"Correct Roanoke, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Roanoke City, Virginia, US",02/21/2022,319,320,"Correct Roanoke City, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Salem, Virginia, US",02/21/2022,103,104,"Correct Salem, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Smyth, Virginia, US",02/21/2022,156,158,"Correct Smyth, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Spotsylvania, Virginia, US",02/21/2022,259,263,"Correct Spotsylvania, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Stafford, Virginia, US",02/21/2022,148,149,"Correct Stafford, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Staunton, Virginia, US",02/21/2022,99,100,"Correct Staunton, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Suffolk, Virginia, US",02/21/2022,275,278,"Correct Suffolk, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Tazewell, Virginia, US",02/21/2022,146,148,"Correct Tazewell, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Virginia Beach, Virginia, US",02/21/2022,743,745,"Correct Virginia Beach, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Warren, Virginia, US",02/21/2022,137,138,"Correct Warren, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Washington, Virginia, US",02/21/2022,201,204,"Correct Washington, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Westmoreland, Virginia, US",02/21/2022,45,46,"Correct Westmoreland, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Winchester, Virginia, US",02/21/2022,73,74,"Correct Winchester, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Wise, Virginia, US",02/21/2022,174,175,"Correct Wise, Virginia, US deaths data"
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/21/2022,78552290,78558198,Correct US confirmed data
+02/24/2022,time_series_covid19_deaths_global.csv,US,02/21/2022,936828,936957,Correct US deaths data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,03/23/2020,356,351,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,03/24/2020,386,382,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,03/25/2020,410,407,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,03/26/2020,453,452,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,03/27/2020,519,494,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,03/28/2020,561,526,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,03/29/2020,641,577,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,03/30/2020,682,623,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,03/31/2020,714,680,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,04/01/2020,765,737,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,04/02/2020,802,784,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,04/03/2020,845,831,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,04/04/2020,862,853,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,04/05/2020,890,882,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,04/15/2020,1017,1016,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,04/18/2020,1024,1023,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,05/21/2020,1055,1063,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,06/19/2020,1124,1127,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,07/10/2020,1365,1403,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,07/13/2020,1469,1521,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,07/18/2020,1713,1777,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,07/19/2020,1777,1885,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,07/20/2020,1885,1958,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,07/21/2020,1958,2018,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/21/2021,9928,9867,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/26/2021,10950,10951,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,10/06/2021,12244,12243,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,10/09/2021,12261,12230,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/02/2022,12664,12693,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/03/2022,12677,12722,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/04/2022,12690,12761,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/05/2022,12708,12799,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/06/2022,12732,12832,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/07/2022,12749,12865,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/08/2022,12770,12902,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/09/2022,12786,12935,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/10/2022,12792,12959,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/11/2022,12809,12980,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/12/2022,12821,13002,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/13/2022,12852,13016,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/14/2022,12854,13025,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/15/2022,12857,13030,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/16/2022,12864,13041,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/17/2022,12867,13048,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/18/2022,12873,13066,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/19/2022,12880,13082,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/20/2022,12907,13096,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/21/2022,12918,13120,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/22/2022,12932,13146,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/23/2022,13034,13286,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/24/2022,13104,13395,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/25/2022,13181,13519,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/26/2022,13262,13626,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/27/2022,13450,13790,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/28/2022,13533,13905,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/29/2022,13613,14024,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/30/2022,13679,14105,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,01/31/2022,13745,14197,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/01/2022,13829,14326,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/02/2022,13912,14442,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/03/2022,14013,14584,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/04/2022,14235,14715,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/05/2022,14488,15066,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/06/2022,14665,15408,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/07/2022,15026,16022,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/08/2022,15176,16647,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/09/2022,15811,17808,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/10/2022,16079,18794,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/11/2022,16583,20119,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/12/2022,16719,21633,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/13/2022,17046,22980,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/14/2022,18494,25051,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/15/2022,19099,26670,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/16/2022,19881,30955,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/17/2022,20342,37071,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/18/2022,21750,40700,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/19/2022,22128,46763,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/20/2022,22468,52830,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/21/2022,26038,60363,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/22/2022,28700,66574,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/23/2022,28700,75248,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/24/2022,35052,84046,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/25/2022,38892,94056,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/26/2022,44386,138955,Correct China confirmed data
+02/28/2022,time_series_covid19_confirmed_global.csv,China,02/27/2022,44386,171314,Correct China confirmed data
+02/28/2022,time_series_covid19_deaths_global.csv,China,06/20/2020,5,4,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,07/15/2020,10,8,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,07/17/2020,11,10,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,07/28/2020,23,22,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,07/30/2020,25,24,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/01/2020,33,31,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/02/2020,35,34,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/03/2020,38,37,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/04/2020,42,41,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/06/2020,46,44,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/07/2020,47,46,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/09/2020,52,51,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/10/2020,55,54,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/11/2020,59,58,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/13/2020,66,65,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/14/2020,67,66,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/15/2020,69,68,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/18/2020,71,70,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/20/2020,75,73,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/22/2020,77,76,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/25/2020,78,77,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/26/2020,79,78,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/27/2020,81,79,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,08/29/2020,87,86,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,09/06/2020,96,95,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,09/15/2020,102,101,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,09/23/2020,104,103,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,09/25/2020,105,104,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,11/05/2020,107,106,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,12/03/2020,111,110,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,12/15/2020,123,122,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,12/20/2020,130,129,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,12/27/2020,137,136,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,12/28/2020,141,139,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,12/30/2020,147,146,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,01/01/2021,148,149,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,01/04/2021,153,151,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,01/11/2021,159,158,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,01/12/2021,160,159,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,01/19/2021,165,164,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,01/21/2021,168,167,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,01/22/2021,168,167,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,01/27/2021,175,174,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,01/30/2021,179,178,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,02/02/2021,184,183,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,02/09/2021,188,187,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,02/10/2021,189,188,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,02/16/2021,195,194,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,02/17/2021,197,195,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,02/24/2021,198,197,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,03/10/2021,203,202,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,03/23/2021,204,203,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,04/09/2021,207,206,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,04/13/2021,208,207,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,06/26/2021,210,211,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,06/27/2021,210,211,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,06/28/2021,210,211,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,02/18/2022,258,259,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,02/19/2022,258,276,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,02/23/2022,336,385,Correct China deaths data
+02/28/2022,time_series_covid19_deaths_global.csv,China,02/27/2022,577,659,Correct China deaths data
+03/01/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Puerto Rico, US",02/23/2022,17921,15365,"Correct Unassigned, Puerto Rico, US confirmed data"
+03/01/2022,time_series_covid19_confirmed_global.csv,US,02/23/2022,78733498,78730942,Correct US confirmed data
+03/02/2022,time_series_covid19_confirmed_US.csv,"Adair, Kentucky, US",03/01/2022,5448,5478,"Correct Adair, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Allen, Kentucky, US",03/01/2022,6510,6516,"Correct Allen, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Anderson, Kentucky, US",03/01/2022,6139,6156,"Correct Anderson, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Ballard, Kentucky, US",03/01/2022,1246,1250,"Correct Ballard, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Barren, Kentucky, US",03/01/2022,12631,12650,"Correct Barren, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Bath, Kentucky, US",03/01/2022,2833,2859,"Correct Bath, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Bell, Kentucky, US",03/01/2022,8754,8762,"Correct Bell, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Boone, Kentucky, US",03/01/2022,36043,36068,"Correct Boone, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Bourbon, Kentucky, US",03/01/2022,5875,5883,"Correct Bourbon, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Boyd, Kentucky, US",03/01/2022,15919,15971,"Correct Boyd, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Boyle, Kentucky, US",03/01/2022,8285,8297,"Correct Boyle, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Bracken, Kentucky, US",03/01/2022,2088,2089,"Correct Bracken, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Breathitt, Kentucky, US",03/01/2022,3511,3520,"Correct Breathitt, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Breckinridge, Kentucky, US",03/01/2022,4975,4978,"Correct Breckinridge, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Bullitt, Kentucky, US",03/01/2022,20859,20889,"Correct Bullitt, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Butler, Kentucky, US",03/01/2022,3799,3819,"Correct Butler, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Caldwell, Kentucky, US",03/01/2022,3954,3982,"Correct Caldwell, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Calloway, Kentucky, US",03/01/2022,7898,7903,"Correct Calloway, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Campbell, Kentucky, US",03/01/2022,22256,22272,"Correct Campbell, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Carlisle, Kentucky, US",03/01/2022,963,964,"Correct Carlisle, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Carroll, Kentucky, US",03/01/2022,3426,3432,"Correct Carroll, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Carter, Kentucky, US",03/01/2022,8381,8405,"Correct Carter, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Casey, Kentucky, US",03/01/2022,3915,3921,"Correct Casey, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Christian, Kentucky, US",03/01/2022,15757,15806,"Correct Christian, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Clark, Kentucky, US",03/01/2022,9803,9818,"Correct Clark, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Clay, Kentucky, US",03/01/2022,7694,7708,"Correct Clay, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Clinton, Kentucky, US",03/01/2022,3334,3351,"Correct Clinton, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Crittenden, Kentucky, US",03/01/2022,2047,2084,"Correct Crittenden, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Cumberland, Kentucky, US",03/01/2022,2123,2129,"Correct Cumberland, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Daviess, Kentucky, US",03/01/2022,30745,30778,"Correct Daviess, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Edmonson, Kentucky, US",03/01/2022,2519,2521,"Correct Edmonson, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Elliott, Kentucky, US",03/01/2022,2212,2228,"Correct Elliott, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Estill, Kentucky, US",03/01/2022,4034,4040,"Correct Estill, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Fayette, Kentucky, US",03/01/2022,92796,92978,"Correct Fayette, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Fleming, Kentucky, US",03/01/2022,3624,3630,"Correct Fleming, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Floyd, Kentucky, US",03/01/2022,12182,12231,"Correct Floyd, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Franklin, Kentucky, US",03/01/2022,13081,13111,"Correct Franklin, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Fulton, Kentucky, US",03/01/2022,1148,1149,"Correct Fulton, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Garrard, Kentucky, US",03/01/2022,4706,4716,"Correct Garrard, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Grant, Kentucky, US",03/01/2022,6694,6706,"Correct Grant, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Graves, Kentucky, US",03/01/2022,11310,11316,"Correct Graves, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Grayson, Kentucky, US",03/01/2022,8002,8013,"Correct Grayson, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Green, Kentucky, US",03/01/2022,3470,3484,"Correct Green, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Greenup, Kentucky, US",03/01/2022,11796,11814,"Correct Greenup, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Hancock, Kentucky, US",03/01/2022,2435,2439,"Correct Hancock, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Hardin, Kentucky, US",03/01/2022,32159,32192,"Correct Hardin, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Harlan, Kentucky, US",03/01/2022,9005,9047,"Correct Harlan, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Harrison, Kentucky, US",03/01/2022,6073,6084,"Correct Harrison, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Hart, Kentucky, US",03/01/2022,5318,5325,"Correct Hart, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Henderson, Kentucky, US",03/01/2022,13628,13651,"Correct Henderson, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Henry, Kentucky, US",03/01/2022,4726,4727,"Correct Henry, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Hickman, Kentucky, US",03/01/2022,817,816,"Correct Hickman, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Hopkins, Kentucky, US",03/01/2022,14560,14608,"Correct Hopkins, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Jackson, Kentucky, US",03/01/2022,4181,4188,"Correct Jackson, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Jefferson, Kentucky, US",03/01/2022,219919,220188,"Correct Jefferson, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Jessamine, Kentucky, US",03/01/2022,14911,14936,"Correct Jessamine, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Johnson, Kentucky, US",03/01/2022,5840,5868,"Correct Johnson, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Kenton, Kentucky, US",03/01/2022,40676,40720,"Correct Kenton, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Knott, Kentucky, US",03/01/2022,3988,4015,"Correct Knott, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Knox, Kentucky, US",03/01/2022,11282,11320,"Correct Knox, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Larue, Kentucky, US",03/01/2022,3694,3700,"Correct Larue, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Laurel, Kentucky, US",03/01/2022,18220,18271,"Correct Laurel, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Lawrence, Kentucky, US",03/01/2022,4433,4450,"Correct Lawrence, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Lee, Kentucky, US",03/01/2022,2833,2860,"Correct Lee, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Leslie, Kentucky, US",03/01/2022,3564,3585,"Correct Leslie, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Letcher, Kentucky, US",03/01/2022,6698,6719,"Correct Letcher, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Lewis, Kentucky, US",03/01/2022,4401,4418,"Correct Lewis, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Lincoln, Kentucky, US",03/01/2022,6167,6184,"Correct Lincoln, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Livingston, Kentucky, US",03/01/2022,2283,2296,"Correct Livingston, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Logan, Kentucky, US",03/01/2022,8262,8267,"Correct Logan, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Lyon, Kentucky, US",03/01/2022,2787,2802,"Correct Lyon, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Madison, Kentucky, US",03/01/2022,27334,27385,"Correct Madison, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Magoffin, Kentucky, US",03/01/2022,3765,3773,"Correct Magoffin, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Marion, Kentucky, US",03/01/2022,6322,6326,"Correct Marion, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Marshall, Kentucky, US",03/01/2022,8317,8319,"Correct Marshall, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Martin, Kentucky, US",03/01/2022,3201,3207,"Correct Martin, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Mason, Kentucky, US",03/01/2022,4522,4530,"Correct Mason, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"McCracken, Kentucky, US",03/01/2022,17710,17740,"Correct McCracken, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"McCreary, Kentucky, US",03/01/2022,5030,5050,"Correct McCreary, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"McLean, Kentucky, US",03/01/2022,2594,2595,"Correct McLean, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Meade, Kentucky, US",03/01/2022,5727,5728,"Correct Meade, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Menifee, Kentucky, US",03/01/2022,1470,1486,"Correct Menifee, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Mercer, Kentucky, US",03/01/2022,7243,7253,"Correct Mercer, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Metcalfe, Kentucky, US",03/01/2022,2808,2812,"Correct Metcalfe, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Monroe, Kentucky, US",03/01/2022,3583,3588,"Correct Monroe, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Montgomery, Kentucky, US",03/01/2022,6567,6599,"Correct Montgomery, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Morgan, Kentucky, US",03/01/2022,4580,4602,"Correct Morgan, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Muhlenberg, Kentucky, US",03/01/2022,10035,10045,"Correct Muhlenberg, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Nelson, Kentucky, US",03/01/2022,14254,14268,"Correct Nelson, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Nicholas, Kentucky, US",03/01/2022,1865,1870,"Correct Nicholas, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Ohio, Kentucky, US",03/01/2022,7244,7248,"Correct Ohio, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Oldham, Kentucky, US",03/01/2022,17952,17982,"Correct Oldham, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Owen, Kentucky, US",03/01/2022,2344,2347,"Correct Owen, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Owsley, Kentucky, US",03/01/2022,1536,1544,"Correct Owsley, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Pendleton, Kentucky, US",03/01/2022,3408,3409,"Correct Pendleton, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Perry, Kentucky, US",03/01/2022,10350,10450,"Correct Perry, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Pike, Kentucky, US",03/01/2022,17735,17928,"Correct Pike, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Powell, Kentucky, US",03/01/2022,4670,4678,"Correct Powell, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Pulaski, Kentucky, US",03/01/2022,15665,15766,"Correct Pulaski, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Robertson, Kentucky, US",03/01/2022,619,620,"Correct Robertson, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Rockcastle, Kentucky, US",03/01/2022,4977,4980,"Correct Rockcastle, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Rowan, Kentucky, US",03/01/2022,6352,6375,"Correct Rowan, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Russell, Kentucky, US",03/01/2022,6112,6129,"Correct Russell, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Scott, Kentucky, US",03/01/2022,15672,15705,"Correct Scott, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Shelby, Kentucky, US",03/01/2022,13069,13083,"Correct Shelby, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Simpson, Kentucky, US",03/01/2022,5583,5589,"Correct Simpson, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Spencer, Kentucky, US",03/01/2022,5242,5245,"Correct Spencer, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Taylor, Kentucky, US",03/01/2022,8677,8722,"Correct Taylor, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Todd, Kentucky, US",03/01/2022,2883,2885,"Correct Todd, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Trigg, Kentucky, US",03/01/2022,3519,3555,"Correct Trigg, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Trimble, Kentucky, US",03/01/2022,2129,2133,"Correct Trimble, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Kentucky, US",03/01/2022,2561,2562,"Correct Unassigned, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Union, Kentucky, US",03/01/2022,4270,4277,"Correct Union, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Warren, Kentucky, US",03/01/2022,42525,42555,"Correct Warren, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Washington, Kentucky, US",03/01/2022,3825,3833,"Correct Washington, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Wayne, Kentucky, US",03/01/2022,5054,5079,"Correct Wayne, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Webster, Kentucky, US",03/01/2022,3866,3872,"Correct Webster, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Whitley, Kentucky, US",03/01/2022,13751,13819,"Correct Whitley, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Wolfe, Kentucky, US",03/01/2022,2347,2358,"Correct Wolfe, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Woodford, Kentucky, US",03/01/2022,6686,6697,"Correct Woodford, Kentucky, US confirmed data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Allen, Kentucky, US",03/01/2022,93,94,"Correct Allen, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Anderson, Kentucky, US",03/01/2022,62,63,"Correct Anderson, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Bell, Kentucky, US",03/01/2022,129,130,"Correct Bell, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Boone, Kentucky, US",03/01/2022,262,263,"Correct Boone, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Bourbon, Kentucky, US",03/01/2022,50,51,"Correct Bourbon, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Breckinridge, Kentucky, US",03/01/2022,71,72,"Correct Breckinridge, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Bullitt, Kentucky, US",03/01/2022,192,193,"Correct Bullitt, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Campbell, Kentucky, US",03/01/2022,152,153,"Correct Campbell, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Carlisle, Kentucky, US",03/01/2022,18,19,"Correct Carlisle, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Carter, Kentucky, US",03/01/2022,96,97,"Correct Carter, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Franklin, Kentucky, US",03/01/2022,133,135,"Correct Franklin, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Fulton, Kentucky, US",03/01/2022,23,24,"Correct Fulton, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Grant, Kentucky, US",03/01/2022,50,51,"Correct Grant, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Graves, Kentucky, US",03/01/2022,157,160,"Correct Graves, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Greenup, Kentucky, US",03/01/2022,125,126,"Correct Greenup, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Hopkins, Kentucky, US",03/01/2022,243,244,"Correct Hopkins, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Jefferson, Kentucky, US",03/01/2022,2051,2060,"Correct Jefferson, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Knott, Kentucky, US",03/01/2022,55,57,"Correct Knott, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Madison, Kentucky, US",03/01/2022,248,249,"Correct Madison, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Marshall, Kentucky, US",03/01/2022,95,96,"Correct Marshall, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Mason, Kentucky, US",03/01/2022,96,97,"Correct Mason, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"McCracken, Kentucky, US",03/01/2022,225,227,"Correct McCracken, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Perry, Kentucky, US",03/01/2022,145,146,"Correct Perry, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Pike, Kentucky, US",03/01/2022,248,252,"Correct Pike, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Rowan, Kentucky, US",03/01/2022,53,54,"Correct Rowan, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Washington, Kentucky, US",03/01/2022,55,56,"Correct Washington, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Wayne, Kentucky, US",03/01/2022,86,87,"Correct Wayne, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Whitley, Kentucky, US",03/01/2022,160,161,"Correct Whitley, Kentucky, US deaths data"
+03/02/2022,time_series_covid19_confirmed_global.csv,US,03/01/2022,79088507,79091264,Correct US confirmed data
+03/02/2022,time_series_covid19_deaths_global.csv,US,03/01/2022,952629,952673,Correct US deaths data
+03/02/2022,time_series_covid19_confirmed_US.csv,"Albany, Wyoming, US",03/01/2022,9808,9811,"Correct Albany, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Big Horn, Wyoming, US",03/01/2022,2561,2562,"Correct Big Horn, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Campbell, Wyoming, US",03/01/2022,12037,12040,"Correct Campbell, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Carbon, Wyoming, US",03/01/2022,4584,4585,"Correct Carbon, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Converse, Wyoming, US",03/01/2022,3125,3126,"Correct Converse, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Crook, Wyoming, US",03/01/2022,1339,1340,"Correct Crook, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Fremont, Wyoming, US",03/01/2022,13648,13653,"Correct Fremont, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Goshen, Wyoming, US",03/01/2022,3578,3583,"Correct Goshen, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Hot Springs, Wyoming, US",03/01/2022,1143,1145,"Correct Hot Springs, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Laramie, Wyoming, US",03/01/2022,25904,25918,"Correct Laramie, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Lincoln, Wyoming, US",03/01/2022,3950,3951,"Correct Lincoln, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Natrona, Wyoming, US",03/01/2022,22118,22134,"Correct Natrona, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Niobrara, Wyoming, US",03/01/2022,646,647,"Correct Niobrara, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Park, Wyoming, US",03/01/2022,6702,6707,"Correct Park, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Sheridan, Wyoming, US",03/01/2022,8023,8025,"Correct Sheridan, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Sublette, Wyoming, US",03/01/2022,1915,1917,"Correct Sublette, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Sweetwater, Wyoming, US",03/01/2022,10999,11003,"Correct Sweetwater, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Teton, Wyoming, US",03/01/2022,9782,9791,"Correct Teton, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Uinta, Wyoming, US",03/01/2022,5623,5627,"Correct Uinta, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_confirmed_US.csv,"Washakie, Wyoming, US",03/01/2022,2337,2340,"Correct Washakie, Wyoming, US confirmed data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Campbell, Wyoming, US",03/01/2022,140,141,"Correct Campbell, Wyoming, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Carbon, Wyoming, US",03/01/2022,50,51,"Correct Carbon, Wyoming, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Crook, Wyoming, US",03/01/2022,25,26,"Correct Crook, Wyoming, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Fremont, Wyoming, US",03/01/2022,176,181,"Correct Fremont, Wyoming, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Goshen, Wyoming, US",03/01/2022,54,56,"Correct Goshen, Wyoming, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Johnson, Wyoming, US",03/01/2022,18,19,"Correct Johnson, Wyoming, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Laramie, Wyoming, US",03/01/2022,273,278,"Correct Laramie, Wyoming, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Lincoln, Wyoming, US",03/01/2022,28,29,"Correct Lincoln, Wyoming, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Natrona, Wyoming, US",03/01/2022,261,263,"Correct Natrona, Wyoming, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Park, Wyoming, US",03/01/2022,133,136,"Correct Park, Wyoming, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Uinta, Wyoming, US",03/01/2022,36,37,"Correct Uinta, Wyoming, US deaths data"
+03/02/2022,time_series_covid19_deaths_US.csv,"Unassigned, Wyoming, US",03/01/2022,273,0,"Correct Unassigned, Wyoming, US deaths data"
+03/02/2022,time_series_covid19_confirmed_global.csv,US,03/01/2022,79091264,79091347,Correct US confirmed data
+03/02/2022,time_series_covid19_deaths_global.csv,US,03/01/2022,952673,952423,Correct US deaths data
+03/03/2022,time_series_covid19_confirmed_global.csv,Georgia,01/12/2022,979235,973909,Correct Georgia confirmed data
+03/03/2022,time_series_covid19_deaths_global.csv,Georgia,01/12/2022,14359,14311,Correct Georgia deaths data
+03/04/2022,time_series_covid19_deaths_global.csv,France,02/21/2022,129715,133671,Correct France deaths data
+03/08/2022,time_series_covid19_cases_global.csv,"Northern Mariana Islands, US",03/05/2022,9999,10074,Correct Northern Mariana Islands confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Vanuatu,02/25/2022,19,18,Correct Vanuatu confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Vanuatu,02/26/2022,19,18,Correct Vanuatu confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Vanuatu,02/27/2022,19,18,Correct Vanuatu confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Vanuatu,02/28/2022,19,18,Correct Vanuatu confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Vanuatu,03/01/2022,19,18,Correct Vanuatu confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Vanuatu,03/02/2022,19,18,Correct Vanuatu confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Vanuatu,03/03/2022,19,18,Correct Vanuatu confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Peru,03/01/2022,3517260,3518721,Correct Peru confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Peru,03/02/2022,3518721,3520604,Correct Peru confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Peru,03/03/2022,3518721,3522484,Correct Peru confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Peru,03/04/2022,3522484,3524504,Correct Peru confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Peru,03/05/2022,3522484,3525940,Correct Peru confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Peru,03/06/2022,3522484,3527549,Correct Peru confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Peru,03/07/2022,3527549,3528038,Correct Peru confirmed data
+03/08/2022,time_series_covid19_deaths_global.csv,Peru,03/01/2022,210672,210744,Correct Peru deaths data
+03/08/2022,time_series_covid19_deaths_global.csv,Peru,03/02/2022,210744,210851,Correct Peru deaths data
+03/08/2022,time_series_covid19_deaths_global.csv,Peru,03/03/2022,210744,210907,Correct Peru deaths data
+03/08/2022,time_series_covid19_deaths_global.csv,Peru,03/04/2022,210907,210995,Correct Peru deaths data
+03/08/2022,time_series_covid19_deaths_global.csv,Peru,03/05/2022,210907,211032,Correct Peru deaths data
+03/08/2022,time_series_covid19_deaths_global.csv,Peru,03/06/2022,210907,211108,Correct Peru deaths data
+03/08/2022,time_series_covid19_deaths_global.csv,Peru,03/07/2022,211108,211155,Correct Peru deaths data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,01/25/2022,70440,100224,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,01/26/2022,70514,100961,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,01/27/2022,70629,101820,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,01/28/2022,70734,102773,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,01/29/2022,70734,103762,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,01/30/2022,70734,104802,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,01/31/2022,70862,105935,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/01/2022,70862,107293,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/02/2022,70862,108486,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/03/2022,70862,109142,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/04/2022,70862,110967,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/05/2022,70862,112844,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/06/2022,70862,114570,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/07/2022,70862,116315,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/08/2022,70862,118535,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/09/2022,70862,120696,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/10/2022,70862,122745,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/11/2022,70862,124962,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/12/2022,70862,127165,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/13/2022,70862,129445,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/14/2022,70862,131843,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/15/2022,70862,134870,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/16/2022,70862,138373,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/17/2022,70862,141434,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/18/2022,70862,144488,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/19/2022,70862,147373,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/20/2022,70862,149132,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/21/2022,70862,150175,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/22/2022,70862,153526,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/23/2022,70862,156462,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/24/2022,70862,159324,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/25/2022,70862,161746,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/26/2022,70862,163901,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/27/2022,70862,165663,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,02/28/2022,70862,167644,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,03/01/2022,70862,169796,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,03/02/2022,70862,169796,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,03/03/2022,70862,169796,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,03/04/2022,70862,169796,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,03/05/2022,70862,169796,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_confirmed_global.csv,Mauritius,03/06/2022,70862,169796,Correct Mauritius confirmed data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,01/25/2022,786,822,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,01/26/2022,786,822,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,01/27/2022,786,822,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,01/28/2022,786,822,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,01/29/2022,786,822,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,01/30/2022,786,822,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,01/31/2022,786,822,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/01/2022,786,822,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/02/2022,786,822,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/03/2022,786,822,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/04/2022,786,822,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/05/2022,786,822,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/06/2022,786,822,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/07/2022,786,841,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/08/2022,786,841,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/09/2022,786,841,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/10/2022,786,841,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/11/2022,786,841,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/12/2022,786,841,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/13/2022,786,841,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/14/2022,786,841,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/15/2022,786,841,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/16/2022,786,878,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/17/2022,786,878,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/18/2022,786,878,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/19/2022,786,878,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/20/2022,786,878,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/21/2022,786,878,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/22/2022,786,895,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/23/2022,786,895,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/24/2022,786,895,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/25/2022,786,895,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/26/2022,786,895,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/27/2022,786,895,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,02/28/2022,786,904,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,03/01/2022,786,904,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,03/02/2022,786,904,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,03/03/2022,786,904,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,03/04/2022,786,904,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,03/05/2022,786,904,Correct Mauritius deaths data
+03/09/2022,time_series_covid19_deaths_global.csv,Mauritius,03/06/2022,786,904,Correct Mauritius deaths data
+03/14/2022,time_series_covid19_confirmed_global.csv,France,03/12/2022,22741033,22811557,Correct France confirmed data
+03/14/2022,time_series_covid19_confirmed_global.csv,France,03/13/2022,22741033,22870593,Correct France confirmed data
+03/14/2022,time_series_covid19_deaths_global.csv,France,03/12/2022,136947,136997,Correct France deaths data
+03/14/2022,time_series_covid19_deaths_global.csv,France,03/13/2022,136947,137025,Correct France deaths data
+03/15/2022,time_series_covid19_deaths_global.csv,Bahrain,02/21/2022,1498,1438,Correct Bahrain deaths data
+03/15/2022,time_series_covid19_deaths_global.csv,Singapore,03/08/2022,1084,1099,Correct Singapore deaths data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/17/2022,2,3,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/18/2022,2,3,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/19/2022,2,4,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/20/2022,2,4,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/21/2022,2,4,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/22/2022,2,4,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/23/2022,2,6,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/24/2022,2,6,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/25/2022,2,8,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/26/2022,2,8,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/27/2022,2,8,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/28/2022,2,10,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/01/2022,2,25,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/02/2022,2,53,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/03/2022,2,71,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/04/2022,2,84,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/05/2022,2,84,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/06/2022,2,84,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/07/2022,2,132,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/08/2022,2,141,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/09/2022,2,174,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/10/2022,2,206,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/11/2022,2,247,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/12/2022,2,247,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/13/2022,2,247,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/14/2022,2,338,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/15/2022,2,379,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_deaths_global.csv,US,03/11/2022,967165,967126,Correct US deaths data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/03/2020,195,183,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/08/2020,228,232,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/09/2020,232,236,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/18/2020,257,256,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/19/2020,257,256,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/20/2020,257,256,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/21/2020,257,256,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/07/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/08/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/09/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/10/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/11/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/12/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/13/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/14/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,12/14/2020,358,359,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/22/2021,940,939,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/23/2021,955,954,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/24/2021,963,962,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/25/2021,973,972,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/26/2021,977,976,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/27/2021,981,980,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/28/2021,988,987,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/11/2021,1030,1029,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/17/2021,1039,1042,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,10/02/2021,1796,1797,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,10/03/2021,1804,1805,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,11/17/2021,2027,2031,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,12/06/2021,2064,2071,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,12/18/2021,2152,2175,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,12/27/2021,2512,2869,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,12/28/2021,2512,3063,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,12/31/2021,3724,4155,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/01/2022,4155,4597,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/02/2022,4155,5063,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/08/2022,7537,7949,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/09/2022,7537,8316,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/15/2022,12092,12406,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/16/2022,12092,12790,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/22/2022,14522,14805,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/23/2022,14522,15166,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/24/2022,14522,15515,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/26/2022,15811,16115,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/29/2022,16758,16966,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/30/2022,16758,17176,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/05/2022,18242,18464,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/06/2022,18242,18574,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/12/2022,19710,19954,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/13/2022,19710,20191,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/19/2022,21307,21613,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/20/2022,21307,21737,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/22/2022,21974,22220,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/24/2022,22468,22755,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/26/2022,23147,23443,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/27/2022,23147,23699,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/01/2022,24026,24392,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/03/2022,24781,25278,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/05/2022,25728,26197,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/06/2022,25728,26529,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/07/2022,25728,26972,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/08/2022,26972,27507,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/10/2022,28103,28783,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/12/2022,29365,30100,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/13/2022,29365,30627,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/14/2022,29365,31070,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/15/2022,29365,31553,Correct Canada confirmed data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,04/06/2020,1,2,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,04/07/2020,1,2,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,04/08/2020,1,2,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,04/09/2020,2,3,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,12/31/2021,18,19,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,01/15/2022,24,25,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,01/16/2022,24,26,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,01/24/2022,30,31,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,01/26/2022,31,34,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,02/04/2022,45,46,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,02/05/2022,45,46,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,02/06/2022,45,46,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,03/07/2022,66,68,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,03/15/2022,76,78,Correct Canada deaths data
