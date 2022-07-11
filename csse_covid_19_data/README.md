@@ -584,7 +584,7 @@ United States
 * Maryland: Providing data Monday-Friday (as of April 3, 2022).
 * Massachuetts: Providing data Monday-Friday.
 * Michigan: Providing data once per week (Wednesdays) (as of April 4, 2022). ~~Providing data Mondays, Wednesdays, and Fridays (as of August 9, 2021).~~ ~~Providing data Tuesdays and Fridays (as of 07/07/2021)~~. No case data provided for August 21.
-* Minnesota: Providing data Monday-Friday.
+* Minnesota: Providing data once per week (Thursdays) (as of June 30, 2022).~~Providing data Monday-Friday.~~
 * Mississippi: Providing state level data Monday-Friday. County level data updated once per week (as of March 10, 2022).
 * Missouri: Providing data once weekly (Fridays) (as of April 1, 2022). ~~Providing data Monday-Friday (as of Feb 22, 2022).~~
 * Montana: Providing data once weekly (Fridays) (as of May 6, 2022). ~~Providing data Monday-Friday.~~
@@ -621,12 +621,13 @@ For all international locations, compositing with the reporting of the World Hea
 ~~* NSW, Australia: NSW Health has suspended its survey of the recovery status of patients with COVID-19 to focus on the recent increase in community transmission on July 31, 2020. Therefore, recovery statistics are no longer presented. ([Source](https://www.nsw.gov.au/covid-19/find-facts-about-covid-19), [Issue #3694](https://github.com/CSSEGISandData/COVID-19/issues/3694)).~~
 * Belgium: Providing data Tuesdays and Fridays. ~~Providing data Tuesday-Saturday.~~
 * Bosnia and Herezegovina: Not updating data on the weekends.
-* Alberta, Canada: Providing data Monday-Friday.
-* British Columba, Canada: Providing data Monday-Friday.
-* Manitoba, Canada: Providing data Monday-Friday.
+* Alberta, Canada: Providing data once per week (Wednesdays). ~~Providing data Monday-Friday.~~
+* British Columba, Canada: Providing data once per week (Thursdays). ~~Providing data Monday-Friday.~~
+* Manitoba, Canada: Providing data once per week (Thursdays). ~~Providing data Monday-Friday.~~
 * New Brunswick, Canada: Providing data Monday-Friday.
 * Newfoundland and Labrador, Canada: Providing data Monday, Wednesday, and Friday.
 * Northwest Territories, Canada: Providing data Monday-Friday.
+* Prince Edwards, Canada: Providing data once per week (Tuesdays).
 * Saskatechewan, Canada: Providing data weekly (Thursdays). 
 * Yukon, Canada: Providing data Monday-Friday.
 * Colombia: Weekly on Thursdays
