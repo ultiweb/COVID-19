@@ -582,7 +582,7 @@ United States
 * Louisiana: Providing data Monday-Friday.
 * Maine: Providing data Tuesday-Saturday.
 * Maryland: Providing data Monday-Friday (as of April 3, 2022).
-* Massachuetts: Providing data Monday-Friday.
+* Massachuetts: Providing data once weekly (Thursdays) (as of July 11, 2022). ~~Providing data Monday-Friday.~~
 * Michigan: Providing data once per week (Wednesdays) (as of April 4, 2022). ~~Providing data Mondays, Wednesdays, and Fridays (as of August 9, 2021).~~ ~~Providing data Tuesdays and Fridays (as of 07/07/2021)~~. No case data provided for August 21.
 * Minnesota: Providing data once per week (Thursdays) (as of June 30, 2022).~~Providing data Monday-Friday.~~
 * Mississippi: Providing state level data Monday-Friday. County level data updated once per week (as of March 10, 2022).
