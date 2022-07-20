@@ -649,7 +649,7 @@ For all international locations, compositing with the reporting of the World Hea
 * Sweden: Updating once per week (Thursdays) (as of March 24, 2022). ~~Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.~~
 * Switzerland: Providing data once per week (Tuesdays).
 * Turkey: Updating weekly.
-* UK: Providing data Monday-Friday (as of Feb 26, 2022). Scotland, Wales, and Northern Ireland collect and report data to the central data authority where we access data.
+* UK: Providing data once weekly (as of June 28, 2022). ~~Providing data Monday-Friday (as of Feb 26, 2022). Scotland, Wales, and Northern Ireland collect and report data to the central data authority where we access data.~~
 * Northern Ireland, UK: No longer providing data as of May 20, 2022.
 * Scotland, UK: Providing data once weekly (Wednesdays) as of June 8, 2022. UK deaths no longer include deaths within Scotland.
 * Wales, UK: Providing data once weekly (Thursdays) as of May 26, 2022. ~~Providing data Monday-Saturday.~~
