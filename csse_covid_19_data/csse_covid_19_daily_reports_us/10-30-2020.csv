@@ -1,4 +1,4 @@
-,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,Total_Test_Results,People_Hospitalized,Case_Fatality_Ratio,UID,ISO3,Testing_Rate,Hospitalization_Rate,Date,People_Tested,Mortality_Rate
+Unnamed: 0,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,Total_Test_Results,People_Hospitalized,Case_Fatality_Ratio,UID,ISO3,Testing_Rate,Hospitalization_Rate,Date,People_Tested,Mortality_Rate
 0,Alabama,US,2020-10-31 04:30:34,32.3182,-86.9023,191932,2932,81005.0,107995.0,1.0,3914.4352089509166,,,,84000001.0,USA,46707.08937150036,,2020-10-30,2290135.0,1.5276243669632994
 1,Alaska,US,2020-10-31 04:30:34,61.3707,-152.4044,15913,81,7096.0,8736.0,2.0,2175.259211668455,,,,84000002.0,USA,80148.58962879932,,2020-10-30,586323.0,0.5090177842015962
 2,American Samoa,US,2020-10-31 04:30:34,-14.271,-170.132,0,0,,,60.0,0.0,,,,16.0,ASM,2904.3331356373897,,2020-10-30,1616.0,

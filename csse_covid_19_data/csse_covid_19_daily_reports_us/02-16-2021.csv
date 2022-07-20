@@ -1,4 +1,4 @@
-,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,Total_Test_Results,People_Hospitalized,Case_Fatality_Ratio,UID,ISO3,Testing_Rate,Hospitalization_Rate,Date,People_Tested,Mortality_Rate
+Unnamed: 0,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,Total_Test_Results,People_Hospitalized,Case_Fatality_Ratio,UID,ISO3,Testing_Rate,Hospitalization_Rate,Date,People_Tested,Mortality_Rate
 0,Alabama,US,2021-02-17 05:30:30,32.3182,-86.9023,482488,9257,264621.0,208610.0,1.0,9840.297684056384,3904080.0,,1.918596939198488,84000001.0,USA,79623.34686535384,,2021-02-16,,
 1,Alaska,US,2021-02-17 05:30:30,61.3707,-152.4044,56912,287,,,2.0,7779.699129923655,1605827.0,,0.5042873207759347,84000002.0,USA,219511.71834952047,,2021-02-16,,
 2,American Samoa,US,2021-02-17 05:30:30,-14.271,-170.132,0,0,,,60.0,0.0,2140.0,,,16.0,ASM,3846.084721698028,,2021-02-16,,
