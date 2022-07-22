@@ -294,7 +294,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 13033,Burke,Georgia,US,2020-05-20 02:32:19,33.05917989,-81.99928721,118,4,0,114,"Burke, Georgia, US"
 37023,Burke,North Carolina,US,2020-05-20 02:32:19,35.74989637,-81.70755735,198,14,0,184,"Burke, North Carolina, US"
 38013,Burke,North Dakota,US,2020-05-20 02:32:19,48.79094471,-102.5182117,5,0,0,5,"Burke, North Dakota, US"
-38015,Burleigh,North Dakota,US,2020-05-20 02:32:19,46.97847375,-100.4645214,117,0,0,117,"Burleigh, North Dakota, US"
+38015,Burleigh,North Dakota,US,2020-05-20 02:32:19,46.97847375,-100.4645214,119,0,0,117,"Burleigh, North Dakota, US"
 48051,Burleson,Texas,US,2020-05-20 02:32:19,30.49273808,-96.62158484,16,0,0,20,"Burleson, Texas, US"
 34005,Burlington,New Jersey,US,2020-05-20 02:32:19,39.87681124,-74.66927768,4005,247,0,3758,"Burlington, New Jersey, US"
 48053,Burnet,Texas,US,2020-05-20 02:32:19,30.78801353,-98.181887,10,0,0,28,"Burnet, Texas, US"
@@ -396,7 +396,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 27021,Cass,Minnesota,US,2020-05-20 02:32:19,46.95043611,-94.32603968,11,2,0,9,"Cass, Minnesota, US"
 29037,Cass,Missouri,US,2020-05-20 02:32:19,38.64789422,-94.353399,72,8,0,64,"Cass, Missouri, US"
 31025,Cass,Nebraska,US,2020-05-20 02:32:19,40.90899107,-96.13971217,23,0,0,23,"Cass, Nebraska, US"
-38017,Cass,North Dakota,US,2020-05-20 02:32:19,46.93201724,-97.2444719,1229,28,0,1201,"Cass, North Dakota, US"
+38017,Cass,North Dakota,US,2020-05-20 02:32:19,46.93201724,-97.2444719,1275,28,0,1201,"Cass, North Dakota, US"
 48067,Cass,Texas,US,2020-05-20 02:32:19,33.07499881,-94.34646905,10,0,0,21,"Cass, Texas, US"
 16031,Cassia,Idaho,US,2020-05-20 02:32:19,42.28347888,-113.6012409,19,1,0,18,"Cassia, Idaho, US"
 48069,Castro,Texas,US,2020-05-20 02:32:19,34.53016752,-102.2617243,20,1,0,27,"Castro, Texas, US"
@@ -679,7 +679,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 45031,Darlington,South Carolina,US,2020-05-20 02:32:19,34.33358335,-79.96027485,227,5,0,222,"Darlington, South Carolina, US"
 42043,Dauphin,Pennsylvania,US,2020-05-20 02:32:19,40.41377078,-76.77993242,979,50,0,929,"Dauphin, Pennsylvania, US"
 37057,Davidson,North Carolina,US,2020-05-20 02:32:19,35.79115496,-80.21256572,293,10,0,283,"Davidson, North Carolina, US"
-47037,Davidson,Tennessee,US,2020-05-20 02:32:19,36.17007426,-86.78646056,4206,46,0,4128,"Davidson, Tennessee, US"
+47037,Davidson,Tennessee,US,2020-05-20 02:32:19,36.17007426,-86.78646056,4204,46,0,4128,"Davidson, Tennessee, US"
 37059,Davie,North Carolina,US,2020-05-20 02:32:19,35.93099927,-80.54496571,46,2,0,44,"Davie, North Carolina, US"
 18027,Daviess,Indiana,US,2020-05-20 02:32:19,38.70186039,-87.07185406,71,15,0,56,"Daviess, Indiana, US"
 21059,Daviess,Kentucky,US,2020-05-20 02:32:19,37.73028906,-87.09019479999998,296,6,0,290,"Daviess, Kentucky, US"
@@ -772,7 +772,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 19061,Dubuque,Iowa,US,2020-05-20 02:32:19,42.46815349,-90.88181925,286,10,0,276,"Dubuque, Iowa, US"
 ,Dukes and Nantucket,Massachusetts,US,2020-05-20 02:32:19,41.40674725,-70.68763497,38,1,0,37,"Dukes and Nantucket, Massachusetts, US"
 29069,Dunklin,Missouri,US,2020-05-20 02:32:19,36.27167174,-90.09122243,26,2,0,24,"Dunklin, Missouri, US"
-38025,Dunn,North Dakota,US,2020-05-20 02:32:19,47.35423935,-102.6160468,12,0,0,12,"Dunn, North Dakota, US"
+38025,Dunn,North Dakota,US,2020-05-20 02:32:19,47.35423935,-102.6160468,11,0,0,12,"Dunn, North Dakota, US"
 55033,Dunn,Wisconsin,US,2020-05-20 02:32:19,44.94562799,-91.8962481,20,0,0,20,"Dunn, Wisconsin, US"
 37061,Duplin,North Carolina,US,2020-05-20 02:32:19,34.93449805,-77.93140529,438,11,0,427,"Duplin, North Carolina, US"
 37063,Durham,North Carolina,US,2020-05-20 02:32:19,36.03638492,-78.87608331,1040,39,0,1001,"Durham, North Carolina, US"
@@ -925,7 +925,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 16043,Fremont,Idaho,US,2020-05-20 02:32:19,44.22800938,-111.4809943,3,0,0,3,"Fremont, Idaho, US"
 19071,Fremont,Iowa,US,2020-05-20 02:32:19,40.74542720000001,-95.60129045,4,0,0,4,"Fremont, Iowa, US"
 56013,Fremont,Wyoming,US,2020-05-20 02:32:19,43.04183996,-108.6296893,228,0,0,228,"Fremont, Wyoming, US"
-6019,Fresno,California,US,2020-05-20 02:32:19,36.75733899,-119.6466953,1324,15,0,1304,"Fresno, California, US"
+6019,Fresno,California,US,2020-05-20 02:32:19,36.75733899,-119.6466953,1325,15,0,1304,"Fresno, California, US"
 48163,Frio,Texas,US,2020-05-20 02:32:19,28.86751206,-99.10804207,21,0,0,35,"Frio, Texas, US"
 31063,Frontier,Nebraska,US,2020-05-20 02:32:19,40.52993007,-100.3924658,1,0,0,1,"Frontier, Nebraska, US"
 5049,Fulton,Arkansas,US,2020-05-20 02:32:19,36.38177105,-91.81729127,4,0,0,4,"Fulton, Arkansas, US"
@@ -1003,7 +1003,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37075,Graham,North Carolina,US,2020-05-20 02:32:19,35.3506925,-83.83369267,2,0,0,2,"Graham, North Carolina, US"
 47057,Grainger,Tennessee,US,2020-05-20 02:32:19,36.27469206,-83.51254721,7,0,0,6,"Grainger, Tennessee, US"
 8049,Grand,Colorado,US,2020-05-20 02:32:19,40.10603347,-106.11780420000001,5,0,0,5,"Grand, Colorado, US"
-38035,Grand Forks,North Dakota,US,2020-05-20 02:32:19,47.92093639,-97.45450447,317,3,0,314,"Grand Forks, North Dakota, US"
+38035,Grand Forks,North Dakota,US,2020-05-20 02:32:19,47.92093639,-97.45450447,316,3,0,314,"Grand Forks, North Dakota, US"
 50013,Grand Isle,Vermont,US,2020-05-20 02:32:19,44.7975824,-73.29679772,4,0,0,4,"Grand Isle, Vermont, US"
 26055,Grand Traverse,Michigan,US,2020-05-20 02:32:19,44.69565625,-85.55585247,23,5,0,18,"Grand Traverse, Michigan, US"
 5053,Grant,Arkansas,US,2020-05-20 02:32:19,34.29017991,-92.42320562,16,0,0,16,"Grant, Arkansas, US"
@@ -1880,10 +1880,10 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 39117,Morrow,Ohio,US,2020-05-20 02:32:19,40.52363560000001,-82.7892599,101,1,0,100,"Morrow, Ohio, US"
 41049,Morrow,Oregon,US,2020-05-20 02:32:19,45.41846568,-119.584546,12,0,0,12,"Morrow, Oregon, US"
 20129,Morton,Kansas,US,2020-05-20 02:32:19,37.19141121,-101.79925190000002,4,0,0,4,"Morton, Kansas, US"
-38059,Morton,North Dakota,US,2020-05-20 02:32:19,46.71681782,-101.2822377,40,2,0,38,"Morton, North Dakota, US"
+38059,Morton,North Dakota,US,2020-05-20 02:32:19,46.71681782,-101.2822377,61,2,0,38,"Morton, North Dakota, US"
 48345,Motley,Texas,US,2020-05-20 02:32:19,34.07408766,-100.779722,0,0,0,1,"Motley, Texas, US"
 17139,Moultrie,Illinois,US,2020-05-20 02:32:19,39.64187451,-88.62099969,8,0,0,8,"Moultrie, Illinois, US"
-38061,Mountrail,North Dakota,US,2020-05-20 02:32:19,48.20197971,-102.3555315,39,0,0,39,"Mountrail, North Dakota, US"
+38061,Mountrail,North Dakota,US,2020-05-20 02:32:19,48.20197971,-102.3555315,40,0,0,39,"Mountrail, North Dakota, US"
 27099,Mower,Minnesota,US,2020-05-20 02:32:19,43.67142874,-92.75234549,72,0,0,72,"Mower, Minnesota, US"
 21177,Muhlenberg,Kentucky,US,2020-05-20 02:32:19,37.21425819,-87.14632053,468,7,0,461,"Muhlenberg, Kentucky, US"
 41051,Multnomah,Oregon,US,2020-05-20 02:32:19,45.54747959,-122.4169351,1005,55,0,950,"Multnomah, Oregon, US"
@@ -2036,7 +2036,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 80017,Out of IL,Illinois,US,2020-05-20 02:32:19,,,87,1,0,86,"Out of IL, Illinois, US"
 80026,Out of MI,Michigan,US,2020-05-20 02:32:19,,,13,0,0,13,"Out of MI, Michigan, US"
 80040,Out of OK,Oklahoma,US,2020-05-20 02:32:19,,,0,0,0,0,"Out of OK, Oklahoma, US"
-80047,Out of TN,Tennessee,US,2020-05-20 02:32:19,,,223,5,0,382,"Out of TN, Tennessee, US"
+80047,Out of TN,Tennessee,US,2020-05-20 02:32:19,,,221,5,0,382,"Out of TN, Tennessee, US"
 55087,Outagamie,Wisconsin,US,2020-05-20 02:32:19,44.41578887,-88.46565023,146,5,0,141,"Outagamie, Wisconsin, US"
 47133,Overton,Tennessee,US,2020-05-20 02:32:19,36.34117832,-85.28989535,22,0,0,18,"Overton, Tennessee, US"
 18119,Owen,Indiana,US,2020-05-20 02:32:19,39.31145587,-86.83900724,27,1,0,26,"Owen, Indiana, US"
@@ -2072,7 +2072,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 13225,Peach,Georgia,US,2020-05-20 02:32:19,32.56934316,-83.82937,69,3,0,66,"Peach, Georgia, US"
 28109,Pearl River,Mississippi,US,2020-05-20 02:32:19,30.77090935,-89.58677275,195,27,0,168,"Pearl River, Mississippi, US"
 48371,Pecos,Texas,US,2020-05-20 02:32:19,30.78097267,-102.7241261,25,0,0,23,"Pecos, Texas, US"
-38067,Pembina,North Dakota,US,2020-05-20 02:32:19,48.76623521,-97.5523809,6,0,0,6,"Pembina, North Dakota, US"
+38067,Pembina,North Dakota,US,2020-05-20 02:32:19,48.76623521,-97.5523809,5,0,0,6,"Pembina, North Dakota, US"
 29155,Pemiscot,Missouri,US,2020-05-20 02:32:19,36.2130572,-89.78742322,70,3,0,67,"Pemiscot, Missouri, US"
 53051,Pend Oreille,Washington,US,2020-05-20 02:32:19,48.53234021,-117.2741804,2,0,0,2,"Pend Oreille, Washington, US"
 37141,Pender,North Carolina,US,2020-05-20 02:32:19,34.52265624,-77.90352133,49,1,0,48,"Pender, North Carolina, US"
@@ -2235,7 +2235,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37151,Randolph,North Carolina,US,2020-05-20 02:32:19,35.71015088,-79.80570339,461,6,0,455,"Randolph, North Carolina, US"
 54083,Randolph,West Virginia,US,2020-05-20 02:32:19,38.769899,-79.87919615,7,0,0,7,"Randolph, West Virginia, US"
 28121,Rankin,Mississippi,US,2020-05-20 02:32:19,32.26469147,-89.94537876,295,6,0,289,"Rankin, Mississippi, US"
-38073,Ransom,North Dakota,US,2020-05-20 02:32:19,46.45621782,-97.65742504,7,0,0,7,"Ransom, North Dakota, US"
+38073,Ransom,North Dakota,US,2020-05-20 02:32:19,46.45621782,-97.65742504,6,0,0,7,"Ransom, North Dakota, US"
 22079,Rapides,Louisiana,US,2020-05-20 02:32:19,31.19778499,-92.52997303,504,15,0,489,"Rapides, Louisiana, US"
 51157,Rappahannock,Virginia,US,2020-05-20 02:32:19,38.68295619,-78.15826963,12,0,0,12,"Rappahannock, Virginia, US"
 30081,Ravalli,Montana,US,2020-05-20 02:32:19,46.08520862,-114.11891640000002,6,0,0,6,"Ravalli, Montana, US"
@@ -2250,7 +2250,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 20155,Reno,Kansas,US,2020-05-20 02:32:19,37.95230263,-98.08607292,41,0,0,41,"Reno, Kansas, US"
 36083,Rensselaer,New York,US,2020-05-20 02:32:19,42.71348136,-73.51089874,444,25,0,419,"Rensselaer, New York, US"
 27129,Renville,Minnesota,US,2020-05-20 02:32:19,44.72836381,-94.94553734,5,0,0,5,"Renville, Minnesota, US"
-38075,Renville,North Dakota,US,2020-05-20 02:32:19,48.71982533,-101.6603912,1,0,0,1,"Renville, North Dakota, US"
+38075,Renville,North Dakota,US,2020-05-20 02:32:19,48.71982533,-101.6603912,0,0,0,1,"Renville, North Dakota, US"
 20157,Republic,Kansas,US,2020-05-20 02:32:19,39.82799632,-97.65036709,4,0,0,4,"Republic, Kansas, US"
 29179,Reynolds,Missouri,US,2020-05-20 02:32:19,37.36085952,-90.97009925,2,0,0,2,"Reynolds, Missouri, US"
 47143,Rhea,Tennessee,US,2020-05-20 02:32:19,35.60536161,-84.93076643,10,0,0,15,"Rhea, Tennessee, US"
@@ -2260,7 +2260,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 17159,Richland,Illinois,US,2020-05-20 02:32:19,38.71240969,-88.08475366,3,0,0,3,"Richland, Illinois, US"
 22083,Richland,Louisiana,US,2020-05-20 02:32:19,32.41391005,-91.76634876,108,2,0,106,"Richland, Louisiana, US"
 30083,Richland,Montana,US,2020-05-20 02:32:19,47.78668011,-104.5610786,3,0,0,3,"Richland, Montana, US"
-38077,Richland,North Dakota,US,2020-05-20 02:32:19,46.26440649,-96.94852979,11,0,0,11,"Richland, North Dakota, US"
+38077,Richland,North Dakota,US,2020-05-20 02:32:19,46.26440649,-96.94852979,12,0,0,11,"Richland, North Dakota, US"
 39139,Richland,Ohio,US,2020-05-20 02:32:19,40.77180308,-82.53799609999999,165,2,0,163,"Richland, Ohio, US"
 45079,Richland,South Carolina,US,2020-05-20 02:32:19,34.01791263,-80.90267209,1267,61,0,1206,"Richland, South Carolina, US"
 55103,Richland,Wisconsin,US,2020-05-20 02:32:19,43.3762778,-90.43012729,14,3,0,11,"Richland, Wisconsin, US"
@@ -2276,7 +2276,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 18137,Ripley,Indiana,US,2020-05-20 02:32:19,39.10235626,-85.26212744,107,6,0,101,"Ripley, Indiana, US"
 29181,Ripley,Missouri,US,2020-05-20 02:32:19,36.65460667,-90.85990261,7,0,0,7,"Ripley, Missouri, US"
 54085,Ritchie,West Virginia,US,2020-05-20 02:32:19,39.18094587,-81.06356878,1,0,0,1,"Ritchie, West Virginia, US"
-6065,Riverside,California,US,2020-05-20 02:32:19,33.74314981,-115.9933578,5981,265,0,5707,"Riverside, California, US"
+6065,Riverside,California,US,2020-05-20 02:32:19,33.74314981,-115.9933578,5982,265,0,5707,"Riverside, California, US"
 47145,Roane,Tennessee,US,2020-05-20 02:32:19,35.84923189,-84.52458689,17,0,0,9,"Roane, Tennessee, US"
 54087,Roane,West Virginia,US,2020-05-20 02:32:19,38.71622686,-81.35243568,9,0,0,9,"Roane, West Virginia, US"
 51161,Roanoke,Virginia,US,2020-05-20 02:32:19,37.26865804,-80.06396753,88,3,0,85,"Roanoke, Virginia, US"
@@ -2358,7 +2358,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 17167,Sangamon,Illinois,US,2020-05-20 02:32:19,39.75836914,-89.65872023,311,25,0,286,"Sangamon, Illinois, US"
 26151,Sanilac,Michigan,US,2020-05-20 02:32:19,43.42406072,-82.82055898,39,5,0,34,"Sanilac, Michigan, US"
 6083,Santa Barbara,California,US,2020-05-20 02:32:19,34.65329488,-120.0188492,1532,10,0,1515,"Santa Barbara, California, US"
-6085,Santa Clara,California,US,2020-05-20 02:32:19,37.23104908,-121.6970462,2487,138,0,2343,"Santa Clara, California, US"
+6085,Santa Clara,California,US,2020-05-20 02:32:19,37.23104908,-121.6970462,2488,138,0,2343,"Santa Clara, California, US"
 4023,Santa Cruz,Arizona,US,2020-05-20 02:32:19,31.52508998,-110.8479088,97,0,0,97,"Santa Cruz, Arizona, US"
 6087,Santa Cruz,California,US,2020-05-20 02:32:19,37.05580291,-122.0066524,161,3,0,158,"Santa Cruz, California, US"
 35049,Santa Fe,New Mexico,US,2020-05-20 02:32:19,35.50708973,-105.9774716,126,3,0,123,"Santa Fe, New Mexico, US"
@@ -2421,7 +2421,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 21211,Shelby,Kentucky,US,2020-05-20 02:32:19,38.21476019,-85.194223,78,3,0,75,"Shelby, Kentucky, US"
 29205,Shelby,Missouri,US,2020-05-20 02:32:19,39.79742518,-92.07634971,1,0,0,1,"Shelby, Missouri, US"
 39149,Shelby,Ohio,US,2020-05-20 02:32:19,40.33163494,-84.20258189,34,2,0,32,"Shelby, Ohio, US"
-47157,Shelby,Tennessee,US,2020-05-20 02:32:19,35.1864775,-89.89692423,3966,87,0,3849,"Shelby, Tennessee, US"
+47157,Shelby,Tennessee,US,2020-05-20 02:32:19,35.1864775,-89.89692423,3968,87,0,3849,"Shelby, Tennessee, US"
 48419,Shelby,Texas,US,2020-05-20 02:32:19,31.79211404,-94.14550696,97,5,0,170,"Shelby, Texas, US"
 51171,Shenandoah,Virginia,US,2020-05-20 02:32:19,38.85905135,-78.56813762,329,12,0,317,"Shenandoah, Virginia, US"
 27141,Sherburne,Minnesota,US,2020-05-20 02:32:19,45.44447208,-93.77617511,164,2,0,162,"Sherburne, Minnesota, US"
@@ -2438,7 +2438,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 21213,Simpson,Kentucky,US,2020-05-20 02:32:19,36.74058474,-86.58047435,39,2,0,37,"Simpson, Kentucky, US"
 28127,Simpson,Mississippi,US,2020-05-20 02:32:19,31.91282117,-89.91716179,78,0,0,78,"Simpson, Mississippi, US"
 19167,Sioux,Iowa,US,2020-05-20 02:32:19,43.08221074,-96.1767568,146,0,0,146,"Sioux, Iowa, US"
-38085,Sioux,North Dakota,US,2020-05-20 02:32:19,46.11323337,-101.0440149,2,0,0,2,"Sioux, North Dakota, US"
+38085,Sioux,North Dakota,US,2020-05-20 02:32:19,46.11323337,-101.0440149,1,0,0,2,"Sioux, North Dakota, US"
 6093,Siskiyou,California,US,2020-05-20 02:32:19,41.59198861,-122.5407434,6,0,0,6,"Siskiyou, California, US"
 2220,Sitka,Alaska,US,2020-05-20 02:32:19,57.24124555,-135.3206587,1,0,0,1,"Sitka, Alaska, US"
 53057,Skagit,Washington,US,2020-05-20 02:32:19,48.48171488,-121.766131,426,14,0,412,"Skagit, Washington, US"
@@ -2511,7 +2511,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 29186,Ste. Genevieve,Missouri,US,2020-05-20 02:32:19,37.89090059,-90.1949941,8,1,0,7,"Ste. Genevieve, Missouri, US"
 27145,Stearns,Minnesota,US,2020-05-20 02:32:19,45.55192576,-94.61078221,1782,10,0,1772,"Stearns, Minnesota, US"
 27147,Steele,Minnesota,US,2020-05-20 02:32:19,44.02240351,-93.22627088,115,0,0,115,"Steele, Minnesota, US"
-38091,Steele,North Dakota,US,2020-05-20 02:32:19,47.45611548,-97.72728747,1,0,0,1,"Steele, North Dakota, US"
+38091,Steele,North Dakota,US,2020-05-20 02:32:19,47.45611548,-97.72728747,2,0,0,1,"Steele, North Dakota, US"
 13257,Stephens,Georgia,US,2020-05-20 02:32:19,34.55151201,-83.29405315,114,2,0,112,"Stephens, Georgia, US"
 40137,Stephens,Oklahoma,US,2020-05-20 02:32:19,34.48556989,-97.85141892,26,1,0,25,"Stephens, Oklahoma, US"
 48429,Stephens,Texas,US,2020-05-20 02:32:19,32.73553157,-98.83631615,1,0,0,2,"Stephens, Texas, US"
@@ -2626,7 +2626,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 13279,Toombs,Georgia,US,2020-05-20 02:32:19,32.12059861,-82.32957247,46,4,0,42,"Toombs, Georgia, US"
 35057,Torrance,New Mexico,US,2020-05-20 02:32:19,34.64048375,-105.8508949,19,1,0,18,"Torrance, New Mexico, US"
 13281,Towns,Georgia,US,2020-05-20 02:32:19,34.91369188,-83.74107459999998,21,1,0,20,"Towns, Georgia, US"
-38097,Traill,North Dakota,US,2020-05-20 02:32:19,47.45367788,-97.16323288,2,0,0,2,"Traill, North Dakota, US"
+38097,Traill,North Dakota,US,2020-05-20 02:32:19,47.45367788,-97.16323288,9,0,0,2,"Traill, North Dakota, US"
 37175,Transylvania,North Carolina,US,2020-05-20 02:32:19,35.20383864,-82.79638423,7,0,0,7,"Transylvania, North Carolina, US"
 27155,Traverse,Minnesota,US,2020-05-20 02:32:19,45.77298854,-96.47062949,3,0,0,3,"Traverse, Minnesota, US"
 48453,Travis,Texas,US,2020-05-20 02:32:19,30.33432034,-97.7853562,72,79,0,2458,"Travis, Texas, US"
@@ -2782,7 +2782,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 46129,Walworth,South Dakota,US,2020-05-20 02:32:19,45.43019636,-100.0307514,5,0,0,5,"Walworth, South Dakota, US"
 55127,Walworth,Wisconsin,US,2020-05-20 02:32:19,42.66858202,-88.54163073,287,11,0,276,"Walworth, Wisconsin, US"
 19179,Wapello,Iowa,US,2020-05-20 02:32:19,41.03064984,-92.40954728,405,2,0,403,"Wapello, Iowa, US"
-38101,Ward,North Dakota,US,2020-05-20 02:32:19,48.22390169,-101.5436763,28,1,0,27,"Ward, North Dakota, US"
+38101,Ward,North Dakota,US,2020-05-20 02:32:19,48.22390169,-101.5436763,29,1,0,27,"Ward, North Dakota, US"
 13299,Ware,Georgia,US,2020-05-20 02:32:19,31.05449097,-82.42224148,177,13,0,164,"Ware, Georgia, US"
 13301,Warren,Georgia,US,2020-05-20 02:32:19,33.41146451,-82.67795848,16,0,0,16,"Warren, Georgia, US"
 17187,Warren,Illinois,US,2020-05-20 02:32:19,40.84925021,-90.6147432,110,0,0,110,"Warren, Illinois, US"
@@ -3142,7 +3142,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Antigua and Barbuda,2020-05-20 02:32:19,17.0608,-61.7964,25,3,19,3,Antigua and Barbuda
 ,,,Argentina,2020-05-20 02:32:19,-38.4161,-63.6167,8809,393,2872,5544,Argentina
 ,,,Armenia,2020-05-20 02:32:19,40.0691,45.0382,5041,64,2164,2813,Armenia
-,,,Austria,2020-05-20 02:32:19,47.5162,14.5501,16321,632,14678,1011,Austria
+,,,Austria,2020-05-20 02:32:19,47.5162,14.5501,16189,712,14678,1011,Austria
 ,,,Azerbaijan,2020-05-20 02:32:19,40.1431,47.5769,3518,41,2198,1279,Azerbaijan
 ,,,Bahamas,2020-05-20 02:32:19,25.025885,-78.035889,96,11,43,42,Bahamas
 ,,,Bahrain,2020-05-20 02:32:19,26.0275,50.55,7532,12,2952,4568,Bahrain
@@ -3231,7 +3231,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-05-20 02:32:19,6.4280550000000005,-9.429499,229,22,125,82,Liberia
 ,,,Libya,2020-05-20 02:32:19,26.3351,17.228331,68,3,35,30,Libya
 ,,,Liechtenstein,2020-05-20 02:32:19,47.14,9.55,83,1,55,27,Liechtenstein
-,,,Lithuania,2020-05-20 02:32:19,55.1694,23.8813,1559,45,1174,340,Lithuania
+,,,Lithuania,2020-05-20 02:32:19,55.1694,23.8813,1494,45,1174,340,Lithuania
 ,,,Luxembourg,2020-05-20 02:32:19,49.8153,6.1296,3958,109,3718,131,Luxembourg
 ,,,MS Zaandam,2020-05-20 02:32:19,,,9,2,0,7,MS Zaandam
 ,,,Madagascar,2020-05-20 02:32:19,-18.766947000000002,46.869107,326,2,119,205,Madagascar
@@ -3252,7 +3252,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Nepal,2020-05-20 02:32:19,28.1667,84.25,402,2,37,363,Nepal
 ,,,Netherlands,2020-05-20 02:32:19,52.1326,5.2913,44249,5715,0,38534,Netherlands
 ,,,New Zealand,2020-05-20 02:32:19,-40.9006,174.886,1503,21,1447,35,New Zealand
-,,,Nicaragua,2020-05-20 02:32:19,12.865416,-85.207229,254,17,199,38,Nicaragua
+,,,Nicaragua,2020-05-20 02:32:19,12.865416,-85.207229,25,8,199,38,Nicaragua
 ,,,Niger,2020-05-20 02:32:19,17.607789,8.081666,914,55,734,125,Niger
 ,,,Nigeria,2020-05-20 02:32:19,9.082,8.6753,6401,192,1734,4475,Nigeria
 ,,,North Macedonia,2020-05-20 02:32:19,41.6086,21.7453,1839,106,1351,382,North Macedonia
@@ -3316,7 +3316,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Zimbabwe,2020-05-20 02:32:19,-19.015438,29.154857,46,4,18,24,Zimbabwe
 2066,Copper River,Alaska,US,2021-04-02 15:13:53,60.3886,-162.8905196,0,0,0,0,"Copper River, Alaska, US"
 2063,Chugach,Alaska,US,2021-04-02 15:13:53,61.16666,-149.9,1,0,0,1,"Chugach, Alaska, US"
-,,Unknown,China,2020-05-20 02:32:19,,,0,0,0,0,"Unknown, China"
+,,Unknown,China,2020-05-20 02:32:19,,,3072,0,0,0,"Unknown, China"
 ,,,Kiribati,2020-05-20 02:32:19,-3.3704,-168.734,0,0,0,0,Kiribati
 ,,,Palau,2020-05-20 02:32:19,7.515,134.5825,0,0,0,0,Palau
 ,,Cook Islands,New Zealand,2020-05-20 02:32:19,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
@@ -3343,3 +3343,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Antarctica,2020-05-20 02:32:19,-71.9499,23.347,0,0,0,0,Antarctica
 ,,Jersey,United Kingdom,2020-05-20 02:32:19,49.2138,-2.1358,298,27,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,2020-05-20 02:32:19,49.448196,-2.58949,252,16,0,0,"Guernsey, United Kingdom"
+,,,"Korea, North",2020-05-20 02:32:19,40.3399,127.5101,0,0,0,0,"Korea, North"

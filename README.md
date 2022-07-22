@@ -21,7 +21,7 @@ https://systems.jhu.edu/
 
 
 <b>DATA SOURCES:</b>
-This list includes a complete list of all sources ever used in the data set, since January 21, 2010. Some sources listed here (e.g. ECDC, US CDC, BNO News) are not currently relied upon as a source of data.
+This list includes a complete list of all sources ever used in the data set, since January 21, 2020. Some sources listed here (e.g. ECDC, US CDC, BNO News) are not currently relied upon as a source of data.
 
 - Aggregated data sources:
   - World Health Organization (WHO): https://www.who.int/
@@ -40,7 +40,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Alaska: [Department of Health and Social Services](https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/)
   - Arizona: [Department of Health Services](https://www.azdhs.gov/covid19/data/index.php)
   - Arkansas: [Department of Health](https://experience.arcgis.com/experience/633006d0782b4544bd5113a314f6268a/page/page_0/)
-  - California: [Department of Publich Health](https://www.cdph.ca.gov/covid19)
+  - California: [Department of Public Health](https://www.cdph.ca.gov/covid19)
     - [Mariposa County](https://www.mariposacounty.org/1592/COVID-19-Information)
     - [Alameda County](https://covid-19.acgov.org/)
     - [Fresno County](https://www.co.fresno.ca.us/departments/public-health/covid-19)
@@ -132,7 +132,6 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [Cameron County](https://www.cameroncounty.us/publichealth/index.php/coronavirus/)
     - [Collin County](https://www.collincountytx.gov/healthcare_services/Pages/news.aspx)
     - [Corpus Christi](https://www.cctexas.com/coronavirus)
-    - [Dallas County](https://www.dallascounty.org/departments/dchhs/2019-novel-coronavirus.php)
     - [Denton County](https://gis-covid19-dentoncounty.hub.arcgis.com/pages/covid-19cases)
     - [Ector County](http://www.co.ector.tx.us/page/ector.CoronavirusCOVID19)
     - [City of El Paso](http://epstrong.org/results.php)
@@ -149,7 +148,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [San Angelo 1](https://www.cosatx.us/departments-services/health-services/coronavirus-covid-19#ad-image-0)
     - [San Angelo 2](https://www.gosanangelo.com/)
     - [San Antonio](https://covid19.sanantonio.gov/Home)
-    - [Tarrant County](https://www.tarrantcounty.com/en/public-health/disease-control---prevention/coronaviruas.html)
+    - [Tarrant County](https://www.tarrantcounty.com/coronavirus)
     - [Travis County](https://www.traviscountytx.gov/news/2020/1945-novel-coronavirus-covid-19-information)
     - [Williamson County](http://www.wcchd.org/COVID-19/dashboard.php)
   - Utah: [Department of Health](https://coronavirus.utah.gov/case-counts/#overview)
@@ -216,17 +215,19 @@ This list includes a complete list of all sources ever used in the data set, sin
     - THL/National Infectious Disease Register: https://experience.arcgis.com/experience/92e9bb33fac744c9a084381fc35aa3c7
   - France:
     - French Ministry of Solidarity and Health and Public Health Dashboard: https://dashboard.covid19.data.gouv.fr/ (retired)
-    - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
+    - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/ (stopped on May 17, 2022)
+    - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/fr/datasets/synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19/
     - OpenCOVID19: https://github.com/opencovid19-fr (retired)
   - Georgia:
     - Government of Georgia Ministry of Health: https://stopcov.ge/en
   - Germany:
-    - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
+    - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/ (retired March 31, 2022)
+    - Robert Koch Institute: https://www.rki.de/EN/Content/infections/epidemiology/outbreaks/COVID-19/COVID19.html
   - Greece:
     - National Public Health Organization: https://eody.gov.gr/epidimiologika-statistika-dedomena/ektheseis-covid-19/
   - Guatemala:
     - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
-  - Hong Kong:
+  - Hong Kong SAR:
     - The Government of The Hong Kong Special Administrative Region Website: https://www.chp.gov.hk/en/features/102465.html
     - The Government of The Hong Kong Special Administrative Region Dashboard: https://chp-dashboard.geodata.gov.hk/covid-19/en.html
   - Hungary:
@@ -261,7 +262,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Lithuania: https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca
   - Luxembourg: 
     - Government of Luxembourg: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
-  - Macau:
+  - Macau SAR:
     - Health Services of the Government of the Macau Special Administrative Region: https://www.ssm.gov.mo/portal/
   - Malaysia
     - Ministry of Health: https://covid-19.moh.gov.my/
@@ -289,7 +290,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Poland: 
     - Service of the Republic of Poland: https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
   - Portugal:
-    - General Directorate of Health: https://esriportugal.maps.arcgis.com/apps/dashboards/acf023da9a0b4f9dbb2332c13f635829
+    - General Directorate of Health: https://esriportugal.maps.arcgis.com/apps/dashboards/acf023da9a0b4f9dbb2332c13f635829 (expired on March 13, 2022. Transferred to WHO.)
   - Romania:
     - Government of Romania: https://datelazi.ro/ 
   - Russia: 
@@ -315,7 +316,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Switzerland:
     - Federal Office Of Public Health: https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html
     - Open Government Data Reported By The Swiss Cantons: https://github.com/openZH/covid_19
-  - Taiwan:
+  - Taiwan*:
     - CDC: https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=0
   - Thailand: 
     - Ministry of Public Health, Department of Disease Control Dashboard: https://ddc.moph.go.th/viralpneumonia/eng/index.php

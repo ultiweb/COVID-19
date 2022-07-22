@@ -2267,7 +2267,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Antigua and Barbuda,2020-03-31 23:43:43,17.0608,-61.7964,7,0,0,7,Antigua and Barbuda
 ,,,Argentina,2020-03-31 23:43:43,-38.4161,-63.6167,1054,27,240,787,Argentina
 ,,,Armenia,2020-03-31 23:43:43,40.0691,45.0382,532,3,30,499,Armenia
-,,,Austria,2020-03-31 23:43:43,47.5162,14.5501,10180,128,1095,8957,Austria
+,,,Austria,2020-03-31 23:43:43,47.5162,14.5501,9264,134,1095,8957,Austria
 ,,,Azerbaijan,2020-03-31 23:43:43,40.1431,47.5769,298,5,26,267,Azerbaijan
 ,,,Bahamas,2020-03-31 23:43:43,25.025885,-78.035889,14,0,1,13,Bahamas
 ,,,Bahrain,2020-03-31 23:43:43,26.0275,50.55,567,4,295,268,Bahrain
@@ -2356,7 +2356,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-03-31 23:43:43,6.4280550000000005,-9.429499,3,0,0,3,Liberia
 ,,,Libya,2020-03-31 23:43:43,26.3351,17.228331,10,0,1,9,Libya
 ,,,Liechtenstein,2020-03-31 23:43:43,47.14,9.55,69,0,0,69,Liechtenstein
-,,,Lithuania,2020-03-31 23:43:43,55.1694,23.8813,468,4,0,464,Lithuania
+,,,Lithuania,2020-03-31 23:43:43,55.1694,23.8813,353,4,0,464,Lithuania
 ,,,Luxembourg,2020-03-31 23:43:43,49.8153,6.1296,2178,23,80,2075,Luxembourg
 ,,,MS Zaandam,2020-03-31 23:43:43,0.0,0.0,2,0,0,2,",,MS Zaandam"
 ,,,Madagascar,2020-03-31 23:43:43,-18.766947000000002,46.869107,57,0,0,57,Madagascar
@@ -2376,7 +2376,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Nepal,2020-03-31 23:43:43,28.1667,84.25,5,0,1,4,Nepal
 ,,,Netherlands,2020-03-31 23:43:43,52.1326,5.2913,12595,1039,250,11306,Netherlands
 ,,,New Zealand,2020-03-31 23:43:43,-40.9006,174.886,647,1,74,572,New Zealand
-,,,Nicaragua,2020-03-31 23:43:43,12.865416,-85.207229,5,1,0,4,Nicaragua
+,,,Nicaragua,2020-03-31 23:43:43,12.865416,-85.207229,4,1,0,4,Nicaragua
 ,,,Niger,2020-03-31 23:43:43,17.607789,8.081666,27,3,0,24,Niger
 ,,,Nigeria,2020-03-31 23:43:43,9.082,8.6753,135,2,8,125,Nigeria
 ,,,North Macedonia,2020-03-31 23:43:43,41.6086,21.7453,329,9,12,308,North Macedonia
@@ -2435,7 +2435,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,West Bank and Gaza,2020-03-31 23:43:43,31.9522,35.2332,119,1,18,100,West Bank and Gaza
 ,,,Zambia,2020-03-31 23:43:43,-13.133897,27.849332,35,0,0,35,Zambia
 ,,,Zimbabwe,2020-03-31 23:43:43,-19.015438,29.154857,8,1,0,7,Zimbabwe
-,,Unknown,China,2020-03-31 23:43:56,,,0,0,0,0,"Unknown, China"
+,,Unknown,China,2020-03-31 23:43:56,,,1541,0,0,0,"Unknown, China"
 ,,,Kiribati,2020-03-31 23:43:56,-3.3704,-168.734,0,0,0,0,Kiribati
 ,,,Palau,2020-03-31 23:43:56,7.515,134.5825,0,0,0,0,Palau
 ,,Cook Islands,New Zealand,2020-03-31 23:43:56,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
@@ -2462,3 +2462,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Antarctica,2020-03-31 23:43:56,-71.9499,23.347,0,0,0,0,Antarctica
 ,,Jersey,United Kingdom,2020-03-31 23:43:56,49.2138,-2.1358,59,2,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,2020-03-31 23:43:56,49.448196,-2.58949,55,1,0,0,"Guernsey, United Kingdom"
+,,,"Korea, North",2020-03-31 23:43:56,40.3399,127.5101,0,0,0,0,"Korea, North"
