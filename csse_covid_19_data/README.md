@@ -372,6 +372,14 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * July 07, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-06-30 | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
 * July 07, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * July 07, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-07-02 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* July 14, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* July 14, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-07-07 | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* July 14, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* July 14, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-07-09 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* July 20, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-07-16 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* July 21, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* July 21, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* July 21, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-07-14 | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -582,9 +590,9 @@ United States
 * Louisiana: Providing data Monday-Friday.
 * Maine: Providing data Tuesday-Saturday.
 * Maryland: Providing data Monday-Friday (as of April 3, 2022).
-* Massachuetts: Providing data Monday-Friday.
+* Massachuetts: Providing data once weekly (Thursdays) (as of July 11, 2022). ~~Providing data Monday-Friday.~~
 * Michigan: Providing data once per week (Wednesdays) (as of April 4, 2022). ~~Providing data Mondays, Wednesdays, and Fridays (as of August 9, 2021).~~ ~~Providing data Tuesdays and Fridays (as of 07/07/2021)~~. No case data provided for August 21.
-* Minnesota: Providing data Monday-Friday.
+* Minnesota: Providing data once per week (Thursdays) (as of June 30, 2022).~~Providing data Monday-Friday.~~
 * Mississippi: Providing state level data Monday-Friday. County level data updated once per week (as of March 10, 2022).
 * Missouri: Providing data once weekly (Fridays) (as of April 1, 2022). ~~Providing data Monday-Friday (as of Feb 22, 2022).~~
 * Montana: Providing data once weekly (Fridays) (as of May 6, 2022). ~~Providing data Monday-Friday.~~
@@ -621,12 +629,13 @@ For all international locations, compositing with the reporting of the World Hea
 ~~* NSW, Australia: NSW Health has suspended its survey of the recovery status of patients with COVID-19 to focus on the recent increase in community transmission on July 31, 2020. Therefore, recovery statistics are no longer presented. ([Source](https://www.nsw.gov.au/covid-19/find-facts-about-covid-19), [Issue #3694](https://github.com/CSSEGISandData/COVID-19/issues/3694)).~~
 * Belgium: Providing data Tuesdays and Fridays. ~~Providing data Tuesday-Saturday.~~
 * Bosnia and Herezegovina: Not updating data on the weekends.
-* Alberta, Canada: Providing data Monday-Friday.
-* British Columba, Canada: Providing data Monday-Friday.
-* Manitoba, Canada: Providing data Monday-Friday.
+* Alberta, Canada: Providing data once per week (Wednesdays). ~~Providing data Monday-Friday.~~
+* British Columba, Canada: Providing data once per week (Thursdays). ~~Providing data Monday-Friday.~~
+* Manitoba, Canada: Providing data once per week (Thursdays). ~~Providing data Monday-Friday.~~
 * New Brunswick, Canada: Providing data Monday-Friday.
 * Newfoundland and Labrador, Canada: Providing data Monday, Wednesday, and Friday.
 * Northwest Territories, Canada: Providing data Monday-Friday.
+* Prince Edwards, Canada: Providing data once per week (Tuesdays).
 * Saskatechewan, Canada: Providing data weekly (Thursdays). 
 * Yukon, Canada: Providing data Monday-Friday.
 * Colombia: Weekly on Thursdays
@@ -644,7 +653,7 @@ For all international locations, compositing with the reporting of the World Hea
 * Sweden: Updating once per week (Thursdays) (as of March 24, 2022). ~~Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.~~
 * Switzerland: Providing data once per week (Tuesdays).
 * Turkey: Updating weekly.
-* UK: Providing data Monday-Friday (as of Feb 26, 2022). Scotland, Wales, and Northern Ireland collect and report data to the central data authority where we access data.
+* UK: Providing data once weekly (as of June 28, 2022). ~~Providing data Monday-Friday (as of Feb 26, 2022). Scotland, Wales, and Northern Ireland collect and report data to the central data authority where we access data.~~
 * Northern Ireland, UK: No longer providing data as of May 20, 2022.
 * Scotland, UK: Providing data once weekly (Wednesdays) as of June 8, 2022. UK deaths no longer include deaths within Scotland.
 * Wales, UK: Providing data once weekly (Thursdays) as of May 26, 2022. ~~Providing data Monday-Saturday.~~
