@@ -224,7 +224,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/ (retired March 31, 2022)
     - Robert Koch Institute: https://www.rki.de/EN/Content/infections/epidemiology/outbreaks/COVID-19/COVID19.html
   - Greece:
-    - National Public Health Organization: https://eody.gov.gr/epidimiologika-statistika-dedomena/ektheseis-covid-19/
+    - National Public Health Organization: https://eody.gov.gr/epidimiologika-statistika-dedomena/ektheseis-epidimiologikis-epitirisis-loimoxis-apo-ton-sars-cov-2/imerisies-ektheseis-covid-19-2022/
   - Guatemala:
     - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
   - Hong Kong SAR:
