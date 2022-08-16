@@ -654,6 +654,7 @@ For all international locations, compositing with the reporting of the World Hea
 * Prince Edwards, Canada: Providing data once per week (Tuesdays).
 * Saskatechewan, Canada: Providing data weekly (Thursdays). 
 * Yukon, Canada: Providing data Monday-Friday.
+* Canada (national government): Providing data once weekly (Fridays) (as of June 10, 2022).
 * Colombia: Weekly on Thursdays
 * Costa Rica: Updating data on Wednesdays and Saturdays only.
 * Denmark: Not updating case, death, or recovered data on the weekends.
