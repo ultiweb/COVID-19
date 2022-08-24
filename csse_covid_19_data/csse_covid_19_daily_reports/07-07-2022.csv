@@ -3998,7 +3998,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,2022-07-08 04:20:56,-7.9467,-14.3559,4,0,,,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",70.65889418830595,0.0
 ,,Scotland,United Kingdom,2022-07-08 04:20:56,56.4907,-4.2026,2028133,15130,,,"Scotland, United Kingdom",37122.85614921385,0.6108573747382445
 ,,Turks and Caicos Islands,United Kingdom,2022-07-08 04:20:56,21.694,-71.7979,6234,36,,,"Turks and Caicos Islands, United Kingdom",16101.038276770494,0.5774783445620789
-,,Unknown,United Kingdom,2022-07-08 04:20:56,,,0,0,,,"Unknown, United Kingdom",,
+,,Unknown,United Kingdom,2022-07-08 04:20:56,,,0,300,,,"Unknown, United Kingdom",,
 ,,Wales,United Kingdom,2022-07-08 04:20:56,52.1307,-3.7837,877490,10459,,,"Wales, United Kingdom",27958.006754603965,0.8599528199751564
 ,,,Uruguay,2022-07-08 04:20:56,-32.5228,-55.7658,962251,7351,,,Uruguay,27700.823927729496,0.7639378914649089
 ,,,Uzbekistan,2022-07-08 04:20:56,41.377491,64.585262,241377,1637,,,Uzbekistan,721.1914453046815,0.6781922055539674
