@@ -627,7 +627,7 @@ United States
 * Massachuetts: Providing data once weekly (Thursdays) (as of July 11, 2022). ~~Providing data Monday-Friday.~~
 * Michigan: Providing data once per week (Wednesdays) (as of April 4, 2022). ~~Providing data Mondays, Wednesdays, and Fridays (as of August 9, 2021).~~ ~~Providing data Tuesdays and Fridays (as of 07/07/2021)~~. No case data provided for August 21.
 * Minnesota: Providing data once per week (Thursdays) (as of June 30, 2022).~~Providing data Monday-Friday.~~
-* Mississippi: Providing state level data Monday-Friday. County level data updated once per week (as of March 10, 2022).
+* Mississippi: Providing data once per week (Tuesdays) (as of August 19, 2022). ~~Providing state level data Monday-Friday. County level data updated once per week (as of March 10, 2022).~~
 * Missouri: Providing data once weekly (Fridays) (as of April 1, 2022). ~~Providing data Monday-Friday (as of Feb 22, 2022).~~
 * Montana: Providing data once weekly (Fridays) (as of May 6, 2022). ~~Providing data Monday-Friday.~~
 * Nebraska: Providing state level data only Monday-Friday (in composite with CDC reporting).~~Providing data Monday-Friday (as of 9/25/2021).~~ ~~Providing data Wednedays only (as of 8/11/2021)~~
@@ -646,7 +646,7 @@ United States
 * South Carlina: Providing data weekly (Tuesdays) (as of March 15, 2022). ~~Providing data Monday-Friday.~~
 * South Dakota: Providing data weekly (as of April 12, 2022). ~~Providing data Monday-Friday (as of August 16, 2021). Providing data Wednesdays only.Saturday and Sunday data will be reported on Tuesdays.~~
 * Tennessee: Providing data weekly. ~~Providing data Monday-Friday.~~
-* Texas: Providing data Monday-Friday (as of August 1, 2022).
+* Texas: Providing data Monday, Wednesday, and Friday (as of September 12, 2022). ~~Providing data Monday-Friday (as of August 1, 2022).~~
 * Utah: Providing data once weekly (Thursdays) (as of March 31, 2022). ~~Providing data Monday-Friday.~~
 * Vermont: Providing data once per week (Wednesdays) (as of May 19, 2022). ~~Providing data daily (as of August 21, 2021).~~ ~~Providing data Monday-Friday.~~
 * Virginia: Providing data Monday-Friday.
@@ -661,6 +661,7 @@ International
 
 For all international locations, compositing with the reporting of the World Health Organization we may update more frequently than the national sources.
 
+* Australia: National government updates once per week (Fridays) (as of September 9, 2022).
 ~~* NSW, Australia: NSW Health has suspended its survey of the recovery status of patients with COVID-19 to focus on the recent increase in community transmission on July 31, 2020. Therefore, recovery statistics are no longer presented. ([Source](https://www.nsw.gov.au/covid-19/find-facts-about-covid-19), [Issue #3694](https://github.com/CSSEGISandData/COVID-19/issues/3694)).~~
 * Belgium: Providing data Tuesdays and Fridays. ~~Providing data Tuesday-Saturday.~~
 * Bosnia and Herezegovina: Not updating data on the weekends.
