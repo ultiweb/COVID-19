@@ -608,7 +608,7 @@ United States
 * Alaska: Providing data once per week (Wednesdays) (as of April 4, 2022). ~~Providing data Monday, Wednesday, and Friday (as of December 7, 2021).~~ ~~Providing data Monday-Friday (as of 8/2/2021).~~ ~~Providing data Monday, Wednesday, and Friday, excluding holidays.~~
 * Arizona: Providing data once per week (as of March 2, 2022)
 * Arkansas: Providing data Monday-Friday. Resuming weekend reporting July 24, 2021.
-* California: Providing data Tuesdays and Fridays (as of April 4, 2022). ~~Providing data Monday-Friday.~~
+* California: Providing data once per week (Thursdays) (as of September 15, 2022). ~~Providing data Tuesdays and Fridays (as of April 4, 2022).~~ ~~Providing data Monday-Friday.~~
 * Colorado: Providing data Monday-Friday.
 * Conneticut: Providing data Monday-Friday.
 * Delaware: Providing data Monday-Friday.
