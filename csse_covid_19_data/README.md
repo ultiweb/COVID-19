@@ -415,6 +415,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * September 08, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * September 09, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-09-08 | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
 * September 13, 2022 | Pitcairn Islands, Tuvalu, Niue, and Nauru | Added new locations with updated data
+* September 14, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-09-13 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -607,7 +608,7 @@ United States
 * Alaska: Providing data once per week (Wednesdays) (as of April 4, 2022). ~~Providing data Monday, Wednesday, and Friday (as of December 7, 2021).~~ ~~Providing data Monday-Friday (as of 8/2/2021).~~ ~~Providing data Monday, Wednesday, and Friday, excluding holidays.~~
 * Arizona: Providing data once per week (as of March 2, 2022)
 * Arkansas: Providing data Monday-Friday. Resuming weekend reporting July 24, 2021.
-* California: Providing data Tuesdays and Fridays (as of April 4, 2022). ~~Providing data Monday-Friday.~~
+* California: Providing data once per week (Thursdays) (as of September 15, 2022). ~~Providing data Tuesdays and Fridays (as of April 4, 2022).~~ ~~Providing data Monday-Friday.~~
 * Colorado: Providing data Monday-Friday.
 * Conneticut: Providing data Monday-Friday.
 * Delaware: Providing data Monday-Friday.
