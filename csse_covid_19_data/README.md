@@ -416,6 +416,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * September 09, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-09-08 | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
 * September 13, 2022 | Pitcairn Islands, Tuvalu, Niue, and Nauru | Added new locations with updated data
 * September 14, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-09-13 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* September 15, 2022 | United Kingdom | Corrected from 2020-01-30 to 2022-08-26 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
