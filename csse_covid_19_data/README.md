@@ -645,9 +645,9 @@ United States
 * Northern Mariana Islands: Providing data once weekly (Mondays).
 * Ohio: Providing all data once per week (Thursdays) (as of March 14, 2022). ~~Providing death data twice per week (normally Tuesdays and Sundays).~~
 * Oklahoma: Providing data once per week on Thursdays (as of March 7, 2022). ~~Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.~~
-* Oregon: Providing data Monday-Friday (as of July 10, 2021).
+* Oregon: Providing data once weekly (Wednesdays) (as of September 15, 2022). ~~Providing data Monday-Friday (as of July 10, 2021).~~
 * Republic of Palau: Providing data Tuesdays and Fridays.
-* Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
+* Rhode Island: providing data once per week (Thursdays) (as of August 10, 2022). ~~Providing state level data Monday-Friday. County level cases and death data is released once per week.~~
 * Pennsylvania: Providing data once per week (Wednesdays) (as of May 6, 2022).
 * South Carlina: Providing data weekly (Tuesdays) (as of March 15, 2022). ~~Providing data Monday-Friday.~~
 * South Dakota: Providing data weekly (as of April 12, 2022). ~~Providing data Monday-Friday (as of August 16, 2021). Providing data Wednesdays only.Saturday and Sunday data will be reported on Tuesdays.~~
