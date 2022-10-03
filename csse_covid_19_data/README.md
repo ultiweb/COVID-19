@@ -624,7 +624,7 @@ United States
 * Arkansas: Providing data Monday-Friday. Resuming weekend reporting July 24, 2021.
 * California: Providing data once per week (Thursdays) (as of September 15, 2022). ~~Providing data Tuesdays and Fridays (as of April 4, 2022).~~ ~~Providing data Monday-Friday.~~
 * Colorado: Providing data Monday-Friday.
-* Conneticut: Providing data Monday-Friday.
+* Conneticut: Providing data Monday-Friday (cases only update via [this csv file](https://data.ct.gov/api/views/qmgw-5kp6/rows.csv?accessType=DOWNLOAD) Saturday and Sunday).
 * Delaware: Providing data Monday-Friday.
 * District of Columbia: Providing data once per week (Thursdays) as of March 4, 2022. ~~Providing data Monday-Friday.~~
 * Florida: Providing data once every two weeks (Fridays) (as of March 11, 2022). ~~Providing data once per week (Fridays).~~
