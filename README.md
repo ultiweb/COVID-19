@@ -266,7 +266,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Health Services of the Government of the Macau Special Administrative Region: https://www.ssm.gov.mo/portal/
   - Malaysia
     - Ministry of Health Website: https://covid-19.moh.gov.my/
-    - Ministry of Health Dashboard: https://covidnow.moh.gov.my/bm/cases/jhr/
+    - Ministry of Health Dashboard: https://covidnow.moh.gov.my/bm/cases
     - Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera: https://github.com/MoH-Malaysia/covid19-public
   - Mexico:
     - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
