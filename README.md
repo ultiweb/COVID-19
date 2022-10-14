@@ -14,6 +14,8 @@ http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c0
 <b>Please cite our Lancet Article for any use of this data in a publication:</b>
 [An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
 
+[The Johns Hopkins University Center for Systems Science and Engineering COVID-19 Dashboard: data collection process, challenges faced, and lessons learned](https://www.sciencedirect.com/science/article/pii/S1473309922004340)
+
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b>
 https://systems.jhu.edu/
 
