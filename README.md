@@ -14,6 +14,8 @@ http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c0
 <b>Please cite our Lancet Article for any use of this data in a publication:</b>
 [An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
 
+[The Johns Hopkins University Center for Systems Science and Engineering COVID-19 Dashboard: data collection process, challenges faced, and lessons learned](https://www.sciencedirect.com/science/article/pii/S1473309922004340)
+
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b>
 https://systems.jhu.edu/
 
@@ -145,6 +147,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [Midland County](https://www.midlandtexas.gov/955/Coronavirus-COVID-19)
     - [Mount Pleasant](https://www.mpcity.net/632/COVID-19-UPDATES)
     - [Montgomery County](https://coronavirus-response-moco.hub.arcgis.com/)
+    - [Potter County](https://covid-data-amarillo.hub.arcgis.com/)
+      - We are aware that the totals reported on our dashboard do not match the headline numbers on the dashboard frontend. We can confirm that our numbers match the dashboard backend and the totals within the graphs on the site. We do not know why there is a discrepancy and have reached out to the county for further information.
     - [San Angelo 1](https://www.cosatx.us/departments-services/health-services/coronavirus-covid-19#ad-image-0)
     - [San Angelo 2](https://www.gosanangelo.com/)
     - [San Antonio](https://covid19.sanantonio.gov/Home)
