@@ -644,7 +644,7 @@ United States
 * Hawaii: Providing data once per week (Wednesdays) (as of March 9, 2022).
 * Idaho: Porviding data Monday, Wednesday, and Friday (as of April 20, 2022). ~~Providing data Monday-Friday. Providing data Monday-Saturday (as of November 6, 2021).Providing data daily (as of 9/11/2021).Providing data Monday-Friday.~~
 * Illinois: Providing data Monday-Friday.
-* Indiana: Providing data Mondays, Wednesdays, and Fridays (as of March 29, 2022).~~Providing data Monday-Friday.~~
+* Indiana: Providing data once weekly (Wednesday) (as of October 1, 2022). ~~Providing data Mondays, Wednesdays, and Fridays (as of March 29, 2022).~~ ~~Providing data Monday-Friday.~~
 * Iowa: Providing data once weekly (day of the week TBC).
 * Kansas: Providing data once per week (Wednesdays).~~Providing data once per week (Fridays) (as of April 1, 2022).~~ ~~Providing data Monday, Wednesdays, and Fridays.~~ No data for the weekend of August 22-23.
 * Kentucky: Providing data once per week on Mondays (as of March 7, 2022). ~~Providing data Monday-Friday.~~
@@ -660,6 +660,7 @@ United States
 * Nebraska: Providing state level data only Monday-Friday (in composite with CDC reporting).~~Providing data Monday-Friday (as of 9/25/2021).~~ ~~Providing data Wednedays only (as of 8/11/2021)~~
 * Nevada: Providing data once per week (Wednesdays) (as of March 16, 2022). ~~Providing data Monday-Friday.~~
 * New Hampshire: Providing data once weekly (Thursdays) as of May 16, 2022. ~~Providing data Monday-Friday.~~
+* New Jersey: Provoding data Monday-Friday (as of October 14, 2022).
 * New Mexico: Providing data Monday-Friday.
 * New York: Providing case data Monday-Sunday, providing death data Monday-Friday (as of September 9, 2022).
 * New York City: ~~Providing data Monday-Friday.~~ Providing data seven days a week (as of January 4, 2022).
