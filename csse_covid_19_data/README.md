@@ -642,13 +642,13 @@ United States
 * Georgia: Providing data once per week (Wednesdays) (as of April 20, 2022).~~Providing data Monday-Friday.~~
 * Guam: Providing data Monday-Friday.
 * Hawaii: Providing data once per week (Wednesdays) (as of March 9, 2022).
-* Idaho: Porviding data Monday, Wednesday, and Friday (as of April 20, 2022). ~~Providing data Monday-Friday. Providing data Monday-Saturday (as of November 6, 2021).Providing data daily (as of 9/11/2021).Providing data Monday-Friday.~~
+* Idaho: Providing data once weekly (Wednesdays) (as of October 17, 2022). ~~Providing data Monday, Wednesday, and Friday (as of April 20, 2022).~~ ~~Providing data Monday-Friday. Providing data Monday-Saturday (as of November 6, 2021).Providing data daily (as of 9/11/2021).Providing data Monday-Friday.~~
 * Illinois: Providing data Monday-Friday.
 * Indiana: Providing data once weekly (Wednesday) (as of October 1, 2022). ~~Providing data Mondays, Wednesdays, and Fridays (as of March 29, 2022).~~ ~~Providing data Monday-Friday.~~
 * Iowa: Providing data once weekly (day of the week TBC).
 * Kansas: Providing data once per week (Wednesdays).~~Providing data once per week (Fridays) (as of April 1, 2022).~~ ~~Providing data Monday, Wednesdays, and Fridays.~~ No data for the weekend of August 22-23.
 * Kentucky: Providing data once per week on Mondays (as of March 7, 2022). ~~Providing data Monday-Friday.~~
-* Louisiana: Providing data Monday-Friday.
+* Louisiana: Providing data once weekly (Wednesdays) (as of October 14, 2022). ~~Providing data Monday-Friday.~~
 * Maine: Providing data Tuesday-Saturday.
 * Maryland: Providing data Monday-Friday (as of April 3, 2022).
 * Massachuetts: Providing data once weekly (Thursdays) (as of July 11, 2022). ~~Providing data Monday-Friday.~~
