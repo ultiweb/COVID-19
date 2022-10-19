@@ -81,7 +81,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Idaho: [State Government](https://coronavirus.idaho.gov/)
   - Illinois: [Department of Public Health](https://dph.illinois.gov/covid19)
   - Indiana: [Department of Health](https://hub.mph.in.gov/dataset?q=COVID)
-  - Iowa: [State Government](https://coronavirus.iowa.gov/)
+  - Iowa: [State Government](https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus/COVID-19-Reporting)
   - Kansas: [Department Of Health And Environment](https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas)
     - [Douglas County](https://coronavirus-response-dgco.hub.arcgis.com/)
     - [Finney County](https://finney-county-coronavirus-response-finneycountygis.hub.arcgis.com/)
