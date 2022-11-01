@@ -722,6 +722,7 @@ For all international locations, compositing with the reporting of the World Hea
 * Germany: Providing data Monday-Friday.
 * Honduras: Providing data Monday-Friday.
 * Ireland: Providing death data once weekly.
+* Italy: Providing data once weekly (Fridays).
 * Luxembourg: Not providing actionable data on weekends.
 * Mexico: Providing data once weekly. Beginning November 10, recoveries are available at the national level only and will be grouped in the "Unassigned, Mexico" entry.
 * Netherlands: Providing data Tuesdays and Fridays (as of September 1, 2022).
