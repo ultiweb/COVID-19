@@ -71,6 +71,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [Ventura County](https://www.venturacountyrecovers.org/)
     - [Yolo County](https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/)
   - Colorado: [Department of Public Health and Environment](https://covid19.colorado.gov/covid-19-data)
+    - [Colorado Department of Public Health and Environment Open Data Portal](https://data-cdphe.opendata.arcgis.com/datasets/CDPHE::colorado-covid-19-positive-cases-and-rates-of-infection-by-county-of-identification/explore?location=38.980312%2C-105.550873%2C7.30)
   - Connecticut: [Department of Public Health](https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/)
   - Delaware: [Emergency Management Agency](https://coronavirus.delaware.gov/)
   - District of Columbia: [Government of The District of Columbia](https://coronavirus.dc.gov/page/coronavirus-data)
