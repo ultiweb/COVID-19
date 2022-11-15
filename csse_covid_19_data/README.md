@@ -682,7 +682,7 @@ United States
 * Nebraska: Providing state level data only Monday-Friday (in composite with CDC reporting).~~Providing data Monday-Friday (as of 9/25/2021).~~ ~~Providing data Wednedays only (as of 8/11/2021)~~
 * Nevada: Providing data once per week (Wednesdays) (as of March 16, 2022). ~~Providing data Monday-Friday.~~
 * New Hampshire: Providing data once weekly (Thursdays) as of May 16, 2022. ~~Providing data Monday-Friday.~~
-* New Jersey: Provoding data Monday-Friday (as of October 14, 2022).
+* New Jersey: Provoding data Monday-Friday (as of November 2, 2022).
 * New Mexico: Providing data Monday-Friday.
 * New York: Providing case data Monday-Sunday, providing death data Monday-Friday (as of September 9, 2022).
 * New York City: ~~Providing data Monday-Friday.~~ Providing data seven days a week (as of January 4, 2022).
