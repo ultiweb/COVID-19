@@ -198,7 +198,6 @@ This list includes a complete list of all sources ever used in the data set, sin
       - Region of Halton: https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus   
     - Government of Prince Edward Island: https://www.princeedwardisland.ca/en/information/health-and-wellness/pei-covid-19-case-data
     - Government of Quebec: https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/situation-coronavirus-in-quebec/
-    - Government of Yukon: https://yukon.ca/en/case-counts-covid-19
     - Nunavut Department of Health: https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus
   - Chile: 
     - Ministry of Health: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/

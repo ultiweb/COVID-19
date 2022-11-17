@@ -463,6 +463,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * November 10, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
 * November 10, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * November 11, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-11-10  | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* November 15, 2022 | United Kingdom | Corrected from 2020-01-30 to 2022-11-14 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -682,7 +683,7 @@ United States
 * Nebraska: Providing state level data only Monday-Friday (in composite with CDC reporting).~~Providing data Monday-Friday (as of 9/25/2021).~~ ~~Providing data Wednedays only (as of 8/11/2021)~~
 * Nevada: Providing data once per week (Wednesdays) (as of March 16, 2022). ~~Providing data Monday-Friday.~~
 * New Hampshire: Providing data once weekly (Thursdays) as of May 16, 2022. ~~Providing data Monday-Friday.~~
-* New Jersey: Provoding data Monday-Friday (as of October 14, 2022).
+* New Jersey: Provoding data Monday-Friday (as of November 2, 2022).
 * New Mexico: Providing data Monday-Friday.
 * New York: Providing case data Monday-Sunday, providing death data Monday-Friday (as of September 9, 2022).
 * New York City: ~~Providing data Monday-Friday.~~ Providing data seven days a week (as of January 4, 2022).
@@ -701,7 +702,7 @@ United States
 * Utah: Providing data once weekly (Thursdays) (as of March 31, 2022). ~~Providing data Monday-Friday.~~
 * Vermont: Providing data once per week (Wednesdays) (as of May 19, 2022). ~~Providing data daily (as of August 21, 2021).~~ ~~Providing data Monday-Friday.~~
 * Virginia: Providing data Monday-Friday.
-* Washington: Did not update October 10-12 due to data entry issue. ~~As of December 20, only updating Monday-Saturday. As of August 1, only updating Monday-Friday.~~ As of January 25, 2022, only updating Monday, Wednesday, and Friday.
+* Washington: Providing data once per week (Wednesdays) as of November 2, 2022. Did not update October 10-12 due to data entry issue. ~~As of December 20, only updating Monday-Saturday. As of August 1, only updating Monday-Friday.~~ ~~As of January 25, 2022, only updating Monday, Wednesday, and Friday.~~
 * West Virginia: Providing data Monday-Friday (as of March 14th, 2022). ~~Providing data daily.~~ ~~Providing data Monday-Friday.~~
 * Wisconsin: Providing data Monday-Friday.
 * Wyoming: Providing data once per week (Tuesdays). ~~Providing data twice a week (Tuesdays and Fridays) (as of March 11, 2022).~~ ~~Providing data Monday-Friday.~~
