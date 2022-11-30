@@ -92,6 +92,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Louisiana: [Department of Health](http://ldh.la.gov/coronavirus/)
   - Maine: [Department of Health and Human Services](https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus/data.shtml)
   - Maryland: [Department of Health](https://coronavirus.maryland.gov/)
+    - [State GitHub](https://state-of-maryland.github.io/COVID/SurveillanceDashboard/DashboardBlackBox/CasesBlackboxStats1.html)
   - Massachusetts: [Department of Public Health](https://www.mass.gov/info-details/covid-19-response-reporting)
   - Michigan: [Michigan.gov](https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html )
   - Minnesota: [Department of Health](https://www.health.state.mn.us/diseases/coronavirus/situation.html)
