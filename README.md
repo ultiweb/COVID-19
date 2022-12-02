@@ -252,7 +252,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Civil Protection Department: https://github.com/pcm-dpc/COVID-19/tree/master/
     - Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
   - Japan: 
-    - NHK: https://www3.nhk.or.jp/news/special/coronavirus/data/
+    - MHLW: https://covid19.mhlw.go.jp/extensions/public/en/index.html
   - Jordan:
     - Ministry of Health: https://corona.moh.gov.jo/en
   - Kazakhstan: 
