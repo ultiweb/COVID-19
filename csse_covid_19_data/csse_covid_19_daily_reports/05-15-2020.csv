@@ -2329,7 +2329,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 6073,San Diego,California,US,2020-05-16 02:32:19,33.03484597,-116.7365326,5523,200,0,5323,"San Diego, California, US"
 6075,San Francisco,California,US,2020-05-16 02:32:19,37.75215114,-122.4385672,2062,36,0,2026,"San Francisco, California, US"
 48407,San Jacinto,Texas,US,2020-05-16 02:32:19,30.57933681,-95.16260304,11,0,0,12,"San Jacinto, Texas, US"
-6077,San Joaquin,California,US,2020-05-16 02:32:19,37.93433732,-121.2730061,659,32,0,628,"San Joaquin, California, US"
+6077,San Joaquin,California,US,2020-05-16 02:32:19,37.93433732,-121.2730061,658,32,0,628,"San Joaquin, California, US"
 8111,San Juan,Colorado,US,2020-05-16 02:32:19,37.76248981,-107.67632890000002,2,0,0,1,"San Juan, Colorado, US"
 35045,San Juan,New Mexico,US,2020-05-16 02:32:19,36.50838318,-108.320437,1274,84,0,1190,"San Juan, New Mexico, US"
 49037,San Juan,Utah,US,2020-05-16 02:32:19,37.62762978,-109.80337140000002,159,4,0,155,"San Juan, Utah, US"
