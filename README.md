@@ -29,6 +29,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - World Health Organization (WHO): https://www.who.int/
   - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
   - DXY.cn. Pneumonia. 2020. https://ncov.dxy.cn/ncovh5/view/pneumonia?from=dxy&source=&link=&share=
+  - QQ News https://news.qq.com/zt2020/page/feiyan.htm#/
   - US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html
   - BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
   - WorldoMeters: https://www.worldometers.info/coronavirus/  
@@ -204,8 +205,9 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Ministry of Health: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
     - Ministry of Communications: https://www.gob.cl/coronavirus/cifrasoficiales/
   - China:
-    - National Health Commission of the People’s Republic of China (NHC): http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml
-    - China CDC (CCDC): http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm
+    - qq.com: https://news.qq.com/zt2020/page/feiyan.htm#/
+    - ~~National Health Commission of the People’s Republic of China (NHC): http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml~~
+    - ~~China CDC (CCDC): http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm~~
   - Colombia:
     - National Institute of Health: http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
   - Czech Republic (Czechia):
