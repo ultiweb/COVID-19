@@ -238,7 +238,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - The Government of The Hong Kong Special Administrative Region Website: https://www.chp.gov.hk/en/features/102465.html
     - The Government of The Hong Kong Special Administrative Region Dashboard: https://chp-dashboard.geodata.gov.hk/covid-19/en.html
   - Hungary:
-    - Government of Hungary: https://koronavirus.gov.hu/
+    - ~~Government of Hungary: https://koronavirus.gov.hu/~~ Discontinued 01/03/2023
   - Iceland:
     - Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
   - India:
