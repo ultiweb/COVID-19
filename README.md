@@ -127,7 +127,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [Chester County](https://chesco.maps.arcgis.com/apps/opsdashboard/index.html#/975082d579454c3ca7877db0a44e61ca)
   - Puerto Rico: [Departamento de Salud](https://covid19datos.salud.gov.pr/)
   - Rhode Island: [Department of Health](https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/)
-  - South Carolina: [Department of Health and Environmental Control](https://scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/sc-testing-data-projections-covid-19)
+  - South Carolina: [Department of Health and Environmental Control](https://scdhec.gov/covid19/covid-19-data)
   - South Dakota: [Department of Health](https://doh.sd.gov/news/coronavirus.aspx)
   - Tennessee: [Department of Health](https://www.tn.gov/health/cedep/ncov.html)
   - Texas: [Department of State Health Services](https://dshs.texas.gov/coronavirus/)
