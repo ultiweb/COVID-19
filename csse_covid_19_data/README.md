@@ -498,6 +498,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * December 29, 2022 | Germany | Corrected from 2020-03-04 to 2022-12-28  | [Data Source](https://www.rki.de/EN/Content/infections/epidemiology/outbreaks/COVID-19/Situationsberichte_Tab.html)
 * December 29, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
 * December 29, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* January 04, 2023 | Tennessee, US | Corrected from 2020-03-12 to 2023-01-03 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -735,7 +736,7 @@ United States
 * Texas: Providing data once weekly (Mondays) (as of November 30, 2022). ~~Providing data Monday, Wednesday, and Friday (as of September 12, 2022).~~ ~~Providing data Monday-Friday (as of August 1, 2022).~~
 * Utah: Providing data once weekly (Thursdays) (as of March 31, 2022). ~~Providing data Monday-Friday.~~
 * Vermont: Providing data once per week (Wednesdays) (as of May 19, 2022). ~~Providing data daily (as of August 21, 2021).~~ ~~Providing data Monday-Friday.~~
-* Virginia: Providing data Monday-Friday.
+* Virginia: Providing data once weekly (Tuesdays) (as of December 27, 2022). ~~Providing data Monday-Friday.~~
 * Washington: Providing data once per week (Wednesdays) as of November 2, 2022. Did not update October 10-12 due to data entry issue. ~~As of December 20, only updating Monday-Saturday. As of August 1, only updating Monday-Friday.~~ ~~As of January 25, 2022, only updating Monday, Wednesday, and Friday.~~
 * West Virginia: Providing data Monday-Friday (as of March 14th, 2022). ~~Providing data daily.~~ ~~Providing data Monday-Friday.~~
 * Wisconsin: Providing data Monday-Friday.
