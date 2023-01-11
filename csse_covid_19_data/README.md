@@ -504,6 +504,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * January 05, 2023 | China | Corrected from 2022-12-18 to 2023-01-04 | [Data Source](https://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/index.html)
 * January 06, 2023 | North Dakota, US | Corrected from 2020-03-09 to 2023-01-05  | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
 * January 10, 2023 | United Kingdom | Corrected from 2020-01-30 to 2023-01-09 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* January 11, 2023 | Tennessee, US | Corrected from 2020-03-12 to 2023-01-10 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
