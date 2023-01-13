@@ -506,6 +506,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * January 10, 2023 | United Kingdom | Corrected from 2020-01-30 to 2023-01-09 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
 * January 11, 2023 | Tennessee, US | Corrected from 2020-03-12 to 2023-01-10 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
 * January 12, 2023 | Douglas, Kansas, US | Corrected from 2020-11-10 to 2023-01-11 | Aligning Douglas county data with values reported to Kansas DOH [Data Source](https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas)
+* January 12, 2023 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
