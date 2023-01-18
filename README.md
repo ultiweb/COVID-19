@@ -88,7 +88,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [Douglas County](https://coronavirus-response-dgco.hub.arcgis.com/)
     - [Finney County](https://finney-county-coronavirus-response-finneycountygis.hub.arcgis.com/)
     - [Riley County](https://coronavirus-response-rcitgis.hub.arcgis.com/)
-    - [Reno County](https://experience.arcgis.com/experience/9a7d44773e4c4a48b3e09e4d8673961b/page/page_18/)
+    - ~~[Reno County](https://experience.arcgis.com/experience/9a7d44773e4c4a48b3e09e4d8673961b/page/page_18/)~~
   - Kentucky: [Department of Public Health](https://kygeonet.maps.arcgis.com/apps/opsdashboard/index.html#/543ac64bc40445918cf8bc34dc40e334)
   - Louisiana: [Department of Health](http://ldh.la.gov/coronavirus/)
   - Maine: [Department of Health and Human Services](https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus/data.shtml)
