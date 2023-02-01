@@ -3517,7 +3517,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 48349,Navarro,Texas,US,2022-04-26 04:20:51,32.04620681,-96.47428766,12446,219,,,"Navarro, Texas, US",24835.87093169437,1.7596014783866303
 48351,Newton,Texas,US,2022-04-26 04:20:51,30.78548982,-93.74408813,1365,61,,,"Newton, Texas, US",10040.456050018387,4.468864468864469
 48353,Nolan,Texas,US,2022-04-26 04:20:51,32.30365282,-100.4060208,3062,99,,,"Nolan, Texas, US",20810.112817724617,3.233180927498367
-48355,Nueces,Texas,US,2022-04-26 04:20:51,27.736286,-97.5433285,99774,1492,,,"Nueces, Texas, US",27539.51210895019,1.4953795578006295
+48355,Nueces,Texas,US,2022-04-26 04:20:51,27.736286,-97.5433285,82690,1276,,,"Nueces, Texas, US",27539.51210895019,1.4953795578006295
 48357,Ochiltree,Texas,US,2022-04-26 04:20:51,36.27829105,-100.8158184,2423,48,,,"Ochiltree, Texas, US",24633.99755998373,1.9810152703260422
 48359,Oldham,Texas,US,2022-04-26 04:20:51,35.40425596,-102.6027606,565,6,,,"Oldham, Texas, US",26751.89393939394,1.0619469026548674
 48361,Orange,Texas,US,2022-04-26 04:20:51,30.11879481,-93.89412775,14951,355,,,"Orange, Texas, US",17927.71835579644,2.3744231155106683
@@ -3986,7 +3986,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,British Virgin Islands,United Kingdom,2022-04-26 04:20:51,18.4207,-64.64,6296,62,,,"British Virgin Islands, United Kingdom",20822.17151172405,0.9847522236340533
 ,,Cayman Islands,United Kingdom,2022-04-26 04:20:51,19.3133,-81.2546,21755,27,,,"Cayman Islands, United Kingdom",33102.55629945222,0.12410940013789934
 ,,Channel Islands,United Kingdom,2022-04-26 04:20:51,49.3723,-2.3644,0,0,,,"Channel Islands, United Kingdom",0.0,
-,,England,United Kingdom,2022-04-26 04:20:51,52.3555,-1.1743,18489342,167202,,,"England, United Kingdom",33030.13012440779,0.8167137586616117
+,,England,United Kingdom,2022-04-26 04:20:51,52.3555,-1.1743,18489342,167214,,,"England, United Kingdom",33030.13012440779,0.8167137586616117
 ,,Falkland Islands (Malvinas),United Kingdom,2022-04-26 04:20:51,-51.7963,-59.5236,152,0,,,"Falkland Islands (Malvinas), United Kingdom",4364.0539764570785,0.0
 ,,Gibraltar,United Kingdom,2022-04-26 04:20:51,36.1408,-5.3536,17706,102,,,"Gibraltar, United Kingdom",52554.09456531418,0.5760759064723823
 ,,Guernsey,United Kingdom,2022-04-26 04:20:51,49.448196,-2.58949,24201,43,,,"Guernsey, United Kingdom",38414.28571428572,0.17767860832197016
@@ -3995,7 +3995,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Montserrat,United Kingdom,2022-04-26 04:20:51,16.742498,-62.187366000000004,207,2,,,"Montserrat, United Kingdom",4140.828165633126,0.966183574879227
 ,,Northern Ireland,United Kingdom,2022-04-26 04:20:51,54.7877,-6.4923,705790,4580,,,"Northern Ireland, United Kingdom",37510.097789115636,0.4830048598024908
 ,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,2022-04-26 04:20:51,-7.9467,-14.3559,4,0,,,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",70.65889418830595,0.0
-,,Scotland,United Kingdom,2022-04-26 04:20:51,56.4907,-4.2026,1911485,14553,,,"Scotland, United Kingdom",34987.736349825194,0.6254299667535973
+,,Scotland,United Kingdom,2022-04-26 04:20:51,56.4907,-4.2026,1911485,14552,,,"Scotland, United Kingdom",34987.736349825194,0.6254299667535973
 ,,Turks and Caicos Islands,United Kingdom,2022-04-26 04:20:51,21.69400000000001,-71.7979,5941,36,,,"Turks and Caicos Islands, United Kingdom",15344.284312206208,0.6059585928294899
 ,,Unknown,United Kingdom,2022-04-26 04:20:51,,,0,290,,,"Unknown, United Kingdom",,
 ,,Wales,United Kingdom,2022-04-26 04:20:51,52.1307,-3.7837,871581,10252,,,"Wales, United Kingdom",27769.738099789723,0.8403120306661114
