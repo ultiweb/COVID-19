@@ -523,7 +523,8 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * January 27, 2023 | North Dakota, US | Corrected from 2020-03-09 to 2023-01-26  | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
 * January 31, 2023 | United Kingdom | Corrected from 2020-01-30 to 2023-01-30 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
 * February 01, 2023 | Nueces, Texas, US | Corrected data from 2020-01-22 to 2023-01-31 | [Data Source](https://www.dshs.texas.gov/covid-19-coronavirus-disease-2019/texas-covid-19-data)
-* February 01 2023 | Tennessee, US | Corrected from 2020-03-12 to 2023-01-31 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* February 01, 2023 | Tennessee, US | Corrected from 2020-03-12 to 2023-01-31 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* February 02, 2023 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
