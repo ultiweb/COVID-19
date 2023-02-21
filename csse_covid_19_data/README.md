@@ -748,7 +748,7 @@ United States
 * Kansas: Providing data once per week (Wednesdays).~~Providing data once per week (Fridays) (as of April 1, 2022).~~ ~~Providing data Monday, Wednesdays, and Fridays.~~ No data for the weekend of August 22-23.
 * Kentucky: Providing data once per week on Mondays (as of March 7, 2022). ~~Providing data Monday-Friday.~~
 * Louisiana: Providing data once weekly (Wednesdays) (as of October 14, 2022). ~~Providing data Monday-Friday.~~
-* Maine: Providing data Tuesday-Saturday.
+* Maine: Providing data once weekly (Tuesdays) (as of February 21, 2023). ~~Providing data Tuesday-Saturday.~~
 * Maryland: Providing data Monday-Friday (as of April 3, 2022).
 * Massachuetts: Providing data once weekly (Thursdays) (as of July 11, 2022). ~~Providing data Monday-Friday.~~
 * Michigan: Providing data once per week (Wednesdays) (as of April 4, 2022). ~~Providing data Mondays, Wednesdays, and Fridays (as of August 9, 2021).~~ ~~Providing data Tuesdays and Fridays (as of 07/07/2021)~~. No case data provided for August 21.
