@@ -138,6 +138,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [Collin County](https://www.collincountytx.gov/healthcare_services/Pages/news.aspx)
     - [Corpus Christi](https://www.cctexas.com/coronavirus)
     - [Denton County](https://gis-covid19-dentoncounty.hub.arcgis.com/pages/covid-19cases)
+      - Note: The dashboard includes cases identified via at-home antigen tests in the case total. We exlcude these cases from our reported total.
     - [Ector County](http://www.co.ector.tx.us/page/ector.CoronavirusCOVID19)
     - [City of El Paso](http://epstrong.org/results.php)
     - [Fayette County](https://www.co.fayette.tx.us/)
