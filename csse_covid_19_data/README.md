@@ -551,6 +551,8 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * March 03, 2023 | North Dakota, US | Corrected from 2020-03-09 to 2023-03-02  | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
 * March 08, 2023 | Tennessee, US | Corrected from 2020-03-12 to 2023-03-07 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
 * March 08, 2023 | Shasta, California, US | Corrected from 2020-02-01 to 2023-03-07 to align with data provided by CDPH [Data Source](https://data.chhs.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state/resource/046cdd2b-31e5-4d34-9ed3-b48cdbc4be7a)
+* March 09, 2023 | United Kingdom | Corrected from 2020-01-30 to 2023-03-08 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* March 02, 2023 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
